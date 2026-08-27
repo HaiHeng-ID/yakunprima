@@ -103,7 +103,7 @@
       const p = prods[item.sku];
       return `${i + 1}. ${item.sku} — ${p ? pName(p) : ''} × ${item.qty}`;
     });
-    return t('quoteMsg') + '\n' + lines.join('\n');
+    return '【官网·询价单】' + t('quoteMsg') + '\n' + lines.join('\n');
   }
 
   function sendCartWA() {
@@ -156,7 +156,7 @@
         </div>
         <div class="p-price-row">${priceHtml}</div>
         <div class="p-actions">
-          <a class="btn btn-wa btn-sm" href="https://wa.me/${WA}?text=${encodeURIComponent('Halo, saya tertarik dengan ' + p.sku + '. Mohon info harga grosir.')}" target="_blank" rel="noopener">💬 ${esc(t('waInquiry'))}</a>
+          <a class="btn btn-wa btn-sm" href="https://wa.me/${WA}?text=${encodeURIComponent('【官网·产品卡】Halo, saya tertarik dengan ' + p.sku + '. Mohon info harga grosir.')}" target="_blank" rel="noopener">💬 ${esc(t('waInquiry'))}</a>
           <button class="btn btn-quote btn-sm" data-addquote="${esc(p.sku)}" data-qty="${p.qty || p.moq || 1}">+ ${esc(t('addQuote'))}</button>
         </div>
       </div>
@@ -301,7 +301,7 @@
           else show(t('formError'), false);
         }).catch(() => show(t('formError'), false));
       } else {
-        const text = `Halo, saya ${nama} (${kontak}).\n${pesan}`;
+        const text = `【官网·表单】Halo, saya ${nama} (${kontak}).\n${pesan}`;
         window.open('https://wa.me/' + WA + '?text=' + encodeURIComponent(text), '_blank');
         show('✅ ' + t('formSuccess'), true);
         form.reset();

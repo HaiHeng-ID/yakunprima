@@ -14,6 +14,16 @@ const brand = SITE.brand;
 const DOMAIN = 'https://yakunprima.com';
 const OUT = path.join(__dirname, 'public');
 
+// ============ WhatsApp 来源标记（询盘归因） ============
+const WA_SRC = {
+  hero: '【官网·首页】',
+  float: '【官网·悬浮按钮】',
+  card: '【官网·产品卡】',
+  cat: '【官网·品类页】',
+  detail: '【官网·详情页】',
+};
+const waMsg = (src, text) => WA_SRC[src] + ' ' + text;
+
 // ============ utils ============
 const esc = s => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const rp = n => (n ? 'Rp ' + n.toLocaleString('id-ID') : '');
@@ -57,7 +67,7 @@ function productCard(p, base) {
       </div>
       <div class="p-price-row">${priceHtml}</div>
       <div class="p-actions">
-        <a class="btn btn-wa btn-sm" href="https://wa.me/${brand.wa}?text=${encodeURIComponent('Halo, saya tertarik dengan ' + p.sku + '. Mohon info harga grosir.')}" target="_blank" rel="noopener">💬 <span data-i18n="waInquiry">WhatsApp</span></a>
+        <a class="btn btn-wa btn-sm" href="https://wa.me/${brand.wa}?text=${encodeURIComponent(waMsg('card', 'Halo, saya tertarik dengan ' + p.sku + '. Mohon info harga grosir.'))}" target="_blank" rel="noopener">💬 <span data-i18n="waInquiry">WhatsApp</span></a>
         <button class="btn btn-quote btn-sm" data-addquote="${esc(p.sku)}" data-qty="${p.qty || p.moq || 1}">+ <span data-i18n="addQuote">Tambah ke Daftar</span></button>
       </div>
     </div>
@@ -143,7 +153,7 @@ function footer(base) {
 
 function floatBtns() {
   return `
-<a class="wa-float" href="https://wa.me/${brand.wa}?text=${encodeURIComponent('Halo, saya ingin bertanya tentang produk Anda.')}" target="_blank" rel="noopener" aria-label="WhatsApp">
+<a class="wa-float" href="https://wa.me/${brand.wa}?text=${encodeURIComponent(waMsg('float', 'Halo, saya ingin bertanya tentang produk Anda.'))}" target="_blank" rel="noopener" aria-label="WhatsApp">
   <svg viewBox="0 0 32 32" width="26" height="26"><path fill="#fff" d="M16 3C9.4 3 4 8.4 4 15c0 2.6.9 5.1 2.3 7L4 29l7.2-2.3c1.5.8 3.1 1.3 4.8 1.3 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.8c-1.6 0-3.1-.4-4.4-1.2l-.3-.2-4.3 1.4 1.4-4.2-.2-.3c-.9-1.4-1.4-3-1.4-4.6 0-5 4.1-9.2 9.2-9.2s9.2 4.1 9.2 9.2-4.1 9.1-9.2 9.1zm5-6.9c-.3-.1-1.7-.8-1.9-.9-.3-.1-.5-.1-.7.1-.2.3-.8.9-.9 1.1-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6l.5-.6c.2-.2.2-.3.3-.5.1-.2 0-.4 0-.6-.1-.2-.7-1.7-1-2.3-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.1-.3-.2-.6-.3z"/></svg>
   <span class="wa-tip" data-i18n="waFloat">WhatsApp</span>
 </a>
@@ -219,7 +229,7 @@ function buildIndex() {
       <p class="hero-sub" data-i18n="heroSubtitle">Speaker · Kabel · Charger · Lampu Kepala · Pompa · Kotak Tisu · Setrika</p>
       <p class="hero-value" data-i18n="heroValue">Grosir campuran & dropship · Melayani kota-kota di Indonesia</p>
       <div class="hero-cta">
-        <a class="btn btn-wa btn-lg" href="https://wa.me/${brand.wa}?text=${encodeURIComponent('Halo, saya ingin minta daftar harga grosir.')}" target="_blank" rel="noopener" data-i18n="ctaQuote">💬 WhatsApp Penawaran</a>
+        <a class="btn btn-wa btn-lg" href="https://wa.me/${brand.wa}?text=${encodeURIComponent(waMsg('hero', 'Halo, saya ingin minta daftar harga grosir.'))}" target="_blank" rel="noopener" data-i18n="ctaQuote">💬 WhatsApp Penawaran</a>
         <a class="btn btn-outline btn-lg" href="${base}products.html" data-i18n="ctaBrowse">Lihat Semua Produk</a>
       </div>
       <div class="hero-stats">
@@ -380,7 +390,7 @@ function buildCategory(c) {
       <h1 data-cat="${c.id}">${esc(catName(c, 'id'))}</h1>
       <p data-cat-desc="${c.id}">${esc(c.desc.id || '')}</p>
     </div>
-    <a class="btn btn-wa" href="https://wa.me/${brand.wa}?text=${encodeURIComponent('Halo, saya tertarik dengan ' + catName(c, 'id') + '. Mohon penawaran grosir.')}" target="_blank" rel="noopener">💬 <span data-i18n="waInquiry">WhatsApp</span></a>
+    <a class="btn btn-wa" href="https://wa.me/${brand.wa}?text=${encodeURIComponent(waMsg('cat', 'Halo, saya tertarik dengan ' + catName(c, 'id') + '. Mohon penawaran grosir.'))}" target="_blank" rel="noopener">💬 <span data-i18n="waInquiry">WhatsApp</span></a>
   </div>
   <div class="toolbar">
     <div class="search-box"><input type="search" id="searchInput" data-i18n-ph="searchPh" placeholder="Cari nama / SKU / spesifikasi…"></div>
@@ -468,7 +478,7 @@ function buildDetail(p) {
         </div>
       </div>` : ''}
       <div class="d-cta">
-        <a class="btn btn-wa btn-lg" href="https://wa.me/${brand.wa}?text=${encodeURIComponent('Halo, saya tertarik dengan ' + p.sku + ' (' + pName(p, 'id') + '). Mohon info harga grosir.')}" target="_blank" rel="noopener">💬 <span data-i18n="waInquiry">WhatsApp</span> — <span data-i18n="quoteNow">Minta Penawaran</span></a>
+        <a class="btn btn-wa btn-lg" href="https://wa.me/${brand.wa}?text=${encodeURIComponent(waMsg('detail', 'Halo, saya tertarik dengan ' + p.sku + ' (' + pName(p, 'id') + '). Mohon info harga grosir.'))}" target="_blank" rel="noopener">💬 <span data-i18n="waInquiry">WhatsApp</span> — <span data-i18n="quoteNow">Minta Penawaran</span></a>
         <button class="btn btn-quote btn-lg" data-addquote="${esc(p.sku)}" data-qty="${p.qty || p.moq || 1}">+ <span data-i18n="addQuote">Tambah ke Daftar</span></button>
       </div>
     </div>

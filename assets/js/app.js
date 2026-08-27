@@ -386,7 +386,7 @@
     entries.forEach(en => {
       if (en.isIntersecting) { en.target.classList.add('in'); io.unobserve(en.target); }
     });
-  }, { threshold: 0.1, rootMargin: '0px 0px -6% 0px' });
+  }, { threshold: 0, rootMargin: '0px 0px -30px 0px' });
   $$('.reveal').forEach(el => io.observe(el));
 
   // ============ 数字滚动 ============
@@ -408,7 +408,7 @@
     entries.forEach(en => {
       if (en.isIntersecting) { countUp(en.target); statsIO.unobserve(en.target); }
     });
-  }, { threshold: 0.4 });
+  }, { threshold: 0.1 });
   $$('[data-count]').forEach(el => statsIO.observe(el));
 
   // ============ 初始化 ============

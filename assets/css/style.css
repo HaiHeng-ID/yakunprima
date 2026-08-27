@@ -90,8 +90,8 @@ button { font-family: inherit; cursor: pointer; }
 .stat-lbl { font-size: .8em; opacity: .65; margin-top: 2px; letter-spacing: .5px; }
 
 /* ============ Hero 悬浮产品卡（桌面视觉锚点） ============ */
-.hero-anchor { position: absolute; right: max(4vw, calc(50% - 660px)); top: 46%; transform: translateY(-50%) rotate(4deg); z-index: 2; width: 216px; display: none; }
-@media (min-width: 1100px) { .hero-anchor { display: block; } }
+.hero-anchor { position: absolute; right: 36px; top: 42%; transform: translateY(-50%) rotate(4deg); z-index: 2; width: 210px; display: none; }
+@media (min-width: 1280px) { .hero-anchor { display: block; } }
 .hero-anchor-inner { background: #fff; border-radius: 16px; overflow: hidden; box-shadow: 0 24px 60px rgba(0, 0, 0, .35); transition: transform .3s; display: block; }
 .hero-anchor:hover { transform: translateY(-50%) rotate(0deg) scale(1.03); }
 .hero-anchor img { width: 100%; aspect-ratio: 1/1; object-fit: contain; padding: 12px; background: linear-gradient(160deg, #fbfcfe, #f1f4f8); }

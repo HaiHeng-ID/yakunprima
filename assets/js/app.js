@@ -79,7 +79,7 @@
           <div class="cart-item-sku">${esc(item.sku)}</div>
           <div class="cart-qty">
             <button data-cart-dec="${esc(item.sku)}" aria-label="-">−</button>
-            <b>${item.qty}</b>
+            <input class="cart-qty-input" type="number" min="1" step="1" inputmode="numeric" value="${item.qty}" data-cart-input="${esc(item.sku)}" aria-label="qty">
             <button data-cart-inc="${esc(item.sku)}" aria-label="+">+</button>
           </div>
         </div>
@@ -363,6 +363,25 @@
       if (addBtn && qty) addBtn.setAttribute('data-qty', qty);
       return;
     }
+  });
+
+  // 数量输入框：实时更新购物车数据（不重渲染，避免丢焦点）
+  document.addEventListener('input', ev => {
+    const inp = ev.target.closest('[data-cart-input]');
+    if (!inp) return;
+    const it = cart.find(i => i.sku === inp.getAttribute('data-cart-input'));
+    if (!it) return;
+    const v = parseInt(inp.value, 10);
+    it.qty = (isNaN(v) || v < 1) ? 1 : v;
+    saveCart();
+    updateBadge();
+  });
+  // 离开输入框时归一化显示
+  document.addEventListener('change', ev => {
+    const inp = ev.target.closest('[data-cart-input]');
+    if (!inp) return;
+    inp.value = Math.max(1, parseInt(inp.value, 10) || 1);
+    renderCart();
   });
 
   const menuBtn = $('#menuBtn');

@@ -310,6 +310,9 @@ button { font-family: inherit; cursor: pointer; }
 .cart-qty button { width: 26px; height: 26px; border-radius: 50%; border: 1.5px solid var(--line); background: #fff; font-weight: 700; color: var(--navy); line-height: 1; }
 .cart-qty button:hover { border-color: var(--navy); }
 .cart-qty b { min-width: 32px; text-align: center; font-size: .9em; }
+.cart-qty-input { width: 54px; height: 30px; text-align: center; border: 1.5px solid var(--line); border-radius: 8px; font-family: inherit; font-size: .9em; font-weight: 600; color: var(--navy); background: #fff; -moz-appearance: textfield; appearance: textfield; }
+.cart-qty-input::-webkit-outer-spin-button, .cart-qty-input::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+.cart-qty-input:focus { outline: none; border-color: var(--orange); box-shadow: 0 0 0 3px rgba(255, 107, 26, .15); }
 .cart-item-rm { border: none; background: transparent; color: var(--muted); font-size: 1em; padding: 6px; }
 .cart-item-rm:hover { color: var(--red); }
 .cart-foot { padding: 16px 20px; border-top: 1px solid var(--line); display: flex; flex-direction: column; gap: 10px; }

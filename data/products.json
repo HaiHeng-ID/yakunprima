@@ -1,0 +1,4817 @@
+{
+ "meta": {
+  "generated": "2026-08-27T14:09:51.860Z",
+  "skuCount": 91,
+  "categoryCount": 7
+ },
+ "categories": [
+  {
+   "id": "speaker",
+   "icon": "🔊",
+   "order": 1,
+   "name": {
+    "zh": "音响",
+    "en": "Speaker",
+    "id": "Speaker"
+   },
+   "badge": {
+    "zh": "利润款",
+    "en": "High Margin",
+    "id": "Margin Tinggi"
+   },
+   "desc": {
+    "zh": "6.5寸/8寸/迷你/三角蓝牙音箱，Sing-e品牌",
+    "en": "6.5/8 inch/mini/triangle Bluetooth speakers, Sing-e",
+    "id": "Speaker Bluetooth 6.5/8 inci/mini/segitiga, Sing-e"
+   }
+  },
+  {
+   "id": "cable",
+   "icon": "🔗",
+   "order": 2,
+   "name": {
+    "zh": "数据线",
+    "en": "Data Cable",
+    "id": "Kabel Data"
+   },
+   "badge": {
+    "zh": "走量爆款",
+    "en": "High Volume",
+    "id": "Volume Tinggi"
+   },
+   "desc": {
+    "zh": "Type-C/USB-A/Lightning数据线，500条/件",
+    "en": "Type-C/USB-A/Lightning cables, 500pcs/ctn",
+    "id": "Kabel Type-C/USB-A/Lightning, 500pcs/karton"
+   }
+  },
+  {
+   "id": "charger",
+   "icon": "🔌",
+   "order": 3,
+   "name": {
+    "zh": "充电头",
+    "en": "Charger Head",
+    "id": "Kepala Charger"
+   },
+   "badge": {
+    "zh": "核心品类",
+    "en": "Core",
+    "id": "Inti"
+   },
+   "desc": {
+    "zh": "欧规充电头，AACCC/AACC/PD/氮化镓快充，ABS/PC",
+    "en": "EU charger heads, PD/GaN fast charging",
+    "id": "Kepala charger EU, fast charging PD/GaN"
+   }
+  },
+  {
+   "id": "light",
+   "icon": "🔦",
+   "order": 4,
+   "name": {
+    "zh": "头灯/照明",
+    "en": "Headlamp & Light",
+    "id": "Lampu Kepala"
+   },
+   "badge": {
+    "zh": "户外工具",
+    "en": "Outdoor Gear",
+    "id": "Perlengkapan Outdoor"
+   },
+   "desc": {
+    "zh": "LED头灯、太阳能灯、面包灯、伸缩头灯",
+    "en": "LED headlamps, solar lights, outdoor",
+    "id": "Lampu kepala LED, tenaga surya, outdoor"
+   }
+  },
+  {
+   "id": "pump",
+   "icon": "💧",
+   "order": 5,
+   "name": {
+    "zh": "水泵",
+    "en": "Water Pump",
+    "id": "Pompa Air"
+   },
+   "badge": {
+    "zh": "日用刚需",
+    "en": "Daily Essential",
+    "id": "Kebutuhan Harian"
+   },
+   "desc": {
+    "zh": "桶装水电动抽水泵，折叠/双钮/单钮，USB充电",
+    "en": "Electric gallon pump, foldable/dual/single, USB",
+    "id": "Pompa galon elektrik, lipat/ganda/tunggal, USB"
+   }
+  },
+  {
+   "id": "tissue",
+   "icon": "📦",
+   "order": 6,
+   "name": {
+    "zh": "纸巾盒",
+    "en": "Tissue Box",
+    "id": "Kotak Tisu"
+   },
+   "badge": {
+    "zh": "家居爆款",
+    "en": "Home Best Seller",
+    "id": "Best Seller Rumah"
+   },
+   "desc": {
+    "zh": "透明/咖啡/绿色纸巾盒，24pcs/件",
+    "en": "Tissue boxes, 24pcs/ctn",
+    "id": "Kotak tisu, 24pcs/karton"
+   }
+  },
+  {
+   "id": "iron",
+   "icon": "👕",
+   "order": 7,
+   "name": {
+    "zh": "熨斗",
+    "en": "Iron",
+    "id": "Setrika"
+   },
+   "badge": {
+    "zh": "家电",
+    "en": "Home Appliance",
+    "id": "Peralatan Rumah"
+   },
+   "desc": {
+    "zh": "手持熨斗，20pcs/件",
+    "en": "Handheld iron, 20pcs/ctn",
+    "id": "Setrika tangan, 20pcs/karton"
+   }
+  }
+ ],
+ "products": [
+  {
+   "sku": "HEKV-661A",
+   "slug": "hekv-661a",
+   "category": "speaker",
+   "name": {
+    "zh": "6.5寸音响 款式A",
+    "en": "6.5\" Speaker Model A",
+    "id": "Speaker 6.5 Inci"
+   },
+   "price": 75600,
+   "moq": 16,
+   "qty": 16,
+   "weight": "0.9095kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：塑胶+铁网",
+     "喇叭：6.5寸*1",
+     "功率：15W",
+     "电池：3.7V/2400mAh",
+     "功能：BT/USB/TF/FM/MIC/AUX/TWS/幻彩灯",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,有线话筒,遥控器,背带"
+    ],
+    "en": [
+     "Material: Plastic+Iron Mesh",
+     "Speaker: 6.5\"*1",
+     "Power: 15W",
+     "Battery: 3.7V/2400mAh",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWS/RGB Light",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Wired Mic,Remote,Shoulder Strap"
+    ],
+    "id": [
+     "Bahan: Plastik + Jaring Besi",
+     "Speaker: 6.5 Inci*1",
+     "Daya: 15W",
+     "Baterai: 3.7V/2400mAh",
+     "Fungsi: BT/USB/TF/FM/MIC/AUX/TWS/Lampu RGB",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Mikrofon Kabel, Remote, Tali Punggung"
+    ]
+   },
+   "images": [
+    "HEKV-661A.jpg"
+   ]
+  },
+  {
+   "sku": "HEKV-661B",
+   "slug": "hekv-661b",
+   "category": "speaker",
+   "name": {
+    "zh": "6.5寸音响 款式B",
+    "en": "6.5\" Speaker Model B",
+    "id": "Speaker 6.5 Inci"
+   },
+   "price": 75600,
+   "moq": 16,
+   "qty": 16,
+   "weight": "1.0444kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：塑胶+铁网",
+     "喇叭：6.5寸*1",
+     "功率：15W",
+     "电池：3.7V/3000mAh",
+     "功能：BT/USB/TF/FM/MIC/AUX/TWS/幻彩灯/录音",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,有线话筒,遥控器,背带"
+    ],
+    "en": [
+     "Material: Plastic+Iron Mesh",
+     "Speaker: 6.5\"*1",
+     "Power: 15W",
+     "Battery: 3.7V/3000mAh",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWS/RGB Light/ Recording",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Wired Mic,Remote,Shoulder Strap"
+    ],
+    "id": [
+     "Bahan: Plastik + Jaring Besi",
+     "Speaker: 6.5 Inci*1",
+     "Daya: 15W",
+     "Baterai: 3.7V/3000mAh",
+     "Fungsi: BT/USB/TF/FM/MIC/AUX/TWS/Lampu RGB/Rekam",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Mikrofon Kabel, Remote, Tali Punggung"
+    ]
+   },
+   "images": [
+    "HEKV-661B.jpg"
+   ]
+  },
+  {
+   "sku": "HEKV-661C",
+   "slug": "hekv-661c",
+   "category": "speaker",
+   "name": {
+    "zh": "6.5寸音响 款式C",
+    "en": "6.5\" Speaker Model C",
+    "id": "Speaker 6.5 Inci"
+   },
+   "price": 75600,
+   "moq": 16,
+   "qty": 16,
+   "weight": "0.9342kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：塑胶+铁网",
+     "喇叭：6.5寸*1",
+     "功率：20W",
+     "电池：3.7V/3600mAh",
+     "功能：BT/USB/TF/FM/MIC/AUX/TWS/幻彩灯",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,有线话筒,遥控器,背带"
+    ],
+    "en": [
+     "Material: Plastic+Iron Mesh",
+     "Speaker: 6.5\"*1",
+     "Power: 20W",
+     "Battery: 3.7V/3600mAh",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWS/RGB Light",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Wired Mic,Remote,Shoulder Strap"
+    ],
+    "id": [
+     "Bahan: Plastik + Jaring Besi",
+     "Speaker: 6.5 Inci*1",
+     "Daya: 20W",
+     "Baterai: 3.7V/3600mAh",
+     "Fungsi: BT/USB/TF/FM/MIC/AUX/TWS/Lampu RGB",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Mikrofon Kabel, Remote, Tali Punggung"
+    ]
+   },
+   "images": [
+    "HEKV-661C.jpg"
+   ]
+  },
+  {
+   "sku": "HEKV-661D",
+   "slug": "hekv-661d",
+   "category": "speaker",
+   "name": {
+    "zh": "6.5寸音响 款式D",
+    "en": "6.5\" Speaker Model D",
+    "id": "Speaker 6.5 Inci"
+   },
+   "price": 75600,
+   "moq": 16,
+   "qty": 16,
+   "weight": "0.9139kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：塑胶+铁网",
+     "喇叭：6.5寸*1",
+     "功率：15W",
+     "电池：3.7V/2400mAh",
+     "功能：BT/USB/TF/FM/MIC/AUX/TWS",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,有线话筒,遥控器"
+    ],
+    "en": [
+     "Material: Plastic+Iron Mesh",
+     "Speaker: 6.5\"*1",
+     "Power: 15W",
+     "Battery: 3.7V/2400mAh",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWS",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Wired Mic,Remote"
+    ],
+    "id": [
+     "Bahan: Plastik + Jaring Besi",
+     "Speaker: 6.5 Inci*1",
+     "Daya: 15W",
+     "Baterai: 3.7V/2400mAh",
+     "Fungsi: BT/USB/TF/FM/MIC/AUX/TWS",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Mikrofon Kabel, Remote"
+    ]
+   },
+   "images": [
+    "HEKV-661D.jpg"
+   ]
+  },
+  {
+   "sku": "HEKV-661E",
+   "slug": "hekv-661e",
+   "category": "speaker",
+   "name": {
+    "zh": "6.5寸音响 款式E",
+    "en": "6.5\" Speaker Model E",
+    "id": "Speaker 6.5 Inci"
+   },
+   "price": 75600,
+   "moq": 16,
+   "qty": 16,
+   "weight": "1.0116kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：塑胶+铁网+木箱",
+     "喇叭：6.5寸*1",
+     "功率：25W",
+     "电池：3.7V/3600mAh",
+     "功能：BT/USB/TF/FM/MIC/AUX/TWS/幻彩灯",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,有线话筒,遥控器,背带"
+    ],
+    "en": [
+     "Material: Plastic+Iron Mesh+Wooden Box",
+     "Speaker: 6.5\"*1",
+     "Power: 25W",
+     "Battery: 3.7V/3600mAh",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWS/RGB Light",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Wired Mic,Remote,Shoulder Strap"
+    ],
+    "id": [
+     "Bahan: Plastik + Jaring Besi + Kotak Kayu",
+     "Speaker: 6.5 Inci*1",
+     "Daya: 25W",
+     "Baterai: 3.7V/3600mAh",
+     "Fungsi: BT/USB/TF/FM/MIC/AUX/TWS/Lampu RGB",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Mikrofon Kabel, Remote, Tali Punggung"
+    ]
+   },
+   "images": [
+    "HEKV-661E.jpg"
+   ]
+  },
+  {
+   "sku": "HEKV-661F",
+   "slug": "hekv-661f",
+   "category": "speaker",
+   "name": {
+    "zh": "6.5寸音响 款式F",
+    "en": "6.5\" Speaker Model F",
+    "id": "Speaker 6.5 Inci"
+   },
+   "price": 75600,
+   "moq": 16,
+   "qty": 16,
+   "weight": "1.0078kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：塑胶+铁网+木箱",
+     "喇叭：6.5寸*1",
+     "功率：20W",
+     "电池：3.7V/3000mAh",
+     "功能：BT/USB/TF/FM/MIC/AUX/TWS/幻彩灯/录音",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,有线话筒,遥控器,背带"
+    ],
+    "en": [
+     "Material: Plastic+Iron Mesh+Wooden Box",
+     "Speaker: 6.5\"*1",
+     "Power: 20W",
+     "Battery: 3.7V/3000mAh",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWS/RGB Light/ Recording",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Wired Mic,Remote,Shoulder Strap"
+    ],
+    "id": [
+     "Bahan: Plastik + Jaring Besi + Kotak Kayu",
+     "Speaker: 6.5 Inci*1",
+     "Daya: 20W",
+     "Baterai: 3.7V/3000mAh",
+     "Fungsi: BT/USB/TF/FM/MIC/AUX/TWS/Lampu RGB/Rekam",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Mikrofon Kabel, Remote, Tali Punggung"
+    ]
+   },
+   "images": [
+    "HEKV-661F.jpg"
+   ]
+  },
+  {
+   "sku": "HEKV-881A",
+   "slug": "hekv-881a",
+   "category": "speaker",
+   "name": {
+    "zh": "8寸音响 款式A",
+    "en": "8\" Speaker Model A",
+    "id": "Speaker 8 Inci Model A"
+   },
+   "price": 190000,
+   "moq": 12,
+   "qty": 12,
+   "weight": "1.5341kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "材质：塑胶+铁网",
+     "喇叭：8寸*1",
+     "功率：30W",
+     "电池：3.7V/3600mAh",
+     "功能：BT/USB/TF/FM/MIC/AUX/TWS/幻彩灯",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,有线话筒,遥控器,背带"
+    ],
+    "en": [
+     "Material: Plastic+Iron Mesh",
+     "Speaker: 8\"*1",
+     "Power: 30W",
+     "Battery: 3.7V/3600mAh",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWS/RGB Light",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Wired Mic,Remote,Shoulder Strap"
+    ],
+    "id": [
+     "Bahan: Plastik + Jaring Besi",
+     "Speaker: 8 Inci*1",
+     "Daya: 30W",
+     "Baterai: 3.7V/3600mAh",
+     "Fungsi: BT/USB/TF/FM/MIC/AUX/TWS/Lampu RGB",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Mikrofon Kabel, Remote, Tali Punggung"
+    ]
+   },
+   "images": [
+    "HEKV-881A.jpg"
+   ]
+  },
+  {
+   "sku": "HEKV-881B",
+   "slug": "hekv-881b",
+   "category": "speaker",
+   "name": {
+    "zh": "8寸音响 款式B",
+    "en": "8\" Speaker Model B",
+    "id": "Speaker 8 Inci Model B"
+   },
+   "price": 190000,
+   "moq": 12,
+   "qty": 12,
+   "weight": "1.6987kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "材质：塑胶+铁网+木箱",
+     "喇叭：8寸*1",
+     "功率：30W",
+     "电池：3.7V/3600mAh",
+     "功能：BT/USB/TF/FM/MIC/AUX/TWS/幻彩灯/录音",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,有线话筒,遥控器,背带"
+    ],
+    "en": [
+     "Material: Plastic+Iron Mesh+Wooden Box",
+     "Speaker: 8\"*1",
+     "Power: 30W",
+     "Battery: 3.7V/3600mAh",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWS/RGB Light/ Recording",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Wired Mic,Remote,Shoulder Strap"
+    ],
+    "id": [
+     "Bahan: Plastik + Jaring Besi + Kotak Kayu",
+     "Speaker: 8 Inci*1",
+     "Daya: 30W",
+     "Baterai: 3.7V/3600mAh",
+     "Fungsi: BT/USB/TF/FM/MIC/AUX/TWS/Lampu RGB/Rekam",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Mikrofon Kabel, Remote, Tali Punggung"
+    ]
+   },
+   "images": [
+    "HEKV-881B.jpg"
+   ]
+  },
+  {
+   "sku": "HEKV-881C",
+   "slug": "hekv-881c",
+   "category": "speaker",
+   "name": {
+    "zh": "8寸音响 款式C",
+    "en": "8\" Speaker Model C",
+    "id": "Speaker 8 Inci Model C"
+   },
+   "price": 190000,
+   "moq": 12,
+   "qty": 12,
+   "weight": "1.6604kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "材质：塑胶+铁网",
+     "喇叭：8寸*1",
+     "功率：25W",
+     "电池：3.7V/3000mAh",
+     "功能：BT/USB/TF/FM/MIC/AUX/TWS/幻彩灯",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,有线话筒,遥控器,背带"
+    ],
+    "en": [
+     "Material: Plastic+Iron Mesh",
+     "Speaker: 8\"*1",
+     "Power: 25W",
+     "Battery: 3.7V/3000mAh",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWS/RGB Light",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Wired Mic,Remote,Shoulder Strap"
+    ],
+    "id": [
+     "Bahan: Plastik + Jaring Besi",
+     "Speaker: 8 Inci*1",
+     "Daya: 25W",
+     "Baterai: 3.7V/3000mAh",
+     "Fungsi: BT/USB/TF/FM/MIC/AUX/TWS/Lampu RGB",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Mikrofon Kabel, Remote, Tali Punggung"
+    ]
+   },
+   "images": [
+    "HEKV-881C.jpg"
+   ]
+  },
+  {
+   "sku": "HEKV-881D",
+   "slug": "hekv-881d",
+   "category": "speaker",
+   "name": {
+    "zh": "8寸音响 款式D",
+    "en": "8\" Speaker Model D",
+    "id": "Speaker 8 Inci Model D"
+   },
+   "price": 190000,
+   "moq": 0,
+   "qty": 0,
+   "weight": "",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "材质：塑胶+铁网",
+     "喇叭：8寸*1",
+     "功率：20W",
+     "电池：3.7V/2400mAh",
+     "功能：BT/USB/TF/FM/MIC/AUX/TWS",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,有线话筒,遥控器"
+    ],
+    "en": [
+     "Material: Plastic+Iron Mesh",
+     "Speaker: 8\"*1",
+     "Power: 20W",
+     "Battery: 3.7V/2400mAh",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWS",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Wired Mic,Remote"
+    ],
+    "id": [
+     "Bahan: Plastik + Jaring Besi",
+     "Speaker: 8 Inci*1",
+     "Daya: 20W",
+     "Baterai: 3.7V/2400mAh",
+     "Fungsi: BT/USB/TF/FM/MIC/AUX/TWS",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Mikrofon Kabel, Remote"
+    ]
+   },
+   "images": [
+    "HEKV-881D.jpg"
+   ]
+  },
+  {
+   "sku": "HEKV-881E",
+   "slug": "hekv-881e",
+   "category": "speaker",
+   "name": {
+    "zh": "8寸音响 款式E",
+    "en": "8\" Speaker Model E",
+    "id": "Speaker 8 Inci Model E"
+   },
+   "price": 190000,
+   "moq": 10,
+   "qty": 10,
+   "weight": "1.8072kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "材质：塑胶+铁网",
+     "喇叭：8寸*2 （双喇叭）",
+     "功率：40W",
+     "电池：3.7V/5000mAh",
+     "功能：BT/USB/TF/FM/MIC/AUX/TWS/幻彩灯/录音/卡拉OK",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,无线话筒*1,遥控器,背带"
+    ],
+    "en": [
+     "Material: Plastic+Iron Mesh",
+     "Speaker: 8\"*2 (Dual Speakers)",
+     "Power: 40W",
+     "Battery: 3.7V/5000mAh",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWS/RGB Light/ Recording/Karaoke",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Wireless Mic*1,Remote,Shoulder Strap"
+    ],
+    "id": [
+     "Bahan: Plastik + Jaring Besi",
+     "Speaker: 8 Inci*2 (Dual Speaker)",
+     "Daya: 40W",
+     "Baterai: 3.7V/5000mAh",
+     "Fungsi: BT/USB/TF/FM/MIC/AUX/TWS/Lampu RGB/Rekam/Karaoke",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Mikrofon Nirkabel*1, Remote, Tali Punggung"
+    ]
+   },
+   "images": [
+    "HEKV-881E.jpg"
+   ]
+  },
+  {
+   "sku": "HEKV-881F",
+   "slug": "hekv-881f",
+   "category": "speaker",
+   "name": {
+    "zh": "8寸音响 款式F",
+    "en": "8\" Speaker Model F",
+    "id": "Speaker 8 Inci Model F"
+   },
+   "price": 190000,
+   "moq": 10,
+   "qty": 10,
+   "weight": "1.8192kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "材质：塑胶+铁网+木箱",
+     "喇叭：8寸*2 （双喇叭）",
+     "功率：50W",
+     "电池：3.7V/6000mAh",
+     "功能：BT/USB/TF/FM/MIC/AUX/TWS/幻彩灯/录音/卡拉OK",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,无线话筒*2,遥控器,背带"
+    ],
+    "en": [
+     "Material: Plastic+Iron Mesh+Wooden Box",
+     "Speaker: 8\"*2 (Dual Speakers)",
+     "Power: 50W",
+     "Battery: 3.7V/6000mAh",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWS/RGB Light/ Recording/Karaoke",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Wireless Mic*2,Remote,Shoulder Strap"
+    ],
+    "id": [
+     "Bahan: Plastik + Jaring Besi + Kotak Kayu",
+     "Speaker: 8 Inci*2 (Dual Speaker)",
+     "Daya: 50W",
+     "Baterai: 3.7V/6000mAh",
+     "Fungsi: BT/USB/TF/FM/MIC/AUX/TWS/Lampu RGB/Rekam/Karaoke",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Mikrofon Nirkabel*2, Remote, Tali Punggung"
+    ]
+   },
+   "images": [
+    "HEKV-881F.jpg"
+   ]
+  },
+  {
+   "sku": "MSP-S01",
+   "slug": "msp-s01",
+   "category": "speaker",
+   "name": {
+    "zh": "6.8寸音响",
+    "en": "6.8\" Speaker",
+    "id": "Speaker 6.8 Inci"
+   },
+   "price": 75600,
+   "moq": 16,
+   "qty": 16,
+   "weight": "1.1305kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：塑胶+铁网",
+     "喇叭：6.8寸*1",
+     "功率：20W",
+     "电池：3.7V/3600mAh",
+     "功能：BT/USB/TF/FM/MIC/AUX/TWS/幻彩灯",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,有线话筒,遥控器,背带"
+    ],
+    "en": [
+     "Material: Plastic+Iron Mesh",
+     "Speaker: 6.8\"*1",
+     "Power: 20W",
+     "Battery: 3.7V/3600mAh",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWS/RGB Light",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Wired Mic,Remote,Shoulder Strap"
+    ],
+    "id": [
+     "Bahan: Plastik + Jaring Besi",
+     "Speaker: 6.8 Inci*1",
+     "Daya: 20W",
+     "Baterai: 3.7V/3600mAh",
+     "Fungsi: BT/USB/TF/FM/MIC/AUX/TWS/Lampu RGB",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Mikrofon Kabel, Remote, Tali Punggung"
+    ]
+   },
+   "images": [
+    "MSP-S01.jpg"
+   ]
+  },
+  {
+   "sku": "SPHED-B",
+   "slug": "sphed-b",
+   "category": "speaker",
+   "name": {
+    "zh": "三角形音响  黑色",
+    "en": "Triangle Speaker Black",
+    "id": "Speaker Segitiga Hitam"
+   },
+   "price": 800,
+   "moq": 0,
+   "qty": 0,
+   "weight": "0.152kg",
+   "stock": "preorder",
+   "label": "new",
+   "specs": {
+    "zh": [
+     "材质：ABS+铁网",
+     "喇叭：3寸*1",
+     "功率：5W",
+     "电池：3.7V/1200mAh",
+     "蓝牙版本：5.0",
+     "功能：BT/USB/TF/FM/AUX/TWS/幻彩灯",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,说明书"
+    ],
+    "en": [
+     "Material: ABS+Iron Mesh",
+     "Speaker: 3\"*1",
+     "Power: 5W",
+     "Battery: 3.7V/1200mAh",
+     "Bluetooth Version: 5.0",
+     "Functions: BT/USB/TF/FM/AUX/TWS/RGB Light",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Manual"
+    ],
+    "id": [
+     "Bahan: ABS + Jaring Besi",
+     "Speaker: 3 Inci*1",
+     "Daya: 5W",
+     "Baterai: 3.7V/1200mAh",
+     "Versi Bluetooth: 5.0",
+     "Fungsi: BT/USB/TF/FM/AUX/TWS/Lampu RGB",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Manual"
+    ]
+   },
+   "images": [
+    "SPHED-B.jpg"
+   ]
+  },
+  {
+   "sku": "SPHED-K",
+   "slug": "sphed-k",
+   "category": "speaker",
+   "name": {
+    "zh": "三角形音响  绿",
+    "en": "Triangle Speaker Green",
+    "id": "Speaker Segitiga Hijau"
+   },
+   "price": 800,
+   "moq": 0,
+   "qty": 0,
+   "weight": "0.152kg",
+   "stock": "preorder",
+   "label": "new",
+   "specs": {
+    "zh": [
+     "材质：ABS+铁网",
+     "喇叭：3寸*1",
+     "功率：5W",
+     "电池：3.7V/1200mAh",
+     "蓝牙版本：5.0",
+     "功能：BT/USB/TF/FM/AUX/TWS/幻彩灯",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,说明书"
+    ],
+    "en": [
+     "Material: ABS+Iron Mesh",
+     "Speaker: 3\"*1",
+     "Power: 5W",
+     "Battery: 3.7V/1200mAh",
+     "Bluetooth Version: 5.0",
+     "Functions: BT/USB/TF/FM/AUX/TWS/RGB Light",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Manual"
+    ],
+    "id": [
+     "Bahan: ABS + Jaring Besi",
+     "Speaker: 3 Inci*1",
+     "Daya: 5W",
+     "Baterai: 3.7V/1200mAh",
+     "Versi Bluetooth: 5.0",
+     "Fungsi: BT/USB/TF/FM/AUX/TWS/Lampu RGB",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Manual"
+    ]
+   },
+   "images": [
+    "SPHED-K.jpg"
+   ]
+  },
+  {
+   "sku": "SPHED-O",
+   "slug": "sphed-o",
+   "category": "speaker",
+   "name": {
+    "zh": "三角形音响   橙",
+    "en": "Triangle Speaker Orange",
+    "id": "Speaker Segitiga Oranye"
+   },
+   "price": 800,
+   "moq": 0,
+   "qty": 0,
+   "weight": "0.152kg",
+   "stock": "preorder",
+   "label": "new",
+   "specs": {
+    "zh": [
+     "材质：ABS+铁网",
+     "喇叭：3寸*1",
+     "功率：5W",
+     "电池：3.7V/1200mAh",
+     "蓝牙版本：5.0",
+     "功能：BT/USB/TF/FM/AUX/TWS/幻彩灯",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,说明书"
+    ],
+    "en": [
+     "Material: ABS+Iron Mesh",
+     "Speaker: 3\"*1",
+     "Power: 5W",
+     "Battery: 3.7V/1200mAh",
+     "Bluetooth Version: 5.0",
+     "Functions: BT/USB/TF/FM/AUX/TWS/RGB Light",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Manual"
+    ],
+    "id": [
+     "Bahan: ABS + Jaring Besi",
+     "Speaker: 3 Inci*1",
+     "Daya: 5W",
+     "Baterai: 3.7V/1200mAh",
+     "Versi Bluetooth: 5.0",
+     "Fungsi: BT/USB/TF/FM/AUX/TWS/Lampu RGB",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Manual"
+    ]
+   },
+   "images": [
+    "SPHED-O.jpg"
+   ]
+  },
+  {
+   "sku": "SPHED-W",
+   "slug": "sphed-w",
+   "category": "speaker",
+   "name": {
+    "zh": "三角形音响  白",
+    "en": "Triangle Speaker White",
+    "id": "Speaker Segitiga Putih"
+   },
+   "price": 800,
+   "moq": 0,
+   "qty": 0,
+   "weight": "0.152kg",
+   "stock": "preorder",
+   "label": "new",
+   "specs": {
+    "zh": [
+     "材质：ABS+铁网",
+     "喇叭：3寸*1",
+     "功率：5W",
+     "电池：3.7V/1200mAh",
+     "蓝牙版本：5.0",
+     "功能：BT/USB/TF/FM/AUX/TWS/幻彩灯",
+     "充电：Type-C DC 5V",
+     "配件：Type-C充电线,说明书"
+    ],
+    "en": [
+     "Material: ABS+Iron Mesh",
+     "Speaker: 3\"*1",
+     "Power: 5W",
+     "Battery: 3.7V/1200mAh",
+     "Bluetooth Version: 5.0",
+     "Functions: BT/USB/TF/FM/AUX/TWS/RGB Light",
+     "Charging: Type-C DC 5V",
+     "Accessories: Type-C Charging Cable,Manual"
+    ],
+    "id": [
+     "Bahan: ABS + Jaring Besi",
+     "Speaker: 3 Inci*1",
+     "Daya: 5W",
+     "Baterai: 3.7V/1200mAh",
+     "Versi Bluetooth: 5.0",
+     "Fungsi: BT/USB/TF/FM/AUX/TWS/Lampu RGB",
+     "Pengisian: Type-C DC 5V",
+     "Aksesoris: Kabel Charger Type-C, Manual"
+    ]
+   },
+   "images": [
+    "SPHED-W.jpg"
+   ]
+  },
+  {
+   "sku": "SZ-1508",
+   "slug": "sz-1508",
+   "category": "speaker",
+   "name": {
+    "zh": "15寸音响",
+    "en": "15\" Speaker",
+    "id": "Speaker 15 Inci"
+   },
+   "price": 43700,
+   "moq": 1,
+   "qty": 1,
+   "weight": "8.729kg",
+   "stock": "preorder",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：塑胶+铁网+木箱",
+     "喇叭：15寸*1",
+     "功率：50W",
+     "电池：12V/7Ah铅酸电池",
+     "功能：BT/USB/TF/FM/MIC/AUX/TWS/幻彩灯/卡拉OK",
+     "充电：DC 12V适配器",
+     "配件：充电适配器,无线话筒*2,遥控器,拉杆+轮子"
+    ],
+    "en": [
+     "Material: Plastic+Iron Mesh+Wooden Box",
+     "Speaker: 15\"*1",
+     "Power: 50W",
+     "Battery: 12V/7AhLead-acid Battery",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWS/RGB Light/Karaoke",
+     "Charging: DC 12V Adapter",
+     "Accessories: Charging Adapter,Wireless Mic*2,Remote,Handle + Wheels"
+    ],
+    "id": [
+     "Bahan: Plastik + Jaring Besi + Kotak Kayu",
+     "Speaker: 15 Inci*1",
+     "Daya: 50W",
+     "Baterai: 12V/7Ah Aki",
+     "Fungsi: BT/USB/TF/FM/MIC/AUX/TWS/Lampu RGB/Karaoke",
+     "Pengisian: Adaptor DC 12V",
+     "Aksesoris: Adaptor, Mikrofon Nirkabel*2, Remote, Gagang+Roda"
+    ]
+   },
+   "images": [
+    "SZ-1508.jpg"
+   ]
+  },
+  {
+   "sku": "ZQS-F803",
+   "slug": "zqs-f803",
+   "category": "speaker",
+   "name": {
+    "zh": "Sing-e ZQS-F803 风扇音箱",
+    "en": "Sing-e ZQS-F803 Fan Speaker",
+    "id": "Sing-e ZQS-F803 Speaker Kipas"
+   },
+   "price": 217900,
+   "moq": 18,
+   "qty": 18,
+   "weight": "1.515kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "彩盒尺寸: 273x118x430mm",
+     "材质: 塑胶",
+     "外箱尺寸: 83.7x37.2x88CM（0.274）",
+     "功率: 5W",
+     "装箱数: 18 PCS",
+     "喇叭: 60mm'*1",
+     "颜色: 白",
+     "电池: 18650 3.7V/2000MAH*2",
+     "外箱重量: 30     KG",
+     "功能: BT/FM/USB/TF/TWS/带风扇/照明",
+     "40HQ: 4500台（250件） 68.5㎡",
+     "配件: Type-C充电线,说明书"
+    ],
+    "en": [
+     "Box Size: 273x118x430mm",
+     "Material: Plastic",
+     "Carton Size: 83.7x37.2x88CM(0.274)",
+     "Power: 5W",
+     "Pcs per Carton: 18 PCS",
+     "Speaker: 60mm'*1",
+     "Color: White",
+     "Battery: 18650 3.7V/2000MAH*2",
+     "Carton Weight: 30 KG",
+     "Functions: BT/FM/USB/TF/TWS/with Fan/Lighting",
+     "40HQ Load: 4500 pcs (250 ctn ) 68.5㎡",
+     "Accessories: Type-C Charging Cable,Manual"
+    ],
+    "id": [
+     "Ukuran Kotak",
+     "273x118x430mm",
+     "Bahan",
+     "Plastik",
+     "Ukuran Karton",
+     "83.7x37.2x88CM(0.274)",
+     "Daya",
+     "5W",
+     "Jumlah Per Karton",
+     "18 PCS",
+     "Speaker",
+     "60mm'*1",
+     "Warna",
+     "Putih",
+     "Baterai",
+     "18650 3.7V/2000MAH*2",
+     "Berat Karton",
+     "30 KG",
+     "Fungsi",
+     "BT/FM/USB/TF/TWS/dengan Kipas/Penerangan",
+     "40HQ",
+     "4500 pcs (250 karton ) 68.5㎡",
+     "Aksesoris",
+     "Kabel Charger Type-C,Manual"
+    ]
+   },
+   "images": [
+    "ZQS-F803.jpg"
+   ]
+  },
+  {
+   "sku": "ZQS-L02",
+   "slug": "zqs-l02",
+   "category": "speaker",
+   "name": {
+    "zh": "Sing-e ZQS-L02 迷你音箱",
+    "en": "Sing-e ZQS-L02 Mini Speaker",
+    "id": "Sing-e ZQS-L02 Speaker Mini"
+   },
+   "price": 61900,
+   "moq": 60,
+   "qty": 60,
+   "weight": "0.3644kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "彩盒尺寸: 91*91*135mm",
+     "材质: 塑胶",
+     "外箱尺寸: 47.5*38.4*42.5CM（0.077）",
+     "功率: 5W",
+     "装箱数: 60 PCS",
+     "喇叭: 2寸",
+     "颜色: 黑色",
+     "电池: 18650 3.7V 1200mAh",
+     "外箱重量: 22.8KG",
+     "功能: BT/USB/AUX/TF/FM",
+     "40HQ: 880件(52800台)68.2",
+     "配件: Type-C充电线,说明书"
+    ],
+    "en": [
+     "Box Size: 91*91*135mm",
+     "Material: Plastic",
+     "Carton Size: 47.5*38.4*42.5CM(0.077)",
+     "Power: 5W",
+     "Pcs per Carton: 60 PCS",
+     "Speaker: 2\"",
+     "Color: Black",
+     "Battery: 18650 3.7V 1200mAh",
+     "Carton Weight: 22.8KG",
+     "Functions: BT/USB/AUX/TF/FM",
+     "40HQ Load: 880 ctn (52800 pcs )68.2",
+     "Accessories: Type-C Charging Cable,Manual"
+    ],
+    "id": [
+     "Ukuran Kotak",
+     "91*91*135mm",
+     "Bahan",
+     "Plastik",
+     "Ukuran Karton",
+     "47.5*38.4*42.5CM(0.077)",
+     "Daya",
+     "5W",
+     "Jumlah Per Karton",
+     "60 PCS",
+     "Speaker",
+     "2 Inci",
+     "Warna",
+     "Hitam",
+     "Baterai",
+     "18650 3.7V 1200mAh",
+     "Berat Karton",
+     "22.8KG",
+     "Fungsi",
+     "BT/USB/AUX/TF/FM",
+     "40HQ",
+     "880 karton (52800 pcs )68.2",
+     "Aksesoris",
+     "Kabel Charger Type-C,Manual"
+    ]
+   },
+   "images": [
+    "ZQS-L02.jpg"
+   ]
+  },
+  {
+   "sku": "ZQS-L36",
+   "slug": "zqs-l36",
+   "category": "speaker",
+   "name": {
+    "zh": "Sing-e ZQS-L36 迷你音箱",
+    "en": "Sing-e ZQS-L36 Mini Speaker",
+    "id": "Sing-e ZQS-L36 Speaker Mini"
+   },
+   "price": 76600,
+   "moq": 60,
+   "qty": 60,
+   "weight": "0.4314kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "彩盒尺寸: 114x114x150mm",
+     "材质: 塑胶",
+     "外箱尺寸: 59x47.6x47CM(0.131)",
+     "功率: 9W",
+     "装箱数: 60 PCS",
+     "喇叭: 57MM",
+     "颜色: 茶色",
+     "电池: 18650电池组 3.7V/1200MAH",
+     "外箱重量: KG",
+     "功能: BT/TF卡/TWS/带通话功能、DC-5V充电(Type-c座)带幻彩灯",
+     "40HQ: 520件(31200台)68.63",
+     "配件: Type-C充电线、"
+    ],
+    "en": [
+     "Box Size: 114x114x150mm",
+     "Material: Plastic",
+     "Carton Size: 59x47.6x47CM(0.131)",
+     "Power: 9W",
+     "Pcs per Carton: 60 PCS",
+     "Speaker: 57MM",
+     "Color: Brown",
+     "Battery: 18650Battery Pack 3.7V/1200MAH",
+     "Carton Weight: KG",
+     "Functions: BT/TF Card/TWS/with Call Function、DC-5V Charging (Type-C Port)with RGB Light",
+     "40HQ Load: 520 ctn (31200 pcs )68.63",
+     "Accessories: Type-C Charging Cable、"
+    ],
+    "id": [
+     "Ukuran Kotak",
+     "114x114x150mm",
+     "Bahan",
+     "Plastik",
+     "Ukuran Karton",
+     "59x47.6x47CM(0.131)",
+     "Daya",
+     "9W",
+     "Jumlah Per Karton",
+     "60 PCS",
+     "Speaker",
+     "57MM",
+     "Warna",
+     "Coklat",
+     "Baterai",
+     "18650Paket Baterai 3.7V/1200MAH",
+     "Berat Karton",
+     "KG",
+     "Fungsi",
+     "BT/Kartu TF/TWS/dengan Fungsi Panggilan、Pengisian DC-5V(Port Type-C)dengan Lampu RGB",
+     "40HQ",
+     "520 karton (31200 pcs )68.63",
+     "Aksesoris",
+     "Kabel Charger Type-C、"
+    ]
+   },
+   "images": [
+    "ZQS-L36.jpg"
+   ]
+  },
+  {
+   "sku": "ZQS14102",
+   "slug": "zqs14102",
+   "category": "speaker",
+   "name": {
+    "zh": "Sing-e ZQS14102 迷你音箱",
+    "en": "Sing-e ZQS14102 Mini Speaker",
+    "id": "Sing-e ZQS14102 Speaker Mini"
+   },
+   "price": 85400,
+   "moq": 30,
+   "qty": 30,
+   "weight": "0.952kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "彩盒尺寸: 145*132*250mm",
+     "材质: 塑胶+木箱",
+     "外箱尺寸: 68.0x45.3x52.0CM（0.16）",
+     "功率: 5W",
+     "装箱数: 30   PCS",
+     "喇叭: 4\"*1",
+     "颜色: 棕色",
+     "电池: 18650 3.7V/1200MAH",
+     "外箱重量: 28.20     KG",
+     "功能: BT/USB/TF/FM/MIC/AUX/TWS带幻彩灯",
+     "40HQ: 430件（12900台）68.87㎡",
+     "配件: Type-C充电线,说明书，,2米有线麦克风"
+    ],
+    "en": [
+     "Box Size: 145*132*250mm",
+     "Material: Plastic+Wooden Box",
+     "Carton Size: 68.0x45.3x52.0CM(0.16)",
+     "Power: 5W",
+     "Pcs per Carton: 30 PCS",
+     "Speaker: 4\"*1",
+     "Color: Brown",
+     "Battery: 18650 3.7V/1200MAH",
+     "Carton Weight: 28.20 KG",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWSwith RGB Light",
+     "40HQ Load: 430 ctn (12900 pcs )68.87㎡",
+     "Accessories: Type-C Charging Cable,Manual,,2 m Wired Mic"
+    ],
+    "id": [
+     "Ukuran Kotak",
+     "145*132*250mm",
+     "Bahan",
+     "Plastik + Kotak Kayu",
+     "Ukuran Karton",
+     "68.0x45.3x52.0CM(0.16)",
+     "Daya",
+     "5W",
+     "Jumlah Per Karton",
+     "30 PCS",
+     "Speaker",
+     "4\"*1",
+     "Warna",
+     "Coklat",
+     "Baterai",
+     "18650 3.7V/1200MAH",
+     "Berat Karton",
+     "28.20 KG",
+     "Fungsi",
+     "BT/USB/TF/FM/MIC/AUX/TWSdengan Lampu RGB",
+     "40HQ",
+     "430 karton (12900 pcs )68.87㎡",
+     "Aksesoris",
+     "Kabel Charger Type-C,Manual,,Mikrofon Kabel 2m"
+    ]
+   },
+   "images": [
+    "ZQS14102.jpg"
+   ]
+  },
+  {
+   "sku": "ZQS14103",
+   "slug": "zqs14103",
+   "category": "speaker",
+   "name": {
+    "zh": "Sing-e ZQS14103 迷你音箱",
+    "en": "Sing-e ZQS14103 Mini Speaker",
+    "id": "Sing-e ZQS14103 Speaker Mini"
+   },
+   "price": 91300,
+   "moq": 30,
+   "qty": 30,
+   "weight": "0.9503kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "彩盒尺寸: 145*132*250mm",
+     "材质: 塑胶+木箱",
+     "外箱尺寸: 68.0x45.3x52.0CM（0.16）",
+     "功率: 5W",
+     "装箱数: 30   PCS",
+     "喇叭: 4\"*1",
+     "颜色: 棕色",
+     "电池: 18650 3.7V/1200MAH",
+     "外箱重量: 28.20     KG",
+     "功能: BT/USB/TF/FM/MIC/AUX/TWS带幻彩灯",
+     "40HQ: 430件（12900台）68.87㎡",
+     "配件: Type-C充电线,说明书，,2米有线麦克风"
+    ],
+    "en": [
+     "Box Size: 145*132*250mm",
+     "Material: Plastic+Wooden Box",
+     "Carton Size: 68.0x45.3x52.0CM(0.16)",
+     "Power: 5W",
+     "Pcs per Carton: 30 PCS",
+     "Speaker: 4\"*1",
+     "Color: Brown",
+     "Battery: 18650 3.7V/1200MAH",
+     "Carton Weight: 28.20 KG",
+     "Functions: BT/USB/TF/FM/MIC/AUX/TWSwith RGB Light",
+     "40HQ Load: 430 ctn (12900 pcs )68.87㎡",
+     "Accessories: Type-C Charging Cable,Manual,,2 m Wired Mic"
+    ],
+    "id": [
+     "Ukuran Kotak",
+     "145*132*250mm",
+     "Bahan",
+     "Plastik + Kotak Kayu",
+     "Ukuran Karton",
+     "68.0x45.3x52.0CM(0.16)",
+     "Daya",
+     "5W",
+     "Jumlah Per Karton",
+     "30 PCS",
+     "Speaker",
+     "4\"*1",
+     "Warna",
+     "Coklat",
+     "Baterai",
+     "18650 3.7V/1200MAH",
+     "Berat Karton",
+     "28.20 KG",
+     "Fungsi",
+     "BT/USB/TF/FM/MIC/AUX/TWSdengan Lampu RGB",
+     "40HQ",
+     "430 karton (12900 pcs )68.87㎡",
+     "Aksesoris",
+     "Kabel Charger Type-C,Manual,,Mikrofon Kabel 2m"
+    ]
+   },
+   "images": [
+    "ZQS14103.jpg"
+   ]
+  },
+  {
+   "sku": "ZQS1440",
+   "slug": "zqs1440",
+   "category": "speaker",
+   "name": {
+    "zh": "Sing-e ZQS-1440 风扇音箱",
+    "en": "Sing-e ZQS-1440 Fan Speaker",
+    "id": "Sing-e ZQS-1440 Speaker Kipas"
+   },
+   "price": 94300,
+   "moq": 40,
+   "qty": 40,
+   "weight": "0.634kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "彩盒尺寸: 150x145x225mm",
+     "材质: 塑胶",
+     "外箱尺寸: 74.5x62x46.8CM（0.216）",
+     "功率: 3W",
+     "装箱数: 40 PCS",
+     "喇叭: 4\"*1",
+     "颜色: 黑",
+     "电池: 18650 3.7V/1200MAH",
+     "外箱重量: 27     KG",
+     "功能: BT/USB/TF/TWS/FM/MIC带彩灯",
+     "40HQ: 12800台（3320件）69.17㎡",
+     "配件: Type-C充电线"
+    ],
+    "en": [
+     "Box Size: 150x145x225mm",
+     "Material: Plastic",
+     "Carton Size: 74.5x62x46.8CM(0.216)",
+     "Power: 3W",
+     "Pcs per Carton: 40 PCS",
+     "Speaker: 4\"*1",
+     "Color: Black",
+     "Battery: 18650 3.7V/1200MAH",
+     "Carton Weight: 27 KG",
+     "Functions: BT/USB/TF/TWS/FM/MICwith Color Light",
+     "40HQ Load: 12800 pcs (3320 ctn )69.17㎡",
+     "Accessories: Type-C Charging Cable"
+    ],
+    "id": [
+     "Ukuran Kotak",
+     "150x145x225mm",
+     "Bahan",
+     "Plastik",
+     "Ukuran Karton",
+     "74.5x62x46.8CM(0.216)",
+     "Daya",
+     "3W",
+     "Jumlah Per Karton",
+     "40 PCS",
+     "Speaker",
+     "4\"*1",
+     "Warna",
+     "Hitam",
+     "Baterai",
+     "18650 3.7V/1200MAH",
+     "Berat Karton",
+     "27 KG",
+     "Fungsi",
+     "BT/USB/TF/TWS/FM/MICdengan Lampu Warna",
+     "40HQ",
+     "12800 pcs (3320 karton )69.17㎡",
+     "Aksesoris",
+     "Kabel Charger Type-C"
+    ]
+   },
+   "images": [
+    "ZQS1440.jpg"
+   ]
+  },
+  {
+   "sku": "ZQS4239S",
+   "slug": "zqs4239s",
+   "category": "speaker",
+   "name": {
+    "zh": "Sing-e ZQS4239S 蓝牙音箱",
+    "en": "Sing-e ZQS4239S Bluetooth Speaker",
+    "id": "Sing-e ZQS4239S Speaker Bluetooth"
+   },
+   "price": 173800,
+   "moq": 12,
+   "qty": 12,
+   "weight": "1.803kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "彩盒尺寸: 176x176x420mm",
+     "材质: 塑胶+铁网",
+     "外箱尺寸: 72*54.5*43.7CM（0.171）",
+     "功率: 3W*2",
+     "装箱数: 12 PCS",
+     "喇叭: 4寸*2",
+     "颜色: A",
+     "电池: 18650 3.7V/1200mAh",
+     "外箱重量: 24.25 KG",
+     "功能: BT/USB/TF/AUX/MIC/FM/TWS/幻彩",
+     "40HQ: 414件（4968台）71.33㎡",
+     "配件: Type-C充电线,2米有线话筒.遥控器,背带"
+    ],
+    "en": [
+     "Box Size: 176x176x420mm",
+     "Material: Plastic+Iron Mesh",
+     "Carton Size: 72*54.5*43.7CM(0.171)",
+     "Power: 3W*2",
+     "Pcs per Carton: 12 PCS",
+     "Speaker: 4\"*2",
+     "Color: A",
+     "Battery: 18650 3.7V/1200mAh",
+     "Carton Weight: 24.25 KG",
+     "Functions: BT/USB/TF/AUX/MIC/FM/TWS/ RGB",
+     "40HQ Load: 414 ctn (4968 pcs )71.33㎡",
+     "Accessories: Type-C Charging Cable,2 m Wired Mic.Remote,Shoulder Strap"
+    ],
+    "id": [
+     "Ukuran Kotak",
+     "176x176x420mm",
+     "Bahan",
+     "Plastik + Jaring Besi",
+     "Ukuran Karton",
+     "72*54.5*43.7CM(0.171)",
+     "Daya",
+     "3W*2",
+     "Jumlah Per Karton",
+     "12 PCS",
+     "Speaker",
+     "4 Inci*2",
+     "Warna",
+     "A",
+     "Baterai",
+     "18650 3.7V/1200mAh",
+     "Berat Karton",
+     "24.25 KG",
+     "Fungsi",
+     "BT/USB/TF/AUX/MIC/FM/TWS/Lampu RGB",
+     "40HQ",
+     "414 karton (4968 pcs )71.33㎡",
+     "Aksesoris",
+     "Kabel Charger Type-C,Mikrofon Kabel 2m.Remote,Tali Punggung"
+    ]
+   },
+   "images": [
+    "ZQS4239S.jpg"
+   ]
+  },
+  {
+   "sku": "ZQS4239W",
+   "slug": "zqs4239w",
+   "category": "speaker",
+   "name": {
+    "zh": "Sing-e ZQS4239W 蓝牙音箱",
+    "en": "Sing-e ZQS4239W Bluetooth Speaker",
+    "id": "Sing-e ZQS4239W Speaker Bluetooth"
+   },
+   "price": 156100,
+   "moq": 12,
+   "qty": 12,
+   "weight": "1.515kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "彩盒尺寸: 176x176x420mm",
+     "材质: 塑胶+铁网",
+     "外箱尺寸: 72*54.5*43.7CM（0.171）",
+     "功率: 5W*2",
+     "装箱数: 12 PCS",
+     "喇叭: 4寸*2",
+     "颜色: 黑",
+     "电池: 18650 3.7V/1200MAH",
+     "外箱重量: 22.5 KG",
+     "功能: BT/USB/TF/AUX//FM",
+     "40HQ: 414件（4968台）71.33㎡",
+     "配件: Type-C充电线,,背带.无线话筒"
+    ],
+    "en": [
+     "Box Size: 176x176x420mm",
+     "Material: Plastic+Iron Mesh",
+     "Carton Size: 72*54.5*43.7CM(0.171)",
+     "Power: 5W*2",
+     "Pcs per Carton: 12 PCS",
+     "Speaker: 4\"*2",
+     "Color: Black",
+     "Battery: 18650 3.7V/1200MAH",
+     "Carton Weight: 22.5 KG",
+     "Functions: BT/USB/TF/AUX//FM",
+     "40HQ Load: 414 ctn (4968 pcs )71.33㎡",
+     "Accessories: Type-C Charging Cable,,Shoulder Strap.Wireless Mic"
+    ],
+    "id": [
+     "Ukuran Kotak",
+     "176x176x420mm",
+     "Bahan",
+     "Plastik + Jaring Besi",
+     "Ukuran Karton",
+     "72*54.5*43.7CM(0.171)",
+     "Daya",
+     "5W*2",
+     "Jumlah Per Karton",
+     "12 PCS",
+     "Speaker",
+     "4 Inci*2",
+     "Warna",
+     "Hitam",
+     "Baterai",
+     "18650 3.7V/1200MAH",
+     "Berat Karton",
+     "22.5 KG",
+     "Fungsi",
+     "BT/USB/TF/AUX//FM",
+     "40HQ",
+     "414 karton (4968 pcs )71.33㎡",
+     "Aksesoris",
+     "Kabel Charger Type-C,,Tali Punggung.Mikrofon Nirkabel"
+    ]
+   },
+   "images": [
+    "ZQS4239W.jpg"
+   ]
+  },
+  {
+   "sku": "ZQS6212",
+   "slug": "zqs6212",
+   "category": "speaker",
+   "name": {
+    "zh": "Sing-e ZQS6212 便携式蓝牙音箱",
+    "en": "Sing-e ZQS6212 Portable Bluetooth Speaker",
+    "id": "Sing-e ZQS6212 Speaker Bluetooth Portabel"
+   },
+   "price": 270900,
+   "moq": 8,
+   "qty": 8,
+   "weight": "2.1944kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "彩盒尺寸: 206x206x525mm",
+     "材质: 塑胶+铁网",
+     "外箱尺寸: 84.2x43.0x54.5CM（0.197）",
+     "功率: 8W*2",
+     "装箱数: 8PCS",
+     "喇叭: 6.5寸*2",
+     "颜色: 黑",
+     "电池: 18650/3.7V/2400MAH",
+     "外箱重量: 20 KG",
+     "功能: 蓝牙/收音/遥控/USB带5V升压/TF卡/MIC",
+     "40HQ: 2760台（345件）67.96㎡",
+     "配件: Type-C充电线、遥控器、2米一体麦克风"
+    ],
+    "en": [
+     "Box Size: 206x206x525mm",
+     "Material: Plastic+Iron Mesh",
+     "Carton Size: 84.2x43.0x54.5CM(0.197)",
+     "Power: 8W*2",
+     "Pcs per Carton: 8PCS",
+     "Speaker: 6.5\"*2",
+     "Color: Black",
+     "Battery: 18650/3.7V/2400MAH",
+     "Carton Weight: 20 KG",
+     "Functions: Bluetooth / Radio / Remote /USB with 5V Boost/TF Card/MIC",
+     "40HQ Load: 2760 pcs (345 ctn )67.96㎡",
+     "Accessories: Type-C Charging Cable、Remote、2 m Integrated Mic"
+    ],
+    "id": [
+     "Ukuran Kotak",
+     "206x206x525mm",
+     "Bahan",
+     "Plastik + Jaring Besi",
+     "Ukuran Karton",
+     "84.2x43.0x54.5CM(0.197)",
+     "Daya",
+     "8W*2",
+     "Jumlah Per Karton",
+     "8PCS",
+     "Speaker",
+     "6.5 Inci*2",
+     "Warna",
+     "Hitam",
+     "Baterai",
+     "18650/3.7V/2400MAH",
+     "Berat Karton",
+     "20 KG",
+     "Fungsi",
+     "Bluetooth/Radio/Remote/USB dengan Boost 5V/Kartu TF/MIC",
+     "40HQ",
+     "2760 pcs (345 karton )67.96㎡",
+     "Aksesoris",
+     "Kabel Charger Type-C、Remote、Mikrofon Kabel 2m"
+    ]
+   },
+   "images": [
+    "ZQS6212.jpg"
+   ]
+  },
+  {
+   "sku": "ZQS6231",
+   "slug": "zqs6231",
+   "category": "speaker",
+   "name": {
+    "zh": "Sing-e ZQS6231 便携式蓝牙音箱",
+    "en": "Sing-e ZQS6231 Portable Bluetooth Speaker",
+    "id": "Sing-e ZQS6231 Speaker Bluetooth Portabel"
+   },
+   "price": 241500,
+   "moq": 8,
+   "qty": 8,
+   "weight": "2.4454kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "彩盒尺寸: 210x206x510mm",
+     "材质: 塑胶",
+     "外箱尺寸: 84.4x43.5x52.8CM（0.194）",
+     "功率: 5W*2",
+     "装箱数: 8 PCS",
+     "喇叭: 6.5寸*2",
+     "颜色: 黑",
+     "电池: 18650/3.7V/1500MAH",
+     "外箱重量: 21.4KG",
+     "功能: BT/USB/TF卡/FM/MIC/AUX",
+     "40HQ: 2840台（355件）68.8㎡",
+     "配件: Type-C充电线、遥控器、2米一体麦克风"
+    ],
+    "en": [
+     "Box Size: 210x206x510mm",
+     "Material: Plastic",
+     "Carton Size: 84.4x43.5x52.8CM(0.194)",
+     "Power: 5W*2",
+     "Pcs per Carton: 8 PCS",
+     "Speaker: 6.5\"*2",
+     "Color: Black",
+     "Battery: 18650/3.7V/1500MAH",
+     "Carton Weight: 21.4KG",
+     "Functions: BT/USB/TF Card/FM/MIC/AUX",
+     "40HQ Load: 2840 pcs (355 ctn )68.8㎡",
+     "Accessories: Type-C Charging Cable、Remote、2 m Integrated Mic"
+    ],
+    "id": [
+     "Ukuran Kotak",
+     "210x206x510mm",
+     "Bahan",
+     "Plastik",
+     "Ukuran Karton",
+     "84.4x43.5x52.8CM(0.194)",
+     "Daya",
+     "5W*2",
+     "Jumlah Per Karton",
+     "8 PCS",
+     "Speaker",
+     "6.5 Inci*2",
+     "Warna",
+     "Hitam",
+     "Baterai",
+     "18650/3.7V/1500MAH",
+     "Berat Karton",
+     "21.4KG",
+     "Fungsi",
+     "BT/USB/Kartu TF/FM/MIC/AUX",
+     "40HQ",
+     "2840 pcs (355 karton )68.8㎡",
+     "Aksesoris",
+     "Kabel Charger Type-C、Remote、Mikrofon Kabel 2m"
+    ]
+   },
+   "images": [
+    "ZQS6231.jpg"
+   ]
+  },
+  {
+   "sku": "ZQS8149",
+   "slug": "zqs8149",
+   "category": "speaker",
+   "name": {
+    "zh": "Sing-e ZQS8149 蓝牙音箱",
+    "en": "Sing-e ZQS8149 Bluetooth Speaker",
+    "id": "Sing-e ZQS8149 Speaker Bluetooth"
+   },
+   "price": 206200,
+   "moq": 12,
+   "qty": 12,
+   "weight": "1.7615kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "彩盒尺寸: 242*217*360MM",
+     "材质: 塑胶",
+     "外箱尺寸: 88.8x74.4x37.8CM(0.249)",
+     "功率: 5W",
+     "装箱数: 12     PCS",
+     "喇叭: 8寸",
+     "颜色: 黑色",
+     "电池: 3.7V/1200MAH",
+     "外箱重量: 24.2    KG",
+     "功能: BT/FM/USB/TF卡/MIC/TWS",
+     "40HQ: （68.4cbm） 274件  3288pcs",
+     "配件: 充电线.有线话筒.说明书"
+    ],
+    "en": [
+     "Box Size: 242*217*360MM",
+     "Material: Plastic",
+     "Carton Size: 88.8x74.4x37.8CM(0.249)",
+     "Power: 5W",
+     "Pcs per Carton: 12 PCS",
+     "Speaker: 8\"",
+     "Color: Black",
+     "Battery: 3.7V/1200MAH",
+     "Carton Weight: 24.2 KG",
+     "Functions: BT/FM/USB/TF Card/MIC/TWS",
+     "40HQ Load: (68.4cbm) 274 ctn 3288pcs",
+     "Accessories: Charging Cable.Wired Mic.Manual"
+    ],
+    "id": [
+     "Ukuran Kotak",
+     "242*217*360MM",
+     "Bahan",
+     "Plastik",
+     "Ukuran Karton",
+     "88.8x74.4x37.8CM(0.249)",
+     "Daya",
+     "5W",
+     "Jumlah Per Karton",
+     "12 PCS",
+     "Speaker",
+     "8 Inci",
+     "Warna",
+     "Hitam",
+     "Baterai",
+     "3.7V/1200MAH",
+     "Berat Karton",
+     "24.2 KG",
+     "Fungsi",
+     "BT/FM/USB/Kartu TF/MIC/TWS",
+     "40HQ",
+     "(68.4cbm) 274 karton 3288pcs",
+     "Aksesoris",
+     "Kabel Charger.Mikrofon Kabel.Manual"
+    ]
+   },
+   "images": [
+    "ZQS8149.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-CX01",
+   "slug": "cqs-cx01",
+   "category": "cable",
+   "name": {
+    "zh": "Type-C to Type-C 数据线 CQS-CX01 黑色",
+    "en": "Type-C to Type-C Cable CQS-CX01 Black",
+    "id": "Type-C to Type-C Kabel Data CQS-CX01 Hitam"
+   },
+   "price": 20400,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.101kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "小胖子A+C",
+     "材质：ABS",
+     "输出功率：27W",
+     "外箱尺寸：65*38*45CM",
+     "颜色：白/黑",
+     "重量： 21  KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "ChubbyA+C",
+     "Material: ABS",
+     "Output Power: 27W",
+     "Carton Size: 65*38*45CM",
+     "Color: White/Black",
+     "Weight: 21 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "Si GendutA+C",
+     "Bahan: ABS",
+     "Daya Output: 27W",
+     "Ukuran Karton: 65*38*45CM",
+     "Warna: Putih/Hitam",
+     "Berat: 21 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-CX01.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-CX02",
+   "slug": "cqs-cx02",
+   "category": "cable",
+   "name": {
+    "zh": "Type-C to Type-C 数据线 CQS-CX02 白色",
+    "en": "Type-C to Type-C Cable CQS-CX02 White",
+    "id": "Type-C to Type-C Kabel Data CQS-CX02 Putih"
+   },
+   "price": 20400,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.099kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "小弧 A+C",
+     "材质：ABS",
+     "输出功率：27W",
+     "外箱尺寸：65*38*45CM",
+     "颜色：白/黑",
+     "重量： 21.3  KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "Curved A+C",
+     "Material: ABS",
+     "Output Power: 27W",
+     "Carton Size: 65*38*45CM",
+     "Color: White/Black",
+     "Weight: 21.3 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "Lengkung Kecil A+C",
+     "Bahan: ABS",
+     "Daya Output: 27W",
+     "Ukuran Karton: 65*38*45CM",
+     "Warna: Putih/Hitam",
+     "Berat: 21.3 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-CX02.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-CX03",
+   "slug": "cqs-cx03",
+   "category": "cable",
+   "name": {
+    "zh": "Type-C to Type-C 数据线 CQS-CX03 黑色",
+    "en": "Type-C to Type-C Cable CQS-CX03 Black",
+    "id": "Type-C to Type-C Kabel Data CQS-CX03 Hitam"
+   },
+   "price": 21000,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.1kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "1218格A+C(PC壳)",
+     "材质：PC",
+     "输出功率：27W",
+     "外箱尺寸：65*38*45CM",
+     "颜色：白/黑",
+     "重量： 21.7 KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "1218 Grid A+C(PC Shell )",
+     "Material: PC",
+     "Output Power: 27W",
+     "Carton Size: 65*38*45CM",
+     "Color: White/Black",
+     "Weight: 21.7 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "1218 Grid A+C(PC Cangkang )",
+     "Bahan: PC",
+     "Daya Output: 27W",
+     "Ukuran Karton: 65*38*45CM",
+     "Warna: Putih/Hitam",
+     "Berat: 21.7 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-CX03.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-CX04",
+   "slug": "cqs-cx04",
+   "category": "cable",
+   "name": {
+    "zh": "Type-C to Type-C 数据线 CQS-CX04 白色",
+    "en": "Type-C to Type-C Cable CQS-CX04 White",
+    "id": "Type-C to Type-C Kabel Data CQS-CX04 Putih"
+   },
+   "price": 21000,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.103kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "草莓A+C(PC壳)",
+     "材质：PC",
+     "输出功率：27W",
+     "外箱尺寸：65*38*45CM",
+     "颜色：白/黑",
+     "重量： 21.7  KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "StrawberryA+C(PC Shell )",
+     "Material: PC",
+     "Output Power: 27W",
+     "Carton Size: 65*38*45CM",
+     "Color: White/Black",
+     "Weight: 21.7 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "StrawberryA+C(PC Cangkang )",
+     "Bahan: PC",
+     "Daya Output: 27W",
+     "Ukuran Karton: 65*38*45CM",
+     "Warna: Putih/Hitam",
+     "Berat: 21.7 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-CX04.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-CX05",
+   "slug": "cqs-cx05",
+   "category": "cable",
+   "name": {
+    "zh": "Type-C to Type-C 数据线 CQS-CX05 白色",
+    "en": "Type-C to Type-C Cable CQS-CX05 White",
+    "id": "Type-C to Type-C Kabel Data CQS-CX05 Putih"
+   },
+   "price": 21000,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.102kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "碳仟维A+C(PC壳)",
+     "材质：PC",
+     "输出功率：27W",
+     "外箱尺寸：65*38*45CM",
+     "颜色：白/黑",
+     "重量： 21.7 KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "Carbon FiberA+C(PC Shell )",
+     "Material: PC",
+     "Output Power: 27W",
+     "Carton Size: 65*38*45CM",
+     "Color: White/Black",
+     "Weight: 21.7 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "Carbon FiberA+C(PC Cangkang )",
+     "Bahan: PC",
+     "Daya Output: 27W",
+     "Ukuran Karton: 65*38*45CM",
+     "Warna: Putih/Hitam",
+     "Berat: 21.7 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-CX05.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-CX06",
+   "slug": "cqs-cx06",
+   "category": "cable",
+   "name": {
+    "zh": "Type-C to Type-C 数据线 CQS-CX06 黑色",
+    "en": "Type-C to Type-C Cable CQS-CX06 Black",
+    "id": "Type-C to Type-C Kabel Data CQS-CX06 Hitam"
+   },
+   "price": 21000,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.0995kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "钻石A+C(PC壳)",
+     "材质：PC",
+     "输出功率：27W",
+     "外箱尺寸：65*38*45CM",
+     "颜色：白/黑",
+     "重量： 21.3  KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "DiamondA+C(PC Shell )",
+     "Material: PC",
+     "Output Power: 27W",
+     "Carton Size: 65*38*45CM",
+     "Color: White/Black",
+     "Weight: 21.3 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "DiamondA+C(PC Cangkang )",
+     "Bahan: PC",
+     "Daya Output: 27W",
+     "Ukuran Karton: 65*38*45CM",
+     "Warna: Putih/Hitam",
+     "Berat: 21.3 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-CX06.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-CX07",
+   "slug": "cqs-cx07",
+   "category": "cable",
+   "name": {
+    "zh": "Type-C to Type-C 数据线 CQS-CX07 白色",
+    "en": "Type-C to Type-C Cable CQS-CX07 White",
+    "id": "Type-C to Type-C Kabel Data CQS-CX07 Putih"
+   },
+   "price": 20100,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.1027kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "常规PD款A+C",
+     "材质：ABS",
+     "输出功率：27W",
+     "外箱尺寸：65*38*45CM",
+     "颜色：白",
+     "重量： 21.8 KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "Standard PD model A+C",
+     "Material: ABS",
+     "Output Power: 27W",
+     "Carton Size: 65*38*45CM",
+     "Color: White",
+     "Weight: 21.8 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "Model PD StandarA+C",
+     "Bahan: ABS",
+     "Daya Output: 27W",
+     "Ukuran Karton: 65*38*45CM",
+     "Warna: Putih",
+     "Berat: 21.8 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-CX07.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-CX08",
+   "slug": "cqs-cx08",
+   "category": "cable",
+   "name": {
+    "zh": "Type-C to Type-C 数据线 CQS-CX08 白色",
+    "en": "Type-C to Type-C Cable CQS-CX08 White",
+    "id": "Type-C to Type-C Kabel Data CQS-CX08 Putih"
+   },
+   "price": 27100,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.1048kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "常规PD款A+C（多兼容）",
+     "材质：ABS",
+     "输出功率：27W",
+     "外箱尺寸：65*38*45CM",
+     "颜色：白",
+     "重量： 22.3  KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "Standard PD model A+C(Multi-compatible)",
+     "Material: ABS",
+     "Output Power: 27W",
+     "Carton Size: 65*38*45CM",
+     "Color: White",
+     "Weight: 22.3 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "Model PD StandarA+C(Multi-Kompatibel)",
+     "Bahan: ABS",
+     "Daya Output: 27W",
+     "Ukuran Karton: 65*38*45CM",
+     "Warna: Putih",
+     "Berat: 22.3 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-CX08.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X09-BK-CC",
+   "slug": "cqs-x09-bk-cc",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线黑色（Type-C/Type-C）",
+    "en": "Charging Data Cable Black (Type-C/Type-C)",
+    "id": "Kabel Data Charger Hitam(Type-C/Type-C)"
+   },
+   "price": 13900,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.0304kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.0，充电40支报复铝，数据5支无磁钢5支铝 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量：16.5  KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.0, Charging 40 pcs Aluminum-coated , Data 5 pcs Non-magnetic Steel 5 pcs Aluminum PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 16.5 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.0, Pengisian 40 pcs Aluminium Coated , Data 5 pcs Baja Non-magnetik 5 pcs Aluminium PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 16.5 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X09-BK-CC.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X09-PU-AC",
+   "slug": "cqs-x09-pu-ac",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线紫色（USB-A/Type-C）",
+    "en": "Charging Data Cable Purple (USB-A/Type-C)",
+    "id": "Kabel Data Charger Ungu(USB-A/Type-C)"
+   },
+   "price": 13900,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.0329kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.0，充电40支报复铝，数据5支无磁钢5支铝 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量：16.5  KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.0, Charging 40 pcs Aluminum-coated , Data 5 pcs Non-magnetic Steel 5 pcs Aluminum PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 16.5 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.0, Pengisian 40 pcs Aluminium Coated , Data 5 pcs Baja Non-magnetik 5 pcs Aluminium PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 16.5 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X09-PU-AC.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X09-PU-CL",
+   "slug": "cqs-x09-pu-cl",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线紫色（Type-C/Lightning）",
+    "en": "Charging Data Cable Purple (Type-C/Lightning)",
+    "id": "Kabel Data Charger Ungu(Type-C/Lightning)"
+   },
+   "price": 13900,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.0312kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.0，充电40支报复铝，数据5支无磁钢5支铝 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量：16.5  KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.0, Charging 40 pcs Aluminum-coated , Data 5 pcs Non-magnetic Steel 5 pcs Aluminum PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 16.5 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.0, Pengisian 40 pcs Aluminium Coated , Data 5 pcs Baja Non-magnetik 5 pcs Aluminium PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 16.5 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X09-PU-CL.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X10-BK-AC",
+   "slug": "cqs-x10-bk-ac",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线黑色（USB-A/Type-C）",
+    "en": "Charging Data Cable Black (USB-A/Type-C)",
+    "id": "Kabel Data Charger Hitam(USB-A/Type-C)"
+   },
+   "price": 10900,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.0315kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.2，充电45支10报复铝，数据5支铝5支无磁钢 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量： 16.5 KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.2, Charging 45 pcs 10Aluminum-coated , Data 5 pcs Aluminum 5 pcs Non-magnetic Steel PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 16.5 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.2, Pengisian 45 pcs 10Aluminium Coated , Data 5 pcs Aluminium 5 pcs Baja Non-magnetik PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 16.5 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X10-BK-AC.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X10-BK-AL",
+   "slug": "cqs-x10-bk-al",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线黑色（USB-A/Lightning）",
+    "en": "Charging Data Cable Black (USB-A/Lightning)",
+    "id": "Kabel Data Charger Hitam(USB-A/Lightning)"
+   },
+   "price": 10900,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.0313kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.2，充电45支10报复铝，数据5支铝5支无磁钢 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量： 16.5 KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.2, Charging 45 pcs 10Aluminum-coated , Data 5 pcs Aluminum 5 pcs Non-magnetic Steel PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 16.5 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.2, Pengisian 45 pcs 10Aluminium Coated , Data 5 pcs Aluminium 5 pcs Baja Non-magnetik PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 16.5 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X10-BK-AL.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X10-BL-CC",
+   "slug": "cqs-x10-bl-cc",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线蓝色（Type-C/Type-C）",
+    "en": "Charging Data Cable Blue (Type-C/Type-C)",
+    "id": "Kabel Data Charger Biru(Type-C/Type-C)"
+   },
+   "price": 13900,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.0303kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.2，充电45支10报复铝，数据5支铝5支无磁钢 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量： 16.5 KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.2, Charging 45 pcs 10Aluminum-coated , Data 5 pcs Aluminum 5 pcs Non-magnetic Steel PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 16.5 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.2, Pengisian 45 pcs 10Aluminium Coated , Data 5 pcs Aluminium 5 pcs Baja Non-magnetik PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 16.5 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X10-BL-CC.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X10-BL-CL",
+   "slug": "cqs-x10-bl-cl",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线蓝色（Type-C/Lightning）",
+    "en": "Charging Data Cable Blue (Type-C/Lightning)",
+    "id": "Kabel Data Charger Biru(Type-C/Lightning)"
+   },
+   "price": 16800,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.0303kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.2，充电45支10报复铝，数据5支铝5支无磁钢 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量： 16.5 KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.2, Charging 45 pcs 10Aluminum-coated , Data 5 pcs Aluminum 5 pcs Non-magnetic Steel PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 16.5 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.2, Pengisian 45 pcs 10Aluminium Coated , Data 5 pcs Aluminium 5 pcs Baja Non-magnetik PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 16.5 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X10-BL-CL.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X11-BL-AC",
+   "slug": "cqs-x11-bl-ac",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线蓝色（USB-A/Type-C）",
+    "en": "Charging Data Cable Blue (USB-A/Type-C)",
+    "id": "Kabel Data Charger Biru(USB-A/Type-C)"
+   },
+   "price": 10400,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.03kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.5，充电40支报复铝，数据5支无磁钢5支铝 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量：19  KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.5, Charging 40 pcs Aluminum-coated , Data 5 pcs Non-magnetic Steel 5 pcs Aluminum PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 19 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.5, Pengisian 40 pcs Aluminium Coated , Data 5 pcs Baja Non-magnetik 5 pcs Aluminium PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 19 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X11-BL-AC.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X11-BL-CC",
+   "slug": "cqs-x11-bl-cc",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线蓝色（Type-C/Type-C）",
+    "en": "Charging Data Cable Blue (Type-C/Type-C)",
+    "id": "Kabel Data Charger Biru(Type-C/Type-C)"
+   },
+   "price": 10400,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.0288kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.5，充电40支报复铝，数据5支无磁钢5支铝 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量：19  KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.5, Charging 40 pcs Aluminum-coated , Data 5 pcs Non-magnetic Steel 5 pcs Aluminum PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 19 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.5, Pengisian 40 pcs Aluminium Coated , Data 5 pcs Baja Non-magnetik 5 pcs Aluminium PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 19 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X11-BL-CC.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X11-OR-AL",
+   "slug": "cqs-x11-or-al",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线橙色（USB-A/Lightning）",
+    "en": "Charging Data Cable Orange (USB-A/Lightning)",
+    "id": "Kabel Data Charger Oranye(USB-A/Lightning)"
+   },
+   "price": 10400,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.0291kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.5，充电40支报复铝，数据5支无磁钢5支铝 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量：19  KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.5, Charging 40 pcs Aluminum-coated , Data 5 pcs Non-magnetic Steel 5 pcs Aluminum PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 19 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.5, Pengisian 40 pcs Aluminium Coated , Data 5 pcs Baja Non-magnetik 5 pcs Aluminium PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 19 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X11-OR-AL.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X11-OR-CL",
+   "slug": "cqs-x11-or-cl",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线橙色（Type-C/Lightning）",
+    "en": "Charging Data Cable Orange (Type-C/Lightning)",
+    "id": "Kabel Data Charger Oranye(Type-C/Lightning)"
+   },
+   "price": 10400,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.0271kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.5，充电40支报复铝，数据5支无磁钢5支铝 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量：19  KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.5, Charging 40 pcs Aluminum-coated , Data 5 pcs Non-magnetic Steel 5 pcs Aluminum PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 19 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.5, Pengisian 40 pcs Aluminium Coated , Data 5 pcs Baja Non-magnetik 5 pcs Aluminium PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 19 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X11-OR-CL.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X12-BK-CL",
+   "slug": "cqs-x12-bk-cl",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线黑色（Type-C/Lightning）",
+    "en": "Charging Data Cable Black (Type-C/Lightning)",
+    "id": "Kabel Data Charger Hitam(Type-C/Lightning)"
+   },
+   "price": 10900,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.0314kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.2，充电45支10报复铝，数据5支铝5支无磁钢 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量：16.5 KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.2, Charging 45 pcs 10Aluminum-coated , Data 5 pcs Aluminum 5 pcs Non-magnetic Steel PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 16.5 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.2, Pengisian 45 pcs 10Aluminium Coated , Data 5 pcs Aluminium 5 pcs Baja Non-magnetik PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 16.5 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X12-BK-CL.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X12-OR-AC",
+   "slug": "cqs-x12-or-ac",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线橙色（USB-A/Type-C）",
+    "en": "Charging Data Cable Orange (USB-A/Type-C)",
+    "id": "Kabel Data Charger Oranye(USB-A/Type-C)"
+   },
+   "price": 10900,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.0314kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.2，充电45支10报复铝，数据5支铝5支无磁钢 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量：16.5 KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.2, Charging 45 pcs 10Aluminum-coated , Data 5 pcs Aluminum 5 pcs Non-magnetic Steel PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 16.5 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.2, Pengisian 45 pcs 10Aluminium Coated , Data 5 pcs Aluminium 5 pcs Baja Non-magnetik PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 16.5 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X12-OR-AC.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X12-OR-AL",
+   "slug": "cqs-x12-or-al",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线橙色（USB-A/Lightning）",
+    "en": "Charging Data Cable Orange (USB-A/Lightning)",
+    "id": "Kabel Data Charger Oranye(USB-A/Lightning)"
+   },
+   "price": 10900,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.0312kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.2，充电45支10报复铝，数据5支铝5支无磁钢 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量：16.5 KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.2, Charging 45 pcs 10Aluminum-coated , Data 5 pcs Aluminum 5 pcs Non-magnetic Steel PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 16.5 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.2, Pengisian 45 pcs 10Aluminium Coated , Data 5 pcs Aluminium 5 pcs Baja Non-magnetik PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 16.5 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X12-OR-AL.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-X12-OR-CC",
+   "slug": "cqs-x12-or-cc",
+   "category": "cable",
+   "name": {
+    "zh": "数据线充电线橙色（Type-C/Type-C）",
+    "en": "Charging Data Cable Orange (Type-C/Type-C)",
+    "id": "Kabel Data Charger Oranye(Type-C/Type-C)"
+   },
+   "price": 10900,
+   "moq": 500,
+   "qty": 500,
+   "weight": "0.0298kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "48编带灯线",
+     "1米",
+     "材质：五芯OD4.2，充电45支10报复铝，数据5支铝5支无磁钢 PD",
+     "承受电流：6A",
+     "外箱尺寸：50*40*35CM",
+     "重量：16.5 KG",
+     "装箱数：500 PCS"
+    ],
+    "en": [
+     "48 braided Light-up Cable",
+     "1 m",
+     "Material: 5-core OD4.2, Charging 45 pcs 10Aluminum-coated , Data 5 pcs Aluminum 5 pcs Non-magnetic Steel PD",
+     "Max Current: 6A",
+     "Carton Size: 50*40*35CM",
+     "Weight: 16.5 KG",
+     "Pcs per Carton: 500 PCS"
+    ],
+    "id": [
+     "48-braided dengan Lampu Kabel",
+     "1 m",
+     "Bahan: 5-inti OD4.2, Pengisian 45 pcs 10Aluminium Coated , Data 5 pcs Aluminium 5 pcs Baja Non-magnetik PD",
+     "Arus Maks: 6A",
+     "Ukuran Karton: 50*40*35CM",
+     "Berat: 16.5 KG",
+     "Jumlah Per Karton: 500 PCS"
+    ]
+   },
+   "images": [
+    "CQS-X12-OR-CC.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C09",
+   "slug": "cqs-c09",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C09 黄黑色",
+    "en": "Charger CQS-C09 Yellow-Black",
+    "id": "Kepala Charger CQS-C09 Kuning-Hitam"
+   },
+   "price": 23300,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.1032kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "AACCC欧规",
+     "材质：ABS",
+     "输出功率：240 W",
+     "外箱尺寸：60*40*45CM",
+     "颜色：白/黑/黄",
+     "重量：22 KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "AACCC EU",
+     "Material: ABS",
+     "Output Power: 240 W",
+     "Carton Size: 60*40*45CM",
+     "Color: White/Black/Yellow",
+     "Weight: 22 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "AACCCStandar EU",
+     "Bahan: ABS",
+     "Daya Output: 240 W",
+     "Ukuran Karton: 60*40*45CM",
+     "Warna: Putih/Hitam/Kuning",
+     "Berat: 22 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C09.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C10",
+   "slug": "cqs-c10",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C10 黑白色",
+    "en": "Charger CQS-C10 Black-White",
+    "id": "Kepala Charger CQS-C10 Hitam-Putih"
+   },
+   "price": 18300,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.0782kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "马卡龙A+C 欧规",
+     "材质：ABS",
+     "输出功率：  38W",
+     "外箱尺寸：58*45*42CM",
+     "颜色：白/黑/黄",
+     "重量：16.9  KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "MacaronA+C EU",
+     "Material: ABS",
+     "Output Power: 38W",
+     "Carton Size: 58*45*42CM",
+     "Color: White/Black/Yellow",
+     "Weight: 16.9 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "MacaronA+C Standar EU",
+     "Bahan: ABS",
+     "Daya Output: 38W",
+     "Ukuran Karton: 58*45*42CM",
+     "Warna: Putih/Hitam/Kuning",
+     "Berat: 16.9 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C10.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C11",
+   "slug": "cqs-c11",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C11 黄黑色",
+    "en": "Charger CQS-C11 Yellow-Black",
+    "id": "Kepala Charger CQS-C11 Kuning-Hitam"
+   },
+   "price": 17100,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.0758kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "AACC欧规",
+     "材质：ABS",
+     "输出功率： 120W",
+     "外箱尺寸：52*45*42.5CM",
+     "颜色：黄",
+     "重量：16.5KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "AACC EU",
+     "Material: ABS",
+     "Output Power: 120W",
+     "Carton Size: 52*45*42.5CM",
+     "Color: Yellow",
+     "Weight: 16.5KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "AACCStandar EU",
+     "Bahan: ABS",
+     "Daya Output: 120W",
+     "Ukuran Karton: 52*45*42.5CM",
+     "Warna: Kuning",
+     "Berat: 16.5KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C11.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C12",
+   "slug": "cqs-c12",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C12 白色",
+    "en": "Charger CQS-C12 White",
+    "id": "Kepala Charger CQS-C12 Putih"
+   },
+   "price": 18000,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.085kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "33W欧规外观",
+     "材质：ABS",
+     "输出功率：33W",
+     "外箱尺寸：52*45*42CM",
+     "重量：18.2KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "33WEU Design",
+     "Material: ABS",
+     "Output Power: 33W",
+     "Carton Size: 52*45*42CM",
+     "Weight: 18.2KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "33WDesain Standar EU",
+     "Bahan: ABS",
+     "Daya Output: 33W",
+     "Ukuran Karton: 52*45*42CM",
+     "Berat: 18.2KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C12.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C13",
+   "slug": "cqs-c13",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C13 白色",
+    "en": "Charger CQS-C13 White",
+    "id": "Kepala Charger CQS-C13 Putih"
+   },
+   "price": 18300,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.087kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "67W欧规外观",
+     "材质：ABS",
+     "输出功率：67W",
+     "外箱尺寸：52*45*42CM",
+     "颜色：白色",
+     "重量：18.5  KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "67WEU Design",
+     "Material: ABS",
+     "Output Power: 67W",
+     "Carton Size: 52*45*42CM",
+     "Color: White",
+     "Weight: 18.5 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "67WDesain Standar EU",
+     "Bahan: ABS",
+     "Daya Output: 67W",
+     "Ukuran Karton: 52*45*42CM",
+     "Warna: Putih",
+     "Berat: 18.5 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C13.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C14",
+   "slug": "cqs-c14",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C14 白色",
+    "en": "Charger CQS-C14 White",
+    "id": "Kepala Charger CQS-C14 Putih"
+   },
+   "price": 21200,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.1105kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "120W 欧规外观",
+     "材质：ABS",
+     "输出功率：120W",
+     "外箱尺寸：60*40*45CM",
+     "颜色：白色",
+     "重量：23.4 KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "120W EU Design",
+     "Material: ABS",
+     "Output Power: 120W",
+     "Carton Size: 60*40*45CM",
+     "Color: White",
+     "Weight: 23.4 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "120W Desain Standar EU",
+     "Bahan: ABS",
+     "Daya Output: 120W",
+     "Ukuran Karton: 60*40*45CM",
+     "Warna: Putih",
+     "Berat: 23.4 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C14.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C15",
+   "slug": "cqs-c15",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C15 白色",
+    "en": "Charger CQS-C15 White",
+    "id": "Kepala Charger CQS-C15 Putih"
+   },
+   "price": 18000,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.081kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "66W 欧规",
+     "材质：ABS",
+     "输出功率：66W",
+     "外箱尺寸：52*45*42CM",
+     "颜色：白",
+     "重量：17.3 KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "66W EU",
+     "Material: ABS",
+     "Output Power: 66W",
+     "Carton Size: 52*45*42CM",
+     "Color: White",
+     "Weight: 17.3 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "66W Standar EU",
+     "Bahan: ABS",
+     "Daya Output: 66W",
+     "Ukuran Karton: 52*45*42CM",
+     "Warna: Putih",
+     "Berat: 17.3 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C15.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C16",
+   "slug": "cqs-c16",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C16 黑色",
+    "en": "Charger CQS-C16 Black",
+    "id": "Kepala Charger CQS-C16 Hitam"
+   },
+   "price": 16500,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.0672kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "NOTE10欧规",
+     "材质：ABS",
+     "输出功率：27W",
+     "外箱尺寸：52*45*42CM",
+     "颜色：黑/白",
+     "重量：14.7KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "NOTE10 EU",
+     "Material: ABS",
+     "Output Power: 27W",
+     "Carton Size: 52*45*42CM",
+     "Color: Black/White",
+     "Weight: 14.7KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "NOTE10Standar EU",
+     "Bahan: ABS",
+     "Daya Output: 27W",
+     "Ukuran Karton: 52*45*42CM",
+     "Warna: Hitam/Putih",
+     "Berat: 14.7KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C16.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C17",
+   "slug": "cqs-c17",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C17 白色",
+    "en": "Charger CQS-C17 White",
+    "id": "Kepala Charger CQS-C17 Putih"
+   },
+   "price": 16500,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.069kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "常规PD款 欧规（贴片母座）",
+     "材质：ABS",
+     "输出功率：27W",
+     "外箱尺寸：52*45*42CM",
+     "颜色：白",
+     "重量：15.2 KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "Standard PD model EU(SMT Port)",
+     "Material: ABS",
+     "Output Power: 27W",
+     "Carton Size: 52*45*42CM",
+     "Color: White",
+     "Weight: 15.2 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "Model PD Standar Standar EU(Socket SMD)",
+     "Bahan: ABS",
+     "Daya Output: 27W",
+     "Ukuran Karton: 52*45*42CM",
+     "Warna: Putih",
+     "Berat: 15.2 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C17.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C18",
+   "slug": "cqs-c18",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C18 白色",
+    "en": "Charger CQS-C18 White",
+    "id": "Kepala Charger CQS-C18 Putih"
+   },
+   "price": 18900,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.073kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "常规PD款欧规（原母座）",
+     "材质：ABS",
+     "输出功率：27W",
+     "外箱尺寸：52*45*42CM",
+     "颜色：白色",
+     "重量：15.8 KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "Standard PD model EU(Original Port)",
+     "Material: ABS",
+     "Output Power: 27W",
+     "Carton Size: 52*45*42CM",
+     "Color: White",
+     "Weight: 15.8 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "Model PD StandarStandar EU(Socket Original)",
+     "Bahan: ABS",
+     "Daya Output: 27W",
+     "Ukuran Karton: 52*45*42CM",
+     "Warna: Putih",
+     "Berat: 15.8 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C18.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C19",
+   "slug": "cqs-c19",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C19 白色",
+    "en": "Charger CQS-C19 White",
+    "id": "Kepala Charger CQS-C19 Putih"
+   },
+   "price": 31000,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.0913kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "常规PD17（氮化镓）欧规",
+     "材质：PC",
+     "输出功率：45W",
+     "外箱尺寸：65*42*37CM",
+     "颜色：白",
+     "重量：  19.5  KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "Standard PD17(GaN) EU",
+     "Material: PC",
+     "Output Power: 45W",
+     "Carton Size: 65*42*37CM",
+     "Color: White",
+     "Weight: 19.5 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "Standar PD17(GaN)Standar EU",
+     "Bahan: PC",
+     "Daya Output: 45W",
+     "Ukuran Karton: 65*42*37CM",
+     "Warna: Putih",
+     "Berat: 19.5 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C19.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C20",
+   "slug": "cqs-c20",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C20 黑色",
+    "en": "Charger CQS-C20 Black",
+    "id": "Kepala Charger CQS-C20 Hitam"
+   },
+   "price": 30100,
+   "moq": 100,
+   "qty": 100,
+   "weight": "0.1407kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "65W ACC（全兼容）欧规",
+     "材质：PC",
+     "输出功率：65W",
+     "外箱尺寸：40*31*45CM",
+     "重量：  15.1 KG",
+     "装箱数：100 PCS"
+    ],
+    "en": [
+     "65W ACC(Full-compatible) EU",
+     "Material: PC",
+     "Output Power: 65W",
+     "Carton Size: 40*31*45CM",
+     "Weight: 15.1 KG",
+     "Pcs per Carton: 100 PCS"
+    ],
+    "id": [
+     "65W ACC(Kompatibel Penuh)Standar EU",
+     "Bahan: PC",
+     "Daya Output: 65W",
+     "Ukuran Karton: 40*31*45CM",
+     "Berat: 15.1 KG",
+     "Jumlah Per Karton: 100 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C20.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C21",
+   "slug": "cqs-c21",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C21 白紫色",
+    "en": "Charger CQS-C21 White-Purple",
+    "id": "Kepala Charger CQS-C21 Putih-Ungu"
+   },
+   "price": 22100,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.0812kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "渐变带灯",
+     "单U快充 欧规",
+     "材质：ABS",
+     "输出功率：27W",
+     "外箱尺寸：52*45*42CM",
+     "颜色：橙/紫",
+     "重量： 17.4 KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "Gradient with Light",
+     "Single USBFast Charging EU",
+     "Material: ABS",
+     "Output Power: 27W",
+     "Carton Size: 52*45*42CM",
+     "Color: Orange/Purple",
+     "Weight: 17.4 KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "Gradasidengan Lampu",
+     "Single USBFast Charging Standar EU",
+     "Bahan: ABS",
+     "Daya Output: 27W",
+     "Ukuran Karton: 52*45*42CM",
+     "Warna: Oranye/Ungu",
+     "Berat: 17.4 KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C21.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C23",
+   "slug": "cqs-c23",
+   "category": "charger",
+   "name": {
+    "zh": "10口 USB 充电器 CQS-C23 Type-A 白色",
+    "en": "10-Port USB Charger CQS-C23 Type-A White",
+    "id": "10Port USB Charger CQS-C23 Type-A Putih"
+   },
+   "price": 25700,
+   "moq": 200,
+   "qty": 200,
+   "weight": "0.0917kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "5A5C扩展",
+     "材质：ABS",
+     "输出功率：25W",
+     "外箱尺寸：54*30*47CM",
+     "颜色：白",
+     "重量： 19.3KG",
+     "装箱数：200 PCS"
+    ],
+    "en": [
+     "5A5CExtension",
+     "Material: ABS",
+     "Output Power: 25W",
+     "Carton Size: 54*30*47CM",
+     "Color: White",
+     "Weight: 19.3KG",
+     "Pcs per Carton: 200 PCS"
+    ],
+    "id": [
+     "5A5CEkstensi",
+     "Bahan: ABS",
+     "Daya Output: 25W",
+     "Ukuran Karton: 54*30*47CM",
+     "Warna: Putih",
+     "Berat: 19.3KG",
+     "Jumlah Per Karton: 200 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C23.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C25",
+   "slug": "cqs-c25",
+   "category": "charger",
+   "name": {
+    "zh": "Type-C 充电器 CQS-C25 白色",
+    "en": "Type-C Charger CQS-C25 White",
+    "id": "Type-C Charger CQS-C25 Putih"
+   },
+   "price": 81000,
+   "moq": 100,
+   "qty": 100,
+   "weight": "0.1204kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "30W A+C单拉",
+     "材质：ABS",
+     "输出功率：30W",
+     "外箱尺寸：56*31*47CM",
+     "颜色：白/黑",
+     "重量：  12.7 KG",
+     "装箱数：100 PCS"
+    ],
+    "en": [
+     "30W A+CSingle Pull",
+     "Material: ABS",
+     "Output Power: 30W",
+     "Carton Size: 56*31*47CM",
+     "Color: White/Black",
+     "Weight: 12.7 KG",
+     "Pcs per Carton: 100 PCS"
+    ],
+    "id": [
+     "30W A+CTarik Tunggal",
+     "Bahan: ABS",
+     "Daya Output: 30W",
+     "Ukuran Karton: 56*31*47CM",
+     "Warna: Putih/Hitam",
+     "Berat: 12.7 KG",
+     "Jumlah Per Karton: 100 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C25.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C26",
+   "slug": "cqs-c26",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C26 黑色",
+    "en": "Charger CQS-C26 Black",
+    "id": "Kepala Charger CQS-C26 Hitam"
+   },
+   "price": 81600,
+   "moq": 100,
+   "qty": 100,
+   "weight": "0.124kg",
+   "stock": "ready",
+   "label": "best",
+   "specs": {
+    "zh": [
+     "65W A+C单拉",
+     "材质：ABS",
+     "输出功率：65W",
+     "外箱尺寸：56*31*47CM",
+     "颜色：橙/黑/白",
+     "重量： 13.5  KG",
+     "装箱数：100 PCS"
+    ],
+    "en": [
+     "65W A+CSingle Pull",
+     "Material: ABS",
+     "Output Power: 65W",
+     "Carton Size: 56*31*47CM",
+     "Color: Orange/Black/White",
+     "Weight: 13.5 KG",
+     "Pcs per Carton: 100 PCS"
+    ],
+    "id": [
+     "65W A+CTarik Tunggal",
+     "Bahan: ABS",
+     "Daya Output: 65W",
+     "Ukuran Karton: 56*31*47CM",
+     "Warna: Oranye/Hitam/Putih",
+     "Berat: 13.5 KG",
+     "Jumlah Per Karton: 100 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C26.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C27",
+   "slug": "cqs-c27",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C27 黑色",
+    "en": "Charger CQS-C27 Black",
+    "id": "Kepala Charger CQS-C27 Hitam"
+   },
+   "price": 66900,
+   "moq": 100,
+   "qty": 100,
+   "weight": "0.1182kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "80W A+C单拉",
+     "材质：ABS",
+     "输出功率：80W",
+     "外箱尺寸：56*31*47CM",
+     "颜色：白/黑/黄",
+     "重量：  12.4 KG",
+     "装箱数：100 PCS"
+    ],
+    "en": [
+     "80W A+CSingle Pull",
+     "Material: ABS",
+     "Output Power: 80W",
+     "Carton Size: 56*31*47CM",
+     "Color: White/Black/Yellow",
+     "Weight: 12.4 KG",
+     "Pcs per Carton: 100 PCS"
+    ],
+    "id": [
+     "80W A+CTarik Tunggal",
+     "Bahan: ABS",
+     "Daya Output: 80W",
+     "Ukuran Karton: 56*31*47CM",
+     "Warna: Putih/Hitam/Kuning",
+     "Berat: 12.4 KG",
+     "Jumlah Per Karton: 100 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C27.jpg"
+   ]
+  },
+  {
+   "sku": "CQS-C28",
+   "slug": "cqs-c28",
+   "category": "charger",
+   "name": {
+    "zh": "充电头 CQS-C28 黑银色",
+    "en": "Charger CQS-C28 Black-Silver",
+    "id": "Kepala Charger CQS-C28 Hitam-Perak"
+   },
+   "price": 70100,
+   "moq": 100,
+   "qty": 100,
+   "weight": "0.1142kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "2026款 A+C单拉",
+     "材质：ABS",
+     "输出功率：80W",
+     "外箱尺寸：56*31*47CM",
+     "颜色：钛银色",
+     "重量：12.4  KG",
+     "装箱数：100 PCS"
+    ],
+    "en": [
+     "2026 model A+CSingle Pull",
+     "Material: ABS",
+     "Output Power: 80W",
+     "Carton Size: 56*31*47CM",
+     "Color: Titanium Silver",
+     "Weight: 12.4 KG",
+     "Pcs per Carton: 100 PCS"
+    ],
+    "id": [
+     "2026 model A+CTarik Tunggal",
+     "Bahan: ABS",
+     "Daya Output: 80W",
+     "Ukuran Karton: 56*31*47CM",
+     "Warna: Titanium Silver",
+     "Berat: 12.4 KG",
+     "Jumlah Per Karton: 100 PCS"
+    ]
+   },
+   "images": [
+    "CQS-C28.jpg"
+   ]
+  },
+  {
+   "sku": "HED-015",
+   "slug": "hed-015",
+   "category": "light",
+   "name": {
+    "zh": "15w头灯",
+    "en": "15W Headlamp",
+    "id": "Lampu Kepala 15W"
+   },
+   "price": 1500,
+   "moq": 60,
+   "qty": 60,
+   "weight": "0.281kg",
+   "stock": "preorder",
+   "label": "new",
+   "specs": {
+    "zh": [
+     "材质：ABS+PC",
+     "功率：15W",
+     "灯光模式：强光/弱光/爆闪",
+     "电池：18650 3.7V 1200mAh*1",
+     "充电方式：Type-C充电",
+     "防水等级：IPX4",
+     "配件：Type-C充电线,头带"
+    ],
+    "en": [
+     "Material: ABS+PC",
+     "Power: 15W",
+     "Lighting Modes: Strong Light/Weak Light/Strobe",
+     "Battery: 18650 3.7V 1200mAh*1",
+     "Charging: Type-C Charging",
+     "Waterproof Rating: IPX4",
+     "Accessories: Type-C Charging Cable,Headband"
+    ],
+    "id": [
+     "Bahan: ABS+PC",
+     "Daya: 15W",
+     "Mode Cahaya: Terang/Rendah/Strobe",
+     "Baterai: 18650 3.7V 1200mAh*1",
+     "Pengisian: Type-C",
+     "Tahan Air: IPX4",
+     "Aksesoris: Kabel Charger Type-C, Tali Kepala"
+    ]
+   },
+   "images": [
+    "HED-015.jpg"
+   ]
+  },
+  {
+   "sku": "HED-020",
+   "slug": "hed-020",
+   "category": "light",
+   "name": {
+    "zh": "20w头灯",
+    "en": "20W Headlamp",
+    "id": "Lampu Kepala 20W"
+   },
+   "price": 1600,
+   "moq": 0,
+   "qty": 0,
+   "weight": "0.3015kg",
+   "stock": "preorder",
+   "label": "new",
+   "specs": {
+    "zh": [
+     "材质：ABS+PC",
+     "功率：20W",
+     "灯光模式：强光/弱光/爆闪/SOS",
+     "电池：18650 3.7V 1500mAh*2",
+     "充电方式：Type-C充电",
+     "防水等级：IPX4",
+     "配件：Type-C充电线,头带"
+    ],
+    "en": [
+     "Material: ABS+PC",
+     "Power: 20W",
+     "Lighting Modes: Strong Light/Weak Light/Strobe/SOS",
+     "Battery: 18650 3.7V 1500mAh*2",
+     "Charging: Type-C Charging",
+     "Waterproof Rating: IPX4",
+     "Accessories: Type-C Charging Cable,Headband"
+    ],
+    "id": [
+     "Bahan: ABS+PC",
+     "Daya: 20W",
+     "Mode Cahaya: Terang/Rendah/Strobe/SOS",
+     "Baterai: 18650 3.7V 1500mAh*2",
+     "Pengisian: Type-C",
+     "Tahan Air: IPX4",
+     "Aksesoris: Kabel Charger Type-C, Tali Kepala"
+    ]
+   },
+   "images": [
+    "HED-020.jpg"
+   ]
+  },
+  {
+   "sku": "HED-030",
+   "slug": "hed-030",
+   "category": "light",
+   "name": {
+    "zh": "30w头灯",
+    "en": "30W Headlamp",
+    "id": "Lampu Kepala 30W"
+   },
+   "price": 0,
+   "moq": 0,
+   "qty": 0,
+   "weight": "",
+   "stock": "preorder",
+   "label": "new",
+   "specs": {
+    "zh": [
+     "材质：铝合金+ABS",
+     "功率：30W",
+     "灯光模式：强光/弱光/爆闪/SOS",
+     "电池：18650 3.7V 2000mAh*2",
+     "充电方式：Type-C充电",
+     "防水等级：IPX5",
+     "配件：Type-C充电线,头带,收纳盒"
+    ],
+    "en": [
+     "Material: Aluminum Alloy+ABS",
+     "Power: 30W",
+     "Lighting Modes: Strong Light/Weak Light/Strobe/SOS",
+     "Battery: 18650 3.7V 2000mAh*2",
+     "Charging: Type-C Charging",
+     "Waterproof Rating: IPX5",
+     "Accessories: Type-C Charging Cable,Headband,Storage Case"
+    ],
+    "id": [
+     "Bahan: Aluminium Alloy+ABS",
+     "Daya: 30W",
+     "Mode Cahaya: Terang/Rendah/Strobe/SOS",
+     "Baterai: 18650 3.7V 2000mAh*2",
+     "Pengisian: Type-C",
+     "Tahan Air: IPX5",
+     "Aksesoris: Kabel Charger Type-C, Tali Kepala, Kotak"
+    ]
+   },
+   "images": [
+    "HED-030.jpg"
+   ]
+  },
+  {
+   "sku": "HED-040",
+   "slug": "hed-040",
+   "category": "light",
+   "name": {
+    "zh": "40w头灯",
+    "en": "40W Headlamp",
+    "id": "Lampu Kepala 40W"
+   },
+   "price": 19700,
+   "moq": 150,
+   "qty": 150,
+   "weight": "0.075kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "材质：铝合金+ABS",
+     "功率：40W",
+     "灯光模式：强光/弱光/爆闪/SOS",
+     "电池：18650 3.7V 2600mAh*2",
+     "充电方式：Type-C快充",
+     "防水等级：IPX5",
+     "感应模式：挥手感应开关",
+     "配件：Type-C充电线,头带,收纳盒"
+    ],
+    "en": [
+     "Material: Aluminum Alloy+ABS",
+     "Power: 40W",
+     "Lighting Modes: Strong Light/Weak Light/Strobe/SOS",
+     "Battery: 18650 3.7V 2600mAh*2",
+     "Charging: Type-CFast Charging",
+     "Waterproof Rating: IPX5",
+     "Sensor Mode: Motion Sensor Switch",
+     "Accessories: Type-C Charging Cable,Headband,Storage Case"
+    ],
+    "id": [
+     "Bahan: Aluminium Alloy+ABS",
+     "Daya: 40W",
+     "Mode Cahaya: Terang/Rendah/Strobe/SOS",
+     "Baterai: 18650 3.7V 2600mAh*2",
+     "Pengisian: Type-C Fast Charging",
+     "Tahan Air: IPX5",
+     "Sensor: Sensor Gerak Tangan",
+     "Aksesoris: Kabel Charger Type-C, Tali Kepala, Kotak"
+    ]
+   },
+   "images": [
+    "HED-040.jpg"
+   ]
+  },
+  {
+   "sku": "HED-050",
+   "slug": "hed-050",
+   "category": "light",
+   "name": {
+    "zh": "50w头灯",
+    "en": "50W Headlamp",
+    "id": "Lampu Kepala 50W"
+   },
+   "price": 1200,
+   "moq": 0,
+   "qty": 0,
+   "weight": "0.2242kg",
+   "stock": "preorder",
+   "label": "new",
+   "specs": {
+    "zh": [
+     "材质：铝合金+ABS",
+     "功率：50W",
+     "灯光模式：强光/弱光/爆闪/SOS/侧灯",
+     "电池：18650 3.7V 3000mAh*2",
+     "充电方式：Type-C快充",
+     "防水等级：IPX5",
+     "感应模式：挥手感应开关",
+     "配件：Type-C充电线,头带,收纳盒"
+    ],
+    "en": [
+     "Material: Aluminum Alloy+ABS",
+     "Power: 50W",
+     "Lighting Modes: Strong Light/Weak Light/Strobe/SOS/Side Light",
+     "Battery: 18650 3.7V 3000mAh*2",
+     "Charging: Type-CFast Charging",
+     "Waterproof Rating: IPX5",
+     "Sensor Mode: Motion Sensor Switch",
+     "Accessories: Type-C Charging Cable,Headband,Storage Case"
+    ],
+    "id": [
+     "Bahan: Aluminium Alloy+ABS",
+     "Daya: 50W",
+     "Mode Cahaya: Terang/Rendah/Strobe/SOS/Lampu Samping",
+     "Baterai: 18650 3.7V 3000mAh*2",
+     "Pengisian: Type-C Fast Charging",
+     "Tahan Air: IPX5",
+     "Sensor: Sensor Gerak Tangan",
+     "Aksesoris: Kabel Charger Type-C, Tali Kepala, Kotak"
+    ]
+   },
+   "images": [
+    "HED-050.jpg"
+   ]
+  },
+  {
+   "sku": "HED-080",
+   "slug": "hed-080",
+   "category": "light",
+   "name": {
+    "zh": "80w头灯",
+    "en": "80W Headlamp",
+    "id": "Lampu Kepala 80W"
+   },
+   "price": 34500,
+   "moq": 120,
+   "qty": 120,
+   "weight": "0.2049kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：铝合金+ABS",
+     "功率：80W",
+     "灯光模式：强光/弱光/爆闪/SOS/侧灯COB",
+     "电池：18650 3.7V 3000mAh*3",
+     "充电方式：Type-C快充",
+     "防水等级：IPX6",
+     "感应模式：挥手感应开关",
+     "电量显示：LED数字显示",
+     "配件：Type-C充电线,头带,收纳盒,USB输出（充电宝功能）"
+    ],
+    "en": [
+     "Material: Aluminum Alloy+ABS",
+     "Power: 80W",
+     "Lighting Modes: Strong Light/Weak Light/Strobe/SOS/Side Light COB",
+     "Battery: 18650 3.7V 3000mAh*3",
+     "Charging: Type-CFast Charging",
+     "Waterproof Rating: IPX6",
+     "Sensor Mode: Motion Sensor Switch",
+     "Battery Indicator: LED Digital Display",
+     "Accessories: Type-C Charging Cable,Headband,Storage Case,USB Output(Power Bank Function)"
+    ],
+    "id": [
+     "Bahan: Aluminium Alloy+ABS",
+     "Daya: 80W",
+     "Mode Cahaya: Terang/Rendah/Strobe/SOS/COB Samping",
+     "Baterai: 18650 3.7V 3000mAh*3",
+     "Pengisian: Type-C Fast Charging",
+     "Tahan Air: IPX6",
+     "Sensor: Sensor Gerak Tangan",
+     "Indikator: LED Digital",
+     "Aksesoris: Kabel Charger Type-C, Tali Kepala, Kotak, USB Output (Power Bank)"
+    ]
+   },
+   "images": [
+    "HED-080.jpg"
+   ]
+  },
+  {
+   "sku": "HEDS",
+   "slug": "heds",
+   "category": "light",
+   "name": {
+    "zh": "太阳能灯",
+    "en": "Solar Light",
+    "id": "Lampu Tenaga Surya"
+   },
+   "price": 0,
+   "moq": 0,
+   "qty": 0,
+   "weight": "",
+   "stock": "preorder",
+   "label": "",
+   "specs": {
+    "zh": [],
+    "en": [],
+    "id": []
+   },
+   "images": [
+    "HEDS.jpg"
+   ],
+   "variants": [
+    {
+     "sku": "HEDS-080",
+     "label": {
+      "zh": "小",
+      "en": "Small",
+      "id": "Kecil"
+     },
+     "qty": 150,
+     "weight": "0.1736kg",
+     "image": "HEDS-080.jpg"
+    },
+    {
+     "sku": "HEDS-120",
+     "label": {
+      "zh": "大",
+      "en": "Large",
+      "id": "Besar"
+     },
+     "qty": 120,
+     "weight": "0.1721kg",
+     "image": "HEDS-120.jpg"
+    }
+   ]
+  },
+  {
+   "sku": "HEDY",
+   "slug": "hedy",
+   "category": "light",
+   "name": {
+    "zh": "面包灯",
+    "en": "Bread Light",
+    "id": "Lampu Roti"
+   },
+   "price": 0,
+   "moq": 0,
+   "qty": 0,
+   "weight": "",
+   "stock": "preorder",
+   "label": "",
+   "specs": {
+    "zh": [],
+    "en": [],
+    "id": []
+   },
+   "images": [
+    "HEDY.jpg",
+    "面包灯图片.jpg"
+   ],
+   "variants": [
+    {
+     "sku": "HEDY-800",
+     "label": {
+      "zh": "小",
+      "en": "Small",
+      "id": "Kecil"
+     },
+     "qty": 50,
+     "weight": "",
+     "image": "HEDY-800.jpg"
+    },
+    {
+     "sku": "HEDY-1000",
+     "label": {
+      "zh": "大",
+      "en": "Large",
+      "id": "Besar"
+     },
+     "qty": 50,
+     "weight": "",
+     "image": "HEDY-1000.jpg"
+    }
+   ]
+  },
+  {
+   "sku": "HEDZ-200",
+   "slug": "hedz-200",
+   "category": "light",
+   "name": {
+    "zh": "伸缩头灯",
+    "en": "Extendable Headlamp",
+    "id": "Lampu Kepala Teleskopik"
+   },
+   "price": 900,
+   "moq": 150,
+   "qty": 150,
+   "weight": "0.1695kg",
+   "stock": "preorder",
+   "label": "new",
+   "specs": {
+    "zh": [
+     "材质：铝合金+ABS",
+     "功率：20W COB LED",
+     "伸缩范围：20-60cm",
+     "电池：18650 3.7V 2000mAh*2",
+     "灯光模式：强光/弱光/爆闪",
+     "充电方式：Type-C充电",
+     "防水等级：IPX4",
+     "特点：伸缩设计,磁吸头,360°旋转",
+     "配件：Type-C充电线"
+    ],
+    "en": [
+     "Material: Aluminum Alloy+ABS",
+     "Power: 20W COB LED",
+     "Extension Range: 20-60cm",
+     "Battery: 18650 3.7V 2000mAh*2",
+     "Lighting Modes: Strong Light/Weak Light/Strobe",
+     "Charging: Type-C Charging",
+     "Waterproof Rating: IPX4",
+     "Features: Extendable Design,Magnetic Head,360° Rotation",
+     "Accessories: Type-C Charging Cable"
+    ],
+    "id": [
+     "Bahan: Aluminium Alloy+ABS",
+     "Daya: 20W COB LED",
+     "Jangkauan: 20-60cm",
+     "Baterai: 18650 3.7V 2000mAh*2",
+     "Mode Cahaya: Terang/Rendah/Strobe",
+     "Pengisian: Type-C",
+     "Tahan Air: IPX4",
+     "Fitur: Teleskopik, Kepala Magnet, Putar 360°",
+     "Aksesoris: Kabel Charger Type-C"
+    ]
+   },
+   "images": [
+    "HEDZ-200.jpg"
+   ]
+  },
+  {
+   "sku": "PG-WHT-01",
+   "slug": "pg-wht-01",
+   "category": "pump",
+   "name": {
+    "zh": "水泵 白色",
+    "en": "Water Pump White",
+    "id": "Pompa Air Putih"
+   },
+   "price": 22500,
+   "moq": 84,
+   "qty": 84,
+   "weight": "0.2201kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "材质：ABS",
+     "功率：5W",
+     "流量：3-5L/min",
+     "电池：3.7V/1200mAh",
+     "充电方式：Type-C充电",
+     "特点：单按钮操作,自动关停",
+     "配件：Type-C充电线,硅胶水管"
+    ],
+    "en": [
+     "Material: ABS",
+     "Power: 5W",
+     "Flow Rate: 3-5L/min",
+     "Battery: 3.7V/1200mAh",
+     "Charging: Type-C Charging",
+     "Features: Single Button Operation,Auto Shut-off",
+     "Accessories: Type-C Charging Cable,Silicone Hose"
+    ],
+    "id": [
+     "Bahan: ABS",
+     "Daya: 5W",
+     "Debit: 3-5L/min",
+     "Baterai: 3.7V/1200mAh",
+     "Pengisian: Type-C",
+     "Fitur: Tombol Tunggal, Mati Otomatis",
+     "Aksesoris: Kabel Charger Type-C, Selang Silikon"
+    ]
+   },
+   "images": [
+    "PG-WHT-01.jpg"
+   ]
+  },
+  {
+   "sku": "PG-WHT-02B",
+   "slug": "pg-wht-02b",
+   "category": "pump",
+   "name": {
+    "zh": "水泵折叠单钮",
+    "en": "Foldable Water Pump (Single Button)",
+    "id": "Pompa Air Lipat Tombol Tunggal"
+   },
+   "price": 31800,
+   "moq": 60,
+   "qty": 60,
+   "weight": "0.2087kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：ABS",
+     "功率：5W",
+     "流量：3-5L/min",
+     "电池：3.7V/1500mAh",
+     "充电方式：Type-C充电",
+     "特点：折叠设计,单按钮",
+     "配件：Type-C充电线,硅胶水管"
+    ],
+    "en": [
+     "Material: ABS",
+     "Power: 5W",
+     "Flow Rate: 3-5L/min",
+     "Battery: 3.7V/1500mAh",
+     "Charging: Type-C Charging",
+     "Features: Foldable Design,Single Button",
+     "Accessories: Type-C Charging Cable,Silicone Hose"
+    ],
+    "id": [
+     "Bahan: ABS",
+     "Daya: 5W",
+     "Debit: 3-5L/min",
+     "Baterai: 3.7V/1500mAh",
+     "Pengisian: Type-C",
+     "Fitur: Desain Lipat, Tombol Tunggal",
+     "Aksesoris: Kabel Charger Type-C, Selang Silikon"
+    ]
+   },
+   "images": [
+    "PG-WHT-02B.jpg"
+   ]
+  },
+  {
+   "sku": "PG-WHT-02W",
+   "slug": "pg-wht-02w",
+   "category": "pump",
+   "name": {
+    "zh": "水泵折叠单钮",
+    "en": "Foldable Water Pump (Single Button)",
+    "id": "Pompa Air Lipat Tombol Tunggal"
+   },
+   "price": 31800,
+   "moq": 60,
+   "qty": 60,
+   "weight": "0.21kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：ABS",
+     "功率：5W",
+     "流量：3-5L/min",
+     "电池：3.7V/1500mAh",
+     "充电方式：Type-C充电",
+     "特点：折叠设计,单按钮",
+     "配件：Type-C充电线,硅胶水管"
+    ],
+    "en": [
+     "Material: ABS",
+     "Power: 5W",
+     "Flow Rate: 3-5L/min",
+     "Battery: 3.7V/1500mAh",
+     "Charging: Type-C Charging",
+     "Features: Foldable Design,Single Button",
+     "Accessories: Type-C Charging Cable,Silicone Hose"
+    ],
+    "id": [
+     "Bahan: ABS",
+     "Daya: 5W",
+     "Debit: 3-5L/min",
+     "Baterai: 3.7V/1500mAh",
+     "Pengisian: Type-C",
+     "Fitur: Desain Lipat, Tombol Tunggal",
+     "Aksesoris: Kabel Charger Type-C, Selang Silikon"
+    ]
+   },
+   "images": [
+    "PG-WHT-02W.jpg"
+   ]
+  },
+  {
+   "sku": "PG-WHT-03B",
+   "slug": "pg-wht-03b",
+   "category": "pump",
+   "name": {
+    "zh": "水泵双按钮",
+    "en": "Water Pump (Dual Button)",
+    "id": "Pompa Air Tombol Ganda"
+   },
+   "price": 31800,
+   "moq": 60,
+   "qty": 60,
+   "weight": "0.185kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：ABS",
+     "功率：5W",
+     "流量：4-6L/min",
+     "电池：3.7V/1800mAh",
+     "充电方式：Type-C充电",
+     "特点：双按钮,自动关停,电量显示",
+     "配件：Type-C充电线,硅胶水管"
+    ],
+    "en": [
+     "Material: ABS",
+     "Power: 5W",
+     "Flow Rate: 4-6L/min",
+     "Battery: 3.7V/1800mAh",
+     "Charging: Type-C Charging",
+     "Features: Dual Button,Auto Shut-off,Battery Indicator",
+     "Accessories: Type-C Charging Cable,Silicone Hose"
+    ],
+    "id": [
+     "Bahan: ABS",
+     "Daya: 5W",
+     "Debit: 4-6L/min",
+     "Baterai: 3.7V/1800mAh",
+     "Pengisian: Type-C",
+     "Fitur: Tombol Ganda, Mati Otomatis, Indikator Baterai",
+     "Aksesoris: Kabel Charger Type-C, Selang Silikon"
+    ]
+   },
+   "images": [
+    "PG-WHT-03B.jpg"
+   ]
+  },
+  {
+   "sku": "PG-WHT-03W",
+   "slug": "pg-wht-03w",
+   "category": "pump",
+   "name": {
+    "zh": "水泵双钮白色",
+    "en": "Water Pump (Dual Button) White",
+    "id": "Pompa Air Tombol Ganda Putih"
+   },
+   "price": 31800,
+   "moq": 60,
+   "qty": 60,
+   "weight": "0.187kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：ABS",
+     "功率：5W",
+     "流量：4-6L/min",
+     "电池：3.7V/1800mAh",
+     "充电方式：Type-C充电",
+     "特点：双按钮,自动关停,电量显示",
+     "配件：Type-C充电线,硅胶水管"
+    ],
+    "en": [
+     "Material: ABS",
+     "Power: 5W",
+     "Flow Rate: 4-6L/min",
+     "Battery: 3.7V/1800mAh",
+     "Charging: Type-C Charging",
+     "Features: Dual Button,Auto Shut-off,Battery Indicator",
+     "Accessories: Type-C Charging Cable,Silicone Hose"
+    ],
+    "id": [
+     "Bahan: ABS",
+     "Daya: 5W",
+     "Debit: 4-6L/min",
+     "Baterai: 3.7V/1800mAh",
+     "Pengisian: Type-C",
+     "Fitur: Tombol Ganda, Mati Otomatis, Indikator Baterai",
+     "Aksesoris: Kabel Charger Type-C, Selang Silikon"
+    ]
+   },
+   "images": [
+    "PG-WHT-03W.jpg"
+   ]
+  },
+  {
+   "sku": "PG-WHT-04B",
+   "slug": "pg-wht-04b",
+   "category": "pump",
+   "name": {
+    "zh": "便携式抽水泵 黑色",
+    "en": "Portable Water Pump Black",
+    "id": "Pompa Air Portabel Hitam"
+   },
+   "price": 31800,
+   "moq": 60,
+   "qty": 60,
+   "weight": "0.184kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：ABS",
+     "功率：8W",
+     "流量：5-8L/min",
+     "电池：3.7V/2400mAh",
+     "充电方式：Type-C快充",
+     "特点：大流量,自动关停,电量显示",
+     "配件：Type-C充电线,硅胶水管,转接头"
+    ],
+    "en": [
+     "Material: ABS",
+     "Power: 8W",
+     "Flow Rate: 5-8L/min",
+     "Battery: 3.7V/2400mAh",
+     "Charging: Type-CFast Charging",
+     "Features: High Flow,Auto Shut-off,Battery Indicator",
+     "Accessories: Type-C Charging Cable,Silicone Hose,Adapter"
+    ],
+    "id": [
+     "Bahan: ABS",
+     "Daya: 8W",
+     "Debit: 5-8L/min",
+     "Baterai: 3.7V/2400mAh",
+     "Pengisian: Type-C Fast Charging",
+     "Fitur: Debit Tinggi, Mati Otomatis, Indikator Baterai",
+     "Aksesoris: Kabel Charger Type-C, Selang Silikon, Adaptor"
+    ]
+   },
+   "images": [
+    "PG-WHT-04B.jpg"
+   ]
+  },
+  {
+   "sku": "PG-WHT-04W",
+   "slug": "pg-wht-04w",
+   "category": "pump",
+   "name": {
+    "zh": "便携式抽水泵 白色",
+    "en": "Portable Water Pump White",
+    "id": "Pompa Air Portabel Putih"
+   },
+   "price": 31800,
+   "moq": 60,
+   "qty": 60,
+   "weight": "0.184kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：ABS",
+     "功率：8W",
+     "流量：5-8L/min",
+     "电池：3.7V/2400mAh",
+     "充电方式：Type-C快充",
+     "特点：大流量,自动关停,电量显示",
+     "配件：Type-C充电线,硅胶水管,转接头"
+    ],
+    "en": [
+     "Material: ABS",
+     "Power: 8W",
+     "Flow Rate: 5-8L/min",
+     "Battery: 3.7V/2400mAh",
+     "Charging: Type-CFast Charging",
+     "Features: High Flow,Auto Shut-off,Battery Indicator",
+     "Accessories: Type-C Charging Cable,Silicone Hose,Adapter"
+    ],
+    "id": [
+     "Bahan: ABS",
+     "Daya: 8W",
+     "Debit: 5-8L/min",
+     "Baterai: 3.7V/2400mAh",
+     "Pengisian: Type-C Fast Charging",
+     "Fitur: Debit Tinggi, Mati Otomatis, Indikator Baterai",
+     "Aksesoris: Kabel Charger Type-C, Selang Silikon, Adaptor"
+    ]
+   },
+   "images": [
+    "PG-WHT-04W.jpg"
+   ]
+  },
+  {
+   "sku": "TBOX-PL",
+   "slug": "tbox-pl",
+   "category": "tissue",
+   "name": {
+    "zh": "纸巾盒 透明色",
+    "en": "Tissue Box Transparent",
+    "id": "Kotak Tisu Transparan"
+   },
+   "price": 20600,
+   "moq": 24,
+   "qty": 24,
+   "weight": "0.2916kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "材质：ABS+PC 透明",
+     "尺寸：约20*12*8cm",
+     "特点：透明可视,防尘设计,顶部抽取",
+     "适用：标准纸巾"
+    ],
+    "en": [
+     "Material: ABS+PC Transparent",
+     "Size: ~20*12*8cm",
+     "Features: Transparent Window,Dust-proof,Top Dispensing",
+     "Suitable for: Standard Tissue"
+    ],
+    "id": [
+     "Bahan: ABS+PC Transparan",
+     "Ukuran: ~20*12*8cm",
+     "Fitur: Transparan, Anti Debu, Ambil Atas",
+     "Cocok: Tisu Standar"
+    ]
+   },
+   "images": [
+    "TBOX-PL.jpg"
+   ]
+  },
+  {
+   "sku": "TBOX-PL-C",
+   "slug": "tbox-pl-c",
+   "category": "tissue",
+   "name": {
+    "zh": "纸巾盒 咖啡色",
+    "en": "Tissue Box Coffee",
+    "id": "Kotak Tisu Kopi"
+   },
+   "price": 20600,
+   "moq": 24,
+   "qty": 24,
+   "weight": "0.295kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "材质：ABS+PC",
+     "尺寸：约20*12*8cm",
+     "特点：防尘设计,顶部抽取",
+     "颜色：咖啡色"
+    ],
+    "en": [
+     "Material: ABS+PC",
+     "Size: ~20*12*8cm",
+     "Features: Dust-proof,Top Dispensing",
+     "Color: Coffee"
+    ],
+    "id": [
+     "Bahan: ABS+PC",
+     "Ukuran: ~20*12*8cm",
+     "Fitur: Anti Debu, Ambil Atas",
+     "Warna: Kopi"
+    ]
+   },
+   "images": [
+    "TBOX-PL-C.jpg"
+   ]
+  },
+  {
+   "sku": "TBOX-PL-H",
+   "slug": "tbox-pl-h",
+   "category": "tissue",
+   "name": {
+    "zh": "纸巾盒 绿色",
+    "en": "Tissue Box Green",
+    "id": "Kotak Tisu Hijau"
+   },
+   "price": 20600,
+   "moq": 24,
+   "qty": 24,
+   "weight": "0.2947kg",
+   "stock": "ready",
+   "label": "",
+   "specs": {
+    "zh": [
+     "材质：ABS+PC",
+     "尺寸：约20*12*8cm",
+     "特点：防尘设计,顶部抽取",
+     "颜色：绿色"
+    ],
+    "en": [
+     "Material: ABS+PC",
+     "Size: ~20*12*8cm",
+     "Features: Dust-proof,Top Dispensing",
+     "Color: Green"
+    ],
+    "id": [
+     "Bahan: ABS+PC",
+     "Ukuran: ~20*12*8cm",
+     "Fitur: Anti Debu, Ambil Atas",
+     "Warna: Hijau"
+    ]
+   },
+   "images": [
+    "TBOX-PL-H.jpg"
+   ]
+  },
+  {
+   "sku": "YH-333",
+   "slug": "yh-333",
+   "category": "iron",
+   "name": {
+    "zh": "熨斗",
+    "en": "Handheld Iron",
+    "id": "Setrika"
+   },
+   "price": 71700,
+   "moq": 20,
+   "qty": 20,
+   "weight": "0.5582kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：ABS外壳+陶瓷底板",
+     "功率：33W",
+     "水箱容量：50ml",
+     "温度档位：2档",
+     "充电方式：Type-C充电",
+     "特点：便携迷你,干湿两用",
+     "配件：Type-C充电线,量杯"
+    ],
+    "en": [
+     "Material: ABS Shell+Ceramic Soleplate",
+     "Power: 33W",
+     "Water Tank: 50ml",
+     "Temperature Levels: 2 level",
+     "Charging: Type-C Charging",
+     "Features: Portable Mini ,Dry & Steam",
+     "Accessories: Type-C Charging Cable,Measuring Cup"
+    ],
+    "id": [
+     "Bahan: Body ABS + Plat Keramik",
+     "Daya: 33W",
+     "Kapasitas Air: 50ml",
+     "Level Suhu: 2 Level",
+     "Pengisian: Type-C",
+     "Fitur: Mini Portabel, Setrika Kering & Uap",
+     "Aksesoris: Kabel Charger Type-C, Gelas Ukur"
+    ]
+   },
+   "images": [
+    "YH-333.jpg"
+   ]
+  },
+  {
+   "sku": "YH-666",
+   "slug": "yh-666",
+   "category": "iron",
+   "name": {
+    "zh": "熨斗",
+    "en": "Handheld Iron",
+    "id": "Setrika"
+   },
+   "price": 71700,
+   "moq": 20,
+   "qty": 20,
+   "weight": "0.5758kg",
+   "stock": "ready",
+   "label": "hot",
+   "specs": {
+    "zh": [
+     "材质：ABS外壳+陶瓷底板",
+     "功率：50W",
+     "水箱容量：70ml",
+     "温度档位：3档",
+     "充电方式：Type-C快充",
+     "特点：便携迷你,干湿两用,防粘涂层",
+     "配件：Type-C充电线,量杯,收纳袋"
+    ],
+    "en": [
+     "Material: ABS Shell+Ceramic Soleplate",
+     "Power: 50W",
+     "Water Tank: 70ml",
+     "Temperature Levels: 3 level",
+     "Charging: Type-CFast Charging",
+     "Features: Portable Mini ,Dry & Steam,Non-stick Coating",
+     "Accessories: Type-C Charging Cable,Measuring Cup,Storage Bag"
+    ],
+    "id": [
+     "Bahan: Body ABS + Plat Keramik",
+     "Daya: 50W",
+     "Kapasitas Air: 70ml",
+     "Level Suhu: 3 Level",
+     "Pengisian: Type-C Fast Charging",
+     "Fitur: Mini Portabel, Setrika Kering & Uap, Anti Lengket",
+     "Aksesoris: Kabel Charger Type-C, Gelas Ukur, Tas"
+    ]
+   },
+   "images": [
+    "YH-666.jpg"
+   ]
+  }
+ ]
+}

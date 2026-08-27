@@ -1,0 +1,11 @@
+{
+  "name": "yakun-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YAKUN — PT YAKUN PRIMA INDONESIA 官网（静态 SSG，GitHub Pages 部署）",
+  "scripts": {
+    "convert": "node convert.js",
+    "build": "node build.js",
+    "serve": "python3 -m http.server 8899 -d public"
+  }
+}

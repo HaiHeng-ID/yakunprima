@@ -37,7 +37,7 @@ function labelChip(p) {
 // ============ 产品卡片（默认渲染印尼语） ============
 function productCard(p, base) {
   const img = pImg(p);
-  const priceHtml = p.price ? `<span class="price">${rp(p.price)}</span><span class="price-note" data-i18n="priceNote">Harga grosir ref.</span>` : `<span class="price price-na" data-i18n="quoteNow">Minta Penawaran</span>`;
+  const priceHtml = p.price ? `<span class="price">${rp(p.price)}</span>` : `<span class="price price-na" data-i18n="quoteNow">Minta Penawaran</span>`;
   const stockTxt = p.stock === 'ready' ? 'ready' : 'preorder';
   return `
   <div class="p-card" data-pcard data-sku="${esc(p.sku)}">
@@ -103,9 +103,9 @@ function header(base, active) {
     </nav>
     <div class="header-right">
       <div class="lang-switch" role="group" aria-label="Language">
-        <button class="lang-btn" data-lang="zh" title="中文">中</button>
-        <button class="lang-btn" data-lang="en" title="English">EN</button>
-        <button class="lang-btn" data-lang="id" title="Bahasa">ID</button>
+        <button class="lang-btn" data-lang="zh" title="中文"><span class="flag">🇨🇳</span><span class="lang-name">中文</span></button>
+        <button class="lang-btn" data-lang="en" title="English"><span class="flag">🇬🇧</span><span class="lang-name">EN</span></button>
+        <button class="lang-btn" data-lang="id" title="Bahasa"><span class="flag">🇮🇩</span><span class="lang-name">ID</span></button>
       </div>
       <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
     </div>
@@ -202,6 +202,17 @@ function buildIndex() {
   html += `
 <main>
   <section class="hero">
+    <a class="hero-anchor" href="${base}products/hekv-661a.html">
+      <span class="hero-anchor-hot">🔥 HOT</span>
+      <span class="hero-anchor-inner">
+        <img src="${base}assets/img/HEKV-661A.jpg" alt="6.5 inch speaker" loading="lazy">
+        <span class="hero-anchor-info">
+          <span class="sku">HEKV-661A</span>
+          <span class="hero-anchor-name" data-sku="HEKV-661A">Speaker 6.5 Inci</span>
+          <span class="price">Rp 75.600</span>
+        </span>
+      </span>
+    </a>
     <div class="hero-inner">
       <div class="hero-badge" data-i18n="heroBadge">Supplier Grosir Indonesia</div>
       <h1><span data-i18n="heroTitle">Elektronik Ready Stock</span><br><span class="hero-accent" data-i18n="heroTitleAccent">Grosir</span></h1>

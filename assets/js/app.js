@@ -64,7 +64,7 @@
     if (!body) return;
     updateBadge();
     if (!cart.length) {
-      body.innerHTML = `<div class="cart-empty">🛒 ${esc(t('quoteEmpty'))}</div>`;
+      body.innerHTML = `<div class="cart-empty">🛒 ${esc(t('quoteEmpty'))}<a class="btn btn-orange btn-sm" href="${B}products.html">${esc(t('ctaBrowse'))} →</a></div>`;
       return;
     }
     body.innerHTML = cart.map(item => {
@@ -136,7 +136,7 @@
   function cardHTML(p) {
     const img = p.img || '';
     const priceHtml = p.price
-      ? `<span class="price">${rupiah(p.price)}</span><span class="price-note">${esc(t('priceNote'))}</span>`
+      ? `<span class="price">${rupiah(p.price)}</span>`
       : `<span class="price price-na">${esc(t('quoteNow'))}</span>`;
     const labelTxt = { new: t('labelNew'), hot: t('labelHot'), best: t('labelBest') };
     const label = p.label ? `<span class="chip label-${esc(p.label)}">${esc(labelTxt[p.label] || p.label.toUpperCase())}</span>` : '';

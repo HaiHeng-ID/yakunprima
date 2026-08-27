@@ -137,7 +137,7 @@ function footer(base) {
       <a href="${base}index.html" data-i18n="navHome">Beranda</a>
       <a href="${base}products.html" data-i18n="navProducts">Semua Produk</a>
       <a href="${base}index.html#faq" data-i18n="navFAQ">FAQ</a>
-      <a href="${base}downloads/catalog.csv" data-i18n="downloadBtn">⬇ Unduh Katalog (CSV)</a>
+      <a href="${base}downloads/catalog.csv" download="YAKUN-catalog.csv" data-i18n="downloadBtn">⬇ Unduh Katalog (CSV)</a>
     </div>
     <div class="f-col">
       <h4 data-i18n="footerContact">Kontak</h4>
@@ -239,9 +239,13 @@ function buildIndex() {
         <div class="stat"><div class="stat-num">📍</div><div class="stat-lbl" data-i18n="statWarehouse">Gudang</div></div>
       </div>
     </div>
-    <div class="hero-marquee" aria-hidden="true">
+    <div class="hero-marquee">
       <div class="marquee-track">
-        ${['HEKV-661A','CQS-CX08','CQS-C19','HED-080','PG-WHT-02B','TBOX-PL','YH-333','HEKV-661B','HEKV-661C','HEKV-661D','HEKV-661E','HEKV-661F'].concat(['HEKV-661A','CQS-CX08','CQS-C19','HED-080','PG-WHT-02B','TBOX-PL','YH-333','HEKV-661B','HEKV-661C','HEKV-661D','HEKV-661E','HEKV-661F']).map(sku => `<span class="mq-item"><img src="${base}assets/img/${sku}.jpg" alt="" loading="lazy"></span>`).join('')}
+        ${(() => {
+          const MQ = ['HEKV-661A','CQS-CX08','CQS-C19','HED-080','PG-WHT-02B','TBOX-PL','YH-333','HEKV-661B','HEKV-661C','HEKV-661D','HEKV-661E','HEKV-661F'];
+          const items = MQ.concat(MQ).map(sku => `<a class="mq-item" href="${base}products/${sku.toLowerCase()}.html" title="${sku}"><img src="${base}assets/img/${sku}.jpg" alt="${sku}" loading="lazy"></a>`);
+          return items.join('');
+        })()}
       </div>
     </div>
   </section>
@@ -295,7 +299,7 @@ function buildIndex() {
         <h3 data-i18n="downloadTitle">Unduh Katalog</h3>
         <p data-i18n="downloadDesc">Daftar produk lengkap (bisa dibuka di Excel)</p>
       </div>
-      <a class="btn btn-orange btn-lg" href="${base}downloads/catalog.csv" data-i18n="downloadBtn">⬇ Unduh Katalog (CSV)</a>
+      <a class="btn btn-orange btn-lg" href="${base}downloads/catalog.csv" download="YAKUN-catalog.csv" data-i18n="downloadBtn">⬇ Unduh Katalog (CSV)</a>
     </div>
   </section>
 

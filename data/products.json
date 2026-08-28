@@ -780,7 +780,7 @@
     "en": "Triangle Speaker Black",
     "id": "Speaker Segitiga Hitam"
    },
-   "price": 800,
+   "price": 0,
    "moq": 0,
    "qty": 0,
    "weight": "0.152kg",
@@ -831,7 +831,7 @@
     "en": "Triangle Speaker Green",
     "id": "Speaker Segitiga Hijau"
    },
-   "price": 800,
+   "price": 0,
    "moq": 0,
    "qty": 0,
    "weight": "0.152kg",
@@ -882,7 +882,7 @@
     "en": "Triangle Speaker Orange",
     "id": "Speaker Segitiga Oranye"
    },
-   "price": 800,
+   "price": 0,
    "moq": 0,
    "qty": 0,
    "weight": "0.152kg",
@@ -933,7 +933,7 @@
     "en": "Triangle Speaker White",
     "id": "Speaker Segitiga Putih"
    },
-   "price": 800,
+   "price": 0,
    "moq": 0,
    "qty": 0,
    "weight": "0.152kg",
@@ -984,7 +984,7 @@
     "en": "15\" Speaker",
     "id": "Speaker 15 Inci"
    },
-   "price": 43700,
+   "price": 0,
    "moq": 1,
    "qty": 1,
    "weight": "8.729kg",
@@ -1032,7 +1032,7 @@
     "en": "Sing-e ZQS-F803 Fan Speaker",
     "id": "Sing-e ZQS-F803 Speaker Kipas"
    },
-   "price": 217900,
+   "price": 0,
    "moq": 18,
    "qty": 18,
    "weight": "1.515kg",
@@ -1107,7 +1107,7 @@
     "en": "Sing-e ZQS-L02 Mini Speaker",
     "id": "Sing-e ZQS-L02 Speaker Mini"
    },
-   "price": 61900,
+   "price": 0,
    "moq": 60,
    "qty": 60,
    "weight": "0.3644kg",
@@ -1182,7 +1182,7 @@
     "en": "Sing-e ZQS-L36 Mini Speaker",
     "id": "Sing-e ZQS-L36 Speaker Mini"
    },
-   "price": 76600,
+   "price": 0,
    "moq": 60,
    "qty": 60,
    "weight": "0.4314kg",
@@ -1257,7 +1257,7 @@
     "en": "Sing-e ZQS14102 Mini Speaker",
     "id": "Sing-e ZQS14102 Speaker Mini"
    },
-   "price": 85400,
+   "price": 0,
    "moq": 30,
    "qty": 30,
    "weight": "0.952kg",
@@ -1332,7 +1332,7 @@
     "en": "Sing-e ZQS14103 Mini Speaker",
     "id": "Sing-e ZQS14103 Speaker Mini"
    },
-   "price": 91300,
+   "price": 0,
    "moq": 30,
    "qty": 30,
    "weight": "0.9503kg",
@@ -1407,7 +1407,7 @@
     "en": "Sing-e ZQS-1440 Fan Speaker",
     "id": "Sing-e ZQS-1440 Speaker Kipas"
    },
-   "price": 94300,
+   "price": 0,
    "moq": 40,
    "qty": 40,
    "weight": "0.634kg",
@@ -1482,7 +1482,7 @@
     "en": "Sing-e ZQS4239S Bluetooth Speaker",
     "id": "Sing-e ZQS4239S Speaker Bluetooth"
    },
-   "price": 173800,
+   "price": 0,
    "moq": 12,
    "qty": 12,
    "weight": "1.803kg",
@@ -1557,7 +1557,7 @@
     "en": "Sing-e ZQS4239W Bluetooth Speaker",
     "id": "Sing-e ZQS4239W Speaker Bluetooth"
    },
-   "price": 156100,
+   "price": 0,
    "moq": 12,
    "qty": 12,
    "weight": "1.515kg",
@@ -1632,7 +1632,7 @@
     "en": "Sing-e ZQS6212 Portable Bluetooth Speaker",
     "id": "Sing-e ZQS6212 Speaker Bluetooth Portabel"
    },
-   "price": 270900,
+   "price": 0,
    "moq": 8,
    "qty": 8,
    "weight": "2.1944kg",
@@ -1707,7 +1707,7 @@
     "en": "Sing-e ZQS6231 Portable Bluetooth Speaker",
     "id": "Sing-e ZQS6231 Speaker Bluetooth Portabel"
    },
-   "price": 241500,
+   "price": 0,
    "moq": 8,
    "qty": 8,
    "weight": "2.4454kg",
@@ -1782,7 +1782,7 @@
     "en": "Sing-e ZQS8149 Bluetooth Speaker",
     "id": "Sing-e ZQS8149 Speaker Bluetooth"
    },
-   "price": 206200,
+   "price": 0,
    "moq": 12,
    "qty": 12,
    "weight": "1.7615kg",
@@ -1857,7 +1857,7 @@
     "en": "Type-C to Type-C Cable CQS-CX01 Black",
     "id": "Type-C to Type-C Kabel Data CQS-CX01 Hitam"
    },
-   "price": 20400,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.101kg",
@@ -1905,7 +1905,7 @@
     "en": "Type-C to Type-C Cable CQS-CX02 White",
     "id": "Type-C to Type-C Kabel Data CQS-CX02 Putih"
    },
-   "price": 20400,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.099kg",
@@ -1953,7 +1953,7 @@
     "en": "Type-C to Type-C Cable CQS-CX03 Black",
     "id": "Type-C to Type-C Kabel Data CQS-CX03 Hitam"
    },
-   "price": 21000,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.1kg",
@@ -2001,7 +2001,7 @@
     "en": "Type-C to Type-C Cable CQS-CX04 White",
     "id": "Type-C to Type-C Kabel Data CQS-CX04 Putih"
    },
-   "price": 21000,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.103kg",
@@ -2049,7 +2049,7 @@
     "en": "Type-C to Type-C Cable CQS-CX05 White",
     "id": "Type-C to Type-C Kabel Data CQS-CX05 Putih"
    },
-   "price": 21000,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.102kg",
@@ -2097,7 +2097,7 @@
     "en": "Type-C to Type-C Cable CQS-CX06 Black",
     "id": "Type-C to Type-C Kabel Data CQS-CX06 Hitam"
    },
-   "price": 21000,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.0995kg",
@@ -2145,7 +2145,7 @@
     "en": "Type-C to Type-C Cable CQS-CX07 White",
     "id": "Type-C to Type-C Kabel Data CQS-CX07 Putih"
    },
-   "price": 20100,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.1027kg",
@@ -2193,7 +2193,7 @@
     "en": "Type-C to Type-C Cable CQS-CX08 White",
     "id": "Type-C to Type-C Kabel Data CQS-CX08 Putih"
    },
-   "price": 27100,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.1048kg",
@@ -2241,7 +2241,7 @@
     "en": "Charging Data Cable Black (Type-C/Type-C)",
     "id": "Kabel Data Charger Hitam(Type-C/Type-C)"
    },
-   "price": 13900,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.0304kg",
@@ -2289,7 +2289,7 @@
     "en": "Charging Data Cable Purple (USB-A/Type-C)",
     "id": "Kabel Data Charger Ungu(USB-A/Type-C)"
    },
-   "price": 13900,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.0329kg",
@@ -2337,7 +2337,7 @@
     "en": "Charging Data Cable Purple (Type-C/Lightning)",
     "id": "Kabel Data Charger Ungu(Type-C/Lightning)"
    },
-   "price": 13900,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.0312kg",
@@ -2385,7 +2385,7 @@
     "en": "Charging Data Cable Black (USB-A/Type-C)",
     "id": "Kabel Data Charger Hitam(USB-A/Type-C)"
    },
-   "price": 10900,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.0315kg",
@@ -2433,7 +2433,7 @@
     "en": "Charging Data Cable Black (USB-A/Lightning)",
     "id": "Kabel Data Charger Hitam(USB-A/Lightning)"
    },
-   "price": 10900,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.0313kg",
@@ -2481,7 +2481,7 @@
     "en": "Charging Data Cable Blue (Type-C/Type-C)",
     "id": "Kabel Data Charger Biru(Type-C/Type-C)"
    },
-   "price": 13900,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.0303kg",
@@ -2529,7 +2529,7 @@
     "en": "Charging Data Cable Blue (Type-C/Lightning)",
     "id": "Kabel Data Charger Biru(Type-C/Lightning)"
    },
-   "price": 16800,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.0303kg",
@@ -2577,7 +2577,7 @@
     "en": "Charging Data Cable Blue (USB-A/Type-C)",
     "id": "Kabel Data Charger Biru(USB-A/Type-C)"
    },
-   "price": 10400,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.03kg",
@@ -2625,7 +2625,7 @@
     "en": "Charging Data Cable Blue (Type-C/Type-C)",
     "id": "Kabel Data Charger Biru(Type-C/Type-C)"
    },
-   "price": 10400,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.0288kg",
@@ -2673,7 +2673,7 @@
     "en": "Charging Data Cable Orange (USB-A/Lightning)",
     "id": "Kabel Data Charger Oranye(USB-A/Lightning)"
    },
-   "price": 10400,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.0291kg",
@@ -2721,7 +2721,7 @@
     "en": "Charging Data Cable Orange (Type-C/Lightning)",
     "id": "Kabel Data Charger Oranye(Type-C/Lightning)"
    },
-   "price": 10400,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.0271kg",
@@ -2769,7 +2769,7 @@
     "en": "Charging Data Cable Black (Type-C/Lightning)",
     "id": "Kabel Data Charger Hitam(Type-C/Lightning)"
    },
-   "price": 10900,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.0314kg",
@@ -2817,7 +2817,7 @@
     "en": "Charging Data Cable Orange (USB-A/Type-C)",
     "id": "Kabel Data Charger Oranye(USB-A/Type-C)"
    },
-   "price": 10900,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.0314kg",
@@ -2865,7 +2865,7 @@
     "en": "Charging Data Cable Orange (USB-A/Lightning)",
     "id": "Kabel Data Charger Oranye(USB-A/Lightning)"
    },
-   "price": 10900,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.0312kg",
@@ -2913,7 +2913,7 @@
     "en": "Charging Data Cable Orange (Type-C/Type-C)",
     "id": "Kabel Data Charger Oranye(Type-C/Type-C)"
    },
-   "price": 10900,
+   "price": 0,
    "moq": 500,
    "qty": 500,
    "weight": "0.0298kg",
@@ -2961,7 +2961,7 @@
     "en": "Charger CQS-C09 Yellow-Black",
     "id": "Kepala Charger CQS-C09 Kuning-Hitam"
    },
-   "price": 23300,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.1032kg",
@@ -3009,7 +3009,7 @@
     "en": "Charger CQS-C10 Black-White",
     "id": "Kepala Charger CQS-C10 Hitam-Putih"
    },
-   "price": 18300,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.0782kg",
@@ -3057,7 +3057,7 @@
     "en": "Charger CQS-C11 Yellow-Black",
     "id": "Kepala Charger CQS-C11 Kuning-Hitam"
    },
-   "price": 17100,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.0758kg",
@@ -3105,7 +3105,7 @@
     "en": "Charger CQS-C12 White",
     "id": "Kepala Charger CQS-C12 Putih"
    },
-   "price": 18000,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.085kg",
@@ -3150,7 +3150,7 @@
     "en": "Charger CQS-C13 White",
     "id": "Kepala Charger CQS-C13 Putih"
    },
-   "price": 18300,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.087kg",
@@ -3198,7 +3198,7 @@
     "en": "Charger CQS-C14 White",
     "id": "Kepala Charger CQS-C14 Putih"
    },
-   "price": 21200,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.1105kg",
@@ -3246,7 +3246,7 @@
     "en": "Charger CQS-C15 White",
     "id": "Kepala Charger CQS-C15 Putih"
    },
-   "price": 18000,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.081kg",
@@ -3294,7 +3294,7 @@
     "en": "Charger CQS-C16 Black",
     "id": "Kepala Charger CQS-C16 Hitam"
    },
-   "price": 16500,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.0672kg",
@@ -3342,7 +3342,7 @@
     "en": "Charger CQS-C17 White",
     "id": "Kepala Charger CQS-C17 Putih"
    },
-   "price": 16500,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.069kg",
@@ -3390,7 +3390,7 @@
     "en": "Charger CQS-C18 White",
     "id": "Kepala Charger CQS-C18 Putih"
    },
-   "price": 18900,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.073kg",
@@ -3438,7 +3438,7 @@
     "en": "Charger CQS-C19 White",
     "id": "Kepala Charger CQS-C19 Putih"
    },
-   "price": 31000,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.0913kg",
@@ -3486,7 +3486,7 @@
     "en": "Charger CQS-C20 Black",
     "id": "Kepala Charger CQS-C20 Hitam"
    },
-   "price": 30100,
+   "price": 0,
    "moq": 100,
    "qty": 100,
    "weight": "0.1407kg",
@@ -3531,7 +3531,7 @@
     "en": "Charger CQS-C21 White-Purple",
     "id": "Kepala Charger CQS-C21 Putih-Ungu"
    },
-   "price": 22100,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.0812kg",
@@ -3582,7 +3582,7 @@
     "en": "10-Port USB Charger CQS-C23 Type-A White",
     "id": "10Port USB Charger CQS-C23 Type-A Putih"
    },
-   "price": 25700,
+   "price": 0,
    "moq": 200,
    "qty": 200,
    "weight": "0.0917kg",
@@ -3630,7 +3630,7 @@
     "en": "Type-C Charger CQS-C25 White",
     "id": "Type-C Charger CQS-C25 Putih"
    },
-   "price": 81000,
+   "price": 0,
    "moq": 100,
    "qty": 100,
    "weight": "0.1204kg",
@@ -3678,7 +3678,7 @@
     "en": "Charger CQS-C26 Black",
     "id": "Kepala Charger CQS-C26 Hitam"
    },
-   "price": 81600,
+   "price": 0,
    "moq": 100,
    "qty": 100,
    "weight": "0.124kg",
@@ -3726,7 +3726,7 @@
     "en": "Charger CQS-C27 Black",
     "id": "Kepala Charger CQS-C27 Hitam"
    },
-   "price": 66900,
+   "price": 0,
    "moq": 100,
    "qty": 100,
    "weight": "0.1182kg",
@@ -3774,7 +3774,7 @@
     "en": "Charger CQS-C28 Black-Silver",
     "id": "Kepala Charger CQS-C28 Hitam-Perak"
    },
-   "price": 70100,
+   "price": 0,
    "moq": 100,
    "qty": 100,
    "weight": "0.1142kg",
@@ -3822,7 +3822,7 @@
     "en": "15W Headlamp",
     "id": "Lampu Kepala 15W"
    },
-   "price": 1500,
+   "price": 0,
    "moq": 60,
    "qty": 60,
    "weight": "0.281kg",
@@ -3870,7 +3870,7 @@
     "en": "20W Headlamp",
     "id": "Lampu Kepala 20W"
    },
-   "price": 1600,
+   "price": 0,
    "moq": 0,
    "qty": 0,
    "weight": "0.3015kg",
@@ -4017,7 +4017,7 @@
     "en": "50W Headlamp",
     "id": "Lampu Kepala 50W"
    },
-   "price": 1200,
+   "price": 0,
    "moq": 0,
    "qty": 0,
    "weight": "0.2242kg",
@@ -4122,7 +4122,7 @@
     "en": "Solar Light",
     "id": "Lampu Tenaga Surya"
    },
-   "price": 37000,
+   "price": 0,
    "moq": 0,
    "qty": 0,
    "weight": "",
@@ -4171,7 +4171,7 @@
     "en": "Bread Light",
     "id": "Lampu Roti"
    },
-   "price": 71000,
+   "price": 0,
    "moq": 0,
    "qty": 0,
    "weight": "",
@@ -4222,7 +4222,7 @@
     "en": "Extendable Headlamp",
     "id": "Lampu Kepala Teleskopik"
    },
-   "price": 900,
+   "price": 0,
    "moq": 150,
    "qty": 150,
    "weight": "0.1695kg",

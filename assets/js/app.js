@@ -262,8 +262,8 @@
       }
       return true;
     });
-    if (sortMode === 'asc') list.sort((a, b) => (a.price || 0) - (b.price || 0));
-    else if (sortMode === 'desc') list.sort((a, b) => (b.price || 0) - (a.price || 0));
+    if (sortMode === 'asc') list.sort((a, b) => (a.price || Infinity) - (b.price || Infinity));
+    else if (sortMode === 'desc') list.sort((a, b) => (b.price || -1) - (a.price || -1));
     const rc = $('#resultCount');
     if (rc) rc.textContent = list.length;
     grid.innerHTML = list.length ? list.map(cardHTML).join('') : `<p style="grid-column:1/-1;text-align:center;color:var(--muted);padding:40px 0">${esc(t('quoteEmpty'))}</p>`;

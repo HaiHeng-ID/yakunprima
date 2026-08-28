@@ -25,9 +25,9 @@
   },
   "announcements": [
     {
-      "zh": "🎉 全站 79+ SKU 现货在仓 · 支持混批与一件代发",
-      "en": "🎉 79+ SKU Ready Stock · Mixed Wholesale & Dropship Available",
-      "id": "🎉 79+ SKU Ready Stock · Grosir Campuran & Dropship Tersedia"
+      "zh": "🎉 多款产品现货在仓 · 支持混批与一件代发",
+      "en": "🎉 Ready Stock Available · Mixed Wholesale & Dropship",
+      "id": "🎉 Ready Stock Tersedia · Grosir Campuran & Dropship"
     },
     {
       "zh": "🚀 雅加达仓当日/次日发货 · 覆盖印尼各大城市",
@@ -171,7 +171,7 @@
       "statWarehouse": "仓库地址",
       "trustTitle": "为什么选择 YAKUN",
       "trust1t": "现货保障",
-      "trust1d": "仓库现货 79+ SKU，所见即所得",
+      "trust1d": "仓库现货真实可见，所见即所得",
       "trust2t": "一件起混批",
       "trust2d": "多品类混批，降低压货风险",
       "trust3t": "快速发货",
@@ -248,7 +248,8 @@
       "viewDetail": "查看详情",
       "quoteNow": "立即询价",
       "crumbHome": "首页",
-      "crumbProducts": "产品目录"
+      "crumbProducts": "产品目录",
+      "soldout": "缺货"
     },
     "en": {
       "navHome": "Home",
@@ -269,7 +270,7 @@
       "statWarehouse": "Warehouse",
       "trustTitle": "Why Choose YAKUN",
       "trust1t": "Real Stock",
-      "trust1d": "79+ SKU ready in our Jakarta warehouse",
+      "trust1d": "Real ready stock visible in our Jakarta warehouse",
       "trust2t": "Mixed Wholesale",
       "trust2d": "Mix categories to lower inventory risk",
       "trust3t": "Fast Shipping",
@@ -346,7 +347,8 @@
       "viewDetail": "View Details",
       "quoteNow": "Get Quote",
       "crumbHome": "Home",
-      "crumbProducts": "Catalog"
+      "crumbProducts": "Catalog",
+      "soldout": "Sold Out"
     },
     "id": {
       "navHome": "Beranda",
@@ -367,7 +369,7 @@
       "statWarehouse": "Gudang",
       "trustTitle": "Kenapa Pilih YAKUN",
       "trust1t": "Stok Nyata",
-      "trust1d": "79+ SKU ready di gudang Jakarta",
+      "trust1d": "Stok ready nyata di gudang Jakarta kami",
       "trust2t": "Grosir Campuran",
       "trust2d": "Campur kategori, kurangi risiko stok",
       "trust3t": "Kirim Cepat",
@@ -444,7 +446,8 @@
       "viewDetail": "Lihat Detail",
       "quoteNow": "Minta Penawaran",
       "crumbHome": "Beranda",
-      "crumbProducts": "Katalog"
+      "crumbProducts": "Katalog",
+      "soldout": "Stok Kosong"
     }
   }
 }

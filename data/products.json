@@ -4424,7 +4424,7 @@
    "moq": 60,
    "qty": 60,
    "weight": "0.185kg",
-   "stock": "ready",
+   "stock": "preorder",
    "label": "hot",
    "specs": {
     "zh": [

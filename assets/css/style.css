@@ -72,7 +72,7 @@ button { font-family: inherit; cursor: pointer; }
 .lang-btn .flag { font-size: 1.05em; }
 .lang-btn:hover { color: var(--navy); }
 .lang-btn.active { background: var(--navy); color: #fff; }
-.menu-btn { display: none; border: none; background: var(--bg); border-radius: 9px; padding: 7px 12px; font-size: 1.1em; color: var(--navy); }
+.menu-btn { display: none; border: none; background: var(--bg); border-radius: 10px; padding: 10px 15px; font-size: 1.15em; color: var(--navy); }
 
 /* ============ Hero ============ */
 .hero { background: radial-gradient(1200px 500px at 80% -10%, var(--navy-3) 0%, transparent 60%), linear-gradient(150deg, var(--navy) 0%, var(--navy-2) 70%, var(--navy) 100%); color: #fff; position: relative; overflow: hidden; }
@@ -199,7 +199,7 @@ button { font-family: inherit; cursor: pointer; }
 .chip-row { display: flex; gap: 8px; flex-wrap: wrap; }
 .chip { border: 1.5px solid var(--line); background: #fff; color: var(--muted); border-radius: 999px; padding: 7px 16px; font-size: .86em; font-weight: 600; transition: all .15s; }
 .chip:hover { border-color: var(--navy); color: var(--navy); }
-.chip-active { background: var(--navy); border-color: var(--navy); color: #fff; }
+.chip-active { background: var(--orange); border-color: var(--orange); color: #fff; font-weight: 700; box-shadow: 0 3px 10px rgba(255, 107, 26, .3); }
 .toolbar-row { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
 .toolbar-row select { font-family: inherit; font-size: .88em; padding: 8px 14px; border: 1.5px solid var(--line); border-radius: 999px; background: #fff; color: var(--text); }
 

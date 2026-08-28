@@ -429,6 +429,10 @@ function buildDetail(p) {
   const base = '../';
   const c = catById(p.category);
   const related = products.filter(x => x.category === p.category && x.sku !== p.sku).slice(0, 4);
+  // 变体产品：默认取第一个变体的装箱量/重量显示
+  const firstV = p.variants && p.variants[0];
+  const dispQty = p.qty || (firstV && firstV.qty) || 0;
+  const dispWeight = p.weight || (firstV && firstV.weight) || '';
   const offers = {
     '@type': 'Offer', priceCurrency: 'IDR',
     availability: p.stock === 'ready' ? 'https://schema.org/InStock' : 'https://schema.org/PreOrder',
@@ -470,9 +474,9 @@ function buildDetail(p) {
         ${p.price ? `<span class="price" id="dPrice">${rp(p.price)}</span><span class="price-note" data-i18n="priceNote">Harga grosir ref.</span>` : `<span class="price price-na" id="dPrice" data-i18n="quoteNow">Minta Penawaran</span>`}
       </div>
       <div class="d-facts">
-        ${p.qty ? `<div class="fact"><span data-i18n="packing">Isi Karton</span><b id="dQty">${p.qty} pcs</b></div>` : ''}
+        ${dispQty ? `<div class="fact"><span data-i18n="packing">Isi Karton</span><b id="dQty">${dispQty} pcs</b></div>` : ''}
         ${p.moq ? `<div class="fact"><span data-i18n="moq">Min. Order</span><b>${p.moq} pcs</b></div>` : ''}
-        ${p.weight ? `<div class="fact"><span data-i18n="weight">Berat</span><b id="dWeight">${esc(p.weight)}</b></div>` : ''}
+        ${dispWeight ? `<div class="fact"><span data-i18n="weight">Berat</span><b id="dWeight">${esc(dispWeight)}</b></div>` : ''}
       </div>
       ${p.variants ? `
       <div class="d-variants">

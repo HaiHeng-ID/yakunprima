@@ -103,7 +103,7 @@ button { font-family: inherit; cursor: pointer; }
 
 /* ============ Hero 产品滚动带 ============ */
 .hero-marquee { position: relative; overflow: hidden; padding: 0 0 26px; -webkit-mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent); mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent); }
-.marquee-track { display: flex; gap: 14px; width: max-content; animation: marquee 46s linear infinite; }
+.marquee-track { display: flex; gap: 14px; width: max-content; animation: marquee 60s linear infinite; }
 .marquee-track:hover { animation-play-state: paused; }
 .mq-item { width: 74px; height: 74px; border-radius: 14px; overflow: hidden; background: #fff; padding: 5px; flex-shrink: 0; box-shadow: 0 6px 18px rgba(0, 0, 0, .28); transition: transform .25s; }
 .mq-item:hover { transform: translateY(-4px) scale(1.05); }
@@ -122,7 +122,7 @@ button { font-family: inherit; cursor: pointer; }
 .trust { background: var(--card); border-bottom: 1px solid var(--line); }
 .trust-inner { max-width: 1200px; margin: 0 auto; padding: 40px 20px; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 22px; }
 .trust-item { display: flex; gap: 14px; align-items: flex-start; }
-.trust-ic { font-size: 1.7em; line-height: 1; }
+.trust-ic { font-size: 2.05em; line-height: 1; }
 .trust-item h4 { font-size: 1.02em; margin-bottom: 3px; }
 .trust-item p { font-size: .88em; color: var(--muted); }
 
@@ -181,11 +181,12 @@ button { font-family: inherit; cursor: pointer; }
 .contact-form { background: var(--card); border-top: 1px solid var(--line); padding: 64px 20px; }
 .form { max-width: 640px; margin: 30px auto 0; display: flex; flex-direction: column; gap: 14px; }
 .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
-.form input, .form textarea { font-family: inherit; font-size: .95em; padding: 13px 16px; border: 1.5px solid var(--line); border-radius: var(--radius-sm); background: var(--bg); transition: all .15s; }
+.form input, .form textarea { font-family: inherit; font-size: .98em; padding: 15px 18px; border: 1.5px solid var(--line); border-radius: var(--radius-sm); background: var(--bg); transition: all .15s; }
 .form input:focus, .form textarea:focus { outline: none; border-color: var(--navy); background: #fff; }
 .form-status { text-align: center; font-weight: 600; min-height: 1.4em; }
 .form-status.ok { color: var(--green); }
 .form-status.err { color: var(--red); }
+.form-error input, .form-error textarea { border-color: #fca5a5 !important; background: #fff7f7 !important; }
 
 /* ============ 目录页 ============ */
 .catalog { max-width: 1200px; margin: 0 auto; padding: 40px 20px 72px; }
@@ -225,7 +226,7 @@ button { font-family: inherit; cursor: pointer; }
 .p-meta { display: flex; gap: 10px; flex-wrap: wrap; font-size: .8em; color: var(--muted); }
 .p-meta b { color: var(--navy); }
 .p-price-row { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
-.price { font-size: 1.12em; font-weight: 800; color: var(--orange-dark); }
+.price { font-size: 1.22em; font-weight: 800; color: var(--orange-dark); }
 .price-na { color: var(--navy); font-size: .98em; }
 .price-note { font-size: .72em; color: var(--muted); }
 .p-actions { margin-top: auto; display: flex; gap: 8px; }
@@ -340,8 +341,8 @@ button { font-family: inherit; cursor: pointer; }
   .footer-inner { grid-template-columns: 1fr 1fr; }
 }
 @media (max-width: 640px) {
-  .lang-name { display: none; }
-  .lang-btn { padding: 5px 8px; }
+  .lang-btn { padding: 5px 8px; font-size: .76em; }
+  .hero::after { display: none; }
   .menu-btn { display: block; }
   .nav { position: absolute; top: 100%; left: 0; right: 0; background: #fff; flex-direction: column; padding: 10px 16px 16px; border-bottom: 1px solid var(--line); box-shadow: var(--shadow); display: none; }
   .nav.open { display: flex; }

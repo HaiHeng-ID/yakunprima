@@ -113,9 +113,9 @@ function header(base, active) {
     </nav>
     <div class="header-right">
       <div class="lang-switch" role="group" aria-label="Language">
-        <button class="lang-btn" data-lang="zh" title="中文"><span class="flag">🇨🇳</span><span class="lang-name">中文</span></button>
-        <button class="lang-btn" data-lang="en" title="English"><span class="flag">🇬🇧</span><span class="lang-name">EN</span></button>
-        <button class="lang-btn" data-lang="id" title="Bahasa"><span class="flag">🇮🇩</span><span class="lang-name">ID</span></button>
+        <button class="lang-btn" data-lang="zh" title="中文" aria-label="中文"><span class="flag">🇨🇳</span><span class="lang-name">中文</span></button>
+        <button class="lang-btn" data-lang="en" title="English" aria-label="English"><span class="flag">🇬🇧</span><span class="lang-name">EN</span></button>
+        <button class="lang-btn" data-lang="id" title="Bahasa" aria-label="Bahasa Indonesia"><span class="flag">🇮🇩</span><span class="lang-name">ID</span></button>
       </div>
       <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
     </div>
@@ -215,7 +215,7 @@ function buildIndex() {
     <a class="hero-anchor" href="${base}products/hekv-661a.html">
       <span class="hero-anchor-hot">🔥 HOT</span>
       <span class="hero-anchor-inner">
-        <img src="${base}assets/img/HEKV-661A.jpg" alt="6.5 inch speaker" loading="lazy">
+        <img src="${base}assets/img/HEKV-661A.webp" alt="6.5 inch speaker" loading="lazy">
         <span class="hero-anchor-info">
           <span class="sku">HEKV-661A</span>
           <span class="hero-anchor-name" data-sku="HEKV-661A">Speaker 6.5 Inci</span>
@@ -243,7 +243,7 @@ function buildIndex() {
       <div class="marquee-track">
         ${(() => {
           const MQ = ['HEKV-661A','CQS-CX08','CQS-C19','HED-080','PG-WHT-02B','TBOX-PL','YH-333','HEKV-661B','HEKV-661C','HEKV-661D','HEKV-661E','HEKV-661F'];
-          const items = MQ.concat(MQ).map(sku => `<a class="mq-item" href="${base}products/${sku.toLowerCase()}.html" title="${sku}"><img src="${base}assets/img/${sku}.jpg" alt="${sku}" loading="lazy"></a>`);
+          const items = MQ.concat(MQ).map(sku => `<a class="mq-item" href="${base}products/${sku.toLowerCase()}.html" title="${sku}"><img src="${base}assets/img/${sku}.webp" alt="${sku}" loading="lazy"></a>`);
           return items.join('');
         })()}
       </div>
@@ -306,7 +306,7 @@ function buildIndex() {
   <section class="faq reveal" id="faq">
     <h2 class="section-title" data-i18n="faqTitle">Pertanyaan Umum</h2>
     <div class="faq-list">
-      ${SITE.faq.map((f, i) => `<details class="faq-item"><summary data-faq-q="${i}">${esc(f.q.id)}</summary><p data-faq-a="${i}">${esc(f.a.id)}</p></details>`).join('')}
+      ${SITE.faq.map((f, i) => `<details class="faq-item"${i < 2 ? ' open' : ''}><summary data-faq-q="${i}">${esc(f.q.id)}</summary><p data-faq-a="${i}">${esc(f.a.id)}</p></details>`).join('')}
     </div>
   </section>
 

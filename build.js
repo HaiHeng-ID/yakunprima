@@ -467,7 +467,7 @@ function buildDetail(p) {
       </div>
       <h1 data-sku="${esc(p.sku)}">${esc(pName(p, 'id'))}</h1>
       <div class="d-price">
-        ${p.price ? `<span class="price">${rp(p.price)}</span><span class="price-note" data-i18n="priceNote">Harga grosir ref.</span>` : `<span class="price price-na" data-i18n="quoteNow">Minta Penawaran</span>`}
+        ${p.price ? `<span class="price" id="dPrice">${rp(p.price)}</span><span class="price-note" data-i18n="priceNote">Harga grosir ref.</span>` : `<span class="price price-na" id="dPrice" data-i18n="quoteNow">Minta Penawaran</span>`}
       </div>
       <div class="d-facts">
         ${p.qty ? `<div class="fact"><span data-i18n="packing">Isi Karton</span><b>${p.qty} pcs</b></div>` : ''}
@@ -478,7 +478,7 @@ function buildDetail(p) {
       <div class="d-variants">
         <span class="v-label">Varian</span>
         <div class="v-btns">
-          ${p.variants.map((v, i) => `<button class="v-btn ${i === 0 ? 'active' : ''}" data-var-img="${esc(v.image)}" data-var-qty="${v.qty}" data-var-label='${JSON.stringify(v.label)}'>${esc(v.label.id)}</button>`).join('')}
+          ${p.variants.map((v, i) => `<button class="v-btn ${i === 0 ? 'active' : ''}" data-var-img="${esc(v.image)}" data-var-qty="${v.qty}" data-var-price="${v.price || 0}" data-var-label='${JSON.stringify(v.label)}'>${esc(v.label.id)}</button>`).join('')}
         </div>
       </div>` : ''}
       <div class="d-cta">

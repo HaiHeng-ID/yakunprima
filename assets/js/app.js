@@ -361,6 +361,12 @@
       const qty = vbtn.getAttribute('data-var-qty');
       const addBtn = $('[data-addquote]');
       if (addBtn && qty) addBtn.setAttribute('data-qty', qty);
+      const price = +vbtn.getAttribute('data-var-price') || 0;
+      const priceEl = $('#dPrice');
+      if (priceEl) {
+        if (price > 0) { priceEl.textContent = rupiah(price); priceEl.classList.remove('price-na'); }
+        else { priceEl.textContent = t('quoteNow'); priceEl.classList.add('price-na'); }
+      }
       return;
     }
   });

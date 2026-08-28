@@ -152,11 +152,11 @@
    "slug": "hekv-661a",
    "category": "speaker",
    "name": {
-    "zh": "6.5寸音响 款式A",
+    "zh": "6.5寸音响",
     "en": "6.5\" Speaker Model A",
-    "id": "Speaker 6.5 Inci"
+    "id": "Speaker 6,5 inci"
    },
-   "price": 75600,
+   "price": 85000,
    "moq": 16,
    "qty": 16,
    "weight": "0.9095kg",
@@ -200,11 +200,11 @@
    "slug": "hekv-661b",
    "category": "speaker",
    "name": {
-    "zh": "6.5寸音响 款式B",
+    "zh": "6.5寸音响",
     "en": "6.5\" Speaker Model B",
-    "id": "Speaker 6.5 Inci"
+    "id": "Speaker 6,5 inci"
    },
-   "price": 75600,
+   "price": 85000,
    "moq": 16,
    "qty": 16,
    "weight": "1.0444kg",
@@ -248,11 +248,11 @@
    "slug": "hekv-661c",
    "category": "speaker",
    "name": {
-    "zh": "6.5寸音响 款式C",
+    "zh": "6.5寸音响",
     "en": "6.5\" Speaker Model C",
-    "id": "Speaker 6.5 Inci"
+    "id": "Speaker 6,5 inci"
    },
-   "price": 75600,
+   "price": 85000,
    "moq": 16,
    "qty": 16,
    "weight": "0.9342kg",
@@ -296,11 +296,11 @@
    "slug": "hekv-661d",
    "category": "speaker",
    "name": {
-    "zh": "6.5寸音响 款式D",
+    "zh": "6.5寸音响",
     "en": "6.5\" Speaker Model D",
-    "id": "Speaker 6.5 Inci"
+    "id": "Speaker 6,5 inci"
    },
-   "price": 75600,
+   "price": 85000,
    "moq": 16,
    "qty": 16,
    "weight": "0.9139kg",
@@ -344,11 +344,11 @@
    "slug": "hekv-661e",
    "category": "speaker",
    "name": {
-    "zh": "6.5寸音响 款式E",
+    "zh": "6.5寸音响",
     "en": "6.5\" Speaker Model E",
-    "id": "Speaker 6.5 Inci"
+    "id": "Speaker 6,5 inci"
    },
-   "price": 75600,
+   "price": 85000,
    "moq": 16,
    "qty": 16,
    "weight": "1.0116kg",
@@ -392,11 +392,11 @@
    "slug": "hekv-661f",
    "category": "speaker",
    "name": {
-    "zh": "6.5寸音响 款式F",
+    "zh": "6.5寸音响",
     "en": "6.5\" Speaker Model F",
-    "id": "Speaker 6.5 Inci"
+    "id": "Speaker 6,5 inci"
    },
-   "price": 75600,
+   "price": 85000,
    "moq": 16,
    "qty": 16,
    "weight": "1.0078kg",
@@ -442,9 +442,9 @@
    "name": {
     "zh": "8寸音响 款式A",
     "en": "8\" Speaker Model A",
-    "id": "Speaker 8 Inci Model A"
+    "id": "Speaker 8 inci model A"
    },
-   "price": 190000,
+   "price": 230000,
    "moq": 12,
    "qty": 12,
    "weight": "1.5341kg",
@@ -490,9 +490,9 @@
    "name": {
     "zh": "8寸音响 款式B",
     "en": "8\" Speaker Model B",
-    "id": "Speaker 8 Inci Model B"
+    "id": "Speaker 8 inci model B"
    },
-   "price": 190000,
+   "price": 230000,
    "moq": 12,
    "qty": 12,
    "weight": "1.6987kg",
@@ -538,9 +538,9 @@
    "name": {
     "zh": "8寸音响 款式C",
     "en": "8\" Speaker Model C",
-    "id": "Speaker 8 Inci Model C"
+    "id": "Speaker 8 inci model C"
    },
-   "price": 190000,
+   "price": 230000,
    "moq": 12,
    "qty": 12,
    "weight": "1.6604kg",
@@ -586,9 +586,9 @@
    "name": {
     "zh": "8寸音响 款式D",
     "en": "8\" Speaker Model D",
-    "id": "Speaker 8 Inci Model D"
+    "id": "Speaker 8 inci model D"
    },
-   "price": 190000,
+   "price": 230000,
    "moq": 0,
    "qty": 0,
    "weight": "",
@@ -634,9 +634,9 @@
    "name": {
     "zh": "8寸音响 款式E",
     "en": "8\" Speaker Model E",
-    "id": "Speaker 8 Inci Model E"
+    "id": "Speaker 8 inci model E"
    },
-   "price": 190000,
+   "price": 230000,
    "moq": 10,
    "qty": 10,
    "weight": "1.8072kg",
@@ -682,9 +682,9 @@
    "name": {
     "zh": "8寸音响 款式F",
     "en": "8\" Speaker Model F",
-    "id": "Speaker 8 Inci Model F"
+    "id": "Speaker 8 inci model F"
    },
-   "price": 190000,
+   "price": 230000,
    "moq": 10,
    "qty": 10,
    "weight": "1.8192kg",
@@ -730,9 +730,9 @@
    "name": {
     "zh": "6.8寸音响",
     "en": "6.8\" Speaker",
-    "id": "Speaker 6.8 Inci"
+    "id": "Speaker 6,8 inci"
    },
-   "price": 75600,
+   "price": 100000,
    "moq": 16,
    "qty": 16,
    "weight": "1.1305kg",
@@ -3964,9 +3964,9 @@
    "name": {
     "zh": "40w头灯",
     "en": "40W Headlamp",
-    "id": "Lampu Kepala 40W"
+    "id": "Headlamp 40W"
    },
-   "price": 19700,
+   "price": 22000,
    "moq": 150,
    "qty": 150,
    "weight": "0.075kg",
@@ -4066,9 +4066,9 @@
    "name": {
     "zh": "80w头灯",
     "en": "80W Headlamp",
-    "id": "Lampu Kepala 80W"
+    "id": "Headlamp 80W"
    },
-   "price": 34500,
+   "price": 36000,
    "moq": 120,
    "qty": 120,
    "weight": "0.2049kg",
@@ -4122,7 +4122,7 @@
     "en": "Solar Light",
     "id": "Lampu Tenaga Surya"
    },
-   "price": 0,
+   "price": 37000,
    "moq": 0,
    "qty": 0,
    "weight": "",
@@ -4157,7 +4157,8 @@
      },
      "qty": 120,
      "weight": "0.1721kg",
-     "image": "HEDS-120.webp"
+     "image": "HEDS-120.webp",
+     "price": 37000
     }
    ]
   },
@@ -4170,7 +4171,7 @@
     "en": "Bread Light",
     "id": "Lampu Roti"
    },
-   "price": 0,
+   "price": 71000,
    "moq": 0,
    "qty": 0,
    "weight": "",
@@ -4195,7 +4196,8 @@
      },
      "qty": 50,
      "weight": "",
-     "image": "HEDY-800.webp"
+     "image": "HEDY-800.webp",
+     "price": 71000
     },
     {
      "sku": "HEDY-1000",
@@ -4206,7 +4208,8 @@
      },
      "qty": 50,
      "weight": "",
-     "image": "HEDY-1000.webp"
+     "image": "HEDY-1000.webp",
+     "price": 87000
     }
    ]
   },
@@ -4271,9 +4274,9 @@
    "name": {
     "zh": "水泵 白色",
     "en": "Water Pump White",
-    "id": "Pompa Air Putih"
+    "id": "Pompa air galon putih"
    },
-   "price": 22500,
+   "price": 24000,
    "moq": 84,
    "qty": 84,
    "weight": "0.2201kg",
@@ -4317,11 +4320,11 @@
    "slug": "pg-wht-02b",
    "category": "pump",
    "name": {
-    "zh": "水泵折叠单钮",
-    "en": "Foldable Water Pump (Single Button)",
-    "id": "Pompa Air Lipat Tombol Tunggal"
+    "zh": "水泵折叠单钮黑色",
+    "en": "Foldable Water Pump Single Button Black",
+    "id": "Pompa air galon lipat satu tombol hitam"
    },
-   "price": 31800,
+   "price": 34000,
    "moq": 60,
    "qty": 60,
    "weight": "0.2087kg",
@@ -4365,11 +4368,11 @@
    "slug": "pg-wht-02w",
    "category": "pump",
    "name": {
-    "zh": "水泵折叠单钮",
-    "en": "Foldable Water Pump (Single Button)",
-    "id": "Pompa Air Lipat Tombol Tunggal"
+    "zh": "水泵折叠单钮白色",
+    "en": "Foldable Water Pump Single Button White",
+    "id": "Pompa air galon lipat satu tombol putih"
    },
-   "price": 31800,
+   "price": 34000,
    "moq": 60,
    "qty": 60,
    "weight": "0.21kg",
@@ -4413,11 +4416,11 @@
    "slug": "pg-wht-03b",
    "category": "pump",
    "name": {
-    "zh": "水泵双按钮",
-    "en": "Water Pump (Dual Button)",
-    "id": "Pompa Air Tombol Ganda"
+    "zh": "水泵双钮黑色",
+    "en": "Water Pump Dual Button Black",
+    "id": "Pompa air galon dua tombol hitam"
    },
-   "price": 31800,
+   "price": 34000,
    "moq": 60,
    "qty": 60,
    "weight": "0.185kg",
@@ -4462,10 +4465,10 @@
    "category": "pump",
    "name": {
     "zh": "水泵双钮白色",
-    "en": "Water Pump (Dual Button) White",
-    "id": "Pompa Air Tombol Ganda Putih"
+    "en": "Water Pump Dual Button White",
+    "id": "Pompa air galon dua tombol putih"
    },
-   "price": 31800,
+   "price": 34000,
    "moq": 60,
    "qty": 60,
    "weight": "0.187kg",
@@ -4509,11 +4512,11 @@
    "slug": "pg-wht-04b",
    "category": "pump",
    "name": {
-    "zh": "便携式抽水泵 黑色",
-    "en": "Portable Water Pump Black",
-    "id": "Pompa Air Portabel Hitam"
+    "zh": "水泵单钮黑色",
+    "en": "Water Pump Single Button Black",
+    "id": "Pompa air galon satu tombol hitam"
    },
-   "price": 31800,
+   "price": 34000,
    "moq": 60,
    "qty": 60,
    "weight": "0.184kg",
@@ -4557,11 +4560,11 @@
    "slug": "pg-wht-04w",
    "category": "pump",
    "name": {
-    "zh": "便携式抽水泵 白色",
-    "en": "Portable Water Pump White",
-    "id": "Pompa Air Portabel Putih"
+    "zh": "水泵单钮白色",
+    "en": "Water Pump Single Button White",
+    "id": "Pompa air galon satu tombol putih"
    },
-   "price": 31800,
+   "price": 34000,
    "moq": 60,
    "qty": 60,
    "weight": "0.184kg",
@@ -4607,9 +4610,9 @@
    "name": {
     "zh": "纸巾盒 透明色",
     "en": "Tissue Box Transparent",
-    "id": "Kotak Tisu Transparan"
+    "id": "Kotak tisu transparan"
    },
-   "price": 20600,
+   "price": 22000,
    "moq": 24,
    "qty": 24,
    "weight": "0.2916kg",
@@ -4646,9 +4649,9 @@
    "name": {
     "zh": "纸巾盒 咖啡色",
     "en": "Tissue Box Coffee",
-    "id": "Kotak Tisu Kopi"
+    "id": "Kotak tisu cokelat"
    },
-   "price": 20600,
+   "price": 22000,
    "moq": 24,
    "qty": 24,
    "weight": "0.295kg",
@@ -4685,9 +4688,9 @@
    "name": {
     "zh": "纸巾盒 绿色",
     "en": "Tissue Box Green",
-    "id": "Kotak Tisu Hijau"
+    "id": "Kotak tisu hijau"
    },
-   "price": 20600,
+   "price": 22000,
    "moq": 24,
    "qty": 24,
    "weight": "0.2947kg",
@@ -4722,11 +4725,11 @@
    "slug": "yh-333",
    "category": "iron",
    "name": {
-    "zh": "熨斗",
-    "en": "Handheld Iron",
-    "id": "Setrika"
+    "zh": "干式熨斗",
+    "en": "Dry Iron",
+    "id": "Setrika kering"
    },
-   "price": 71700,
+   "price": 81000,
    "moq": 20,
    "qty": 20,
    "weight": "0.5582kg",
@@ -4770,11 +4773,11 @@
    "slug": "yh-666",
    "category": "iron",
    "name": {
-    "zh": "熨斗",
-    "en": "Handheld Iron",
-    "id": "Setrika"
+    "zh": "干式熨斗",
+    "en": "Dry Iron",
+    "id": "Setrika kering"
    },
-   "price": 71700,
+   "price": 81000,
    "moq": 20,
    "qty": 20,
    "weight": "0.5758kg",

@@ -297,9 +297,9 @@
           method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
           body: JSON.stringify({ nama, kontak, pesan, lang }),
         }).then(r => {
-          if (r.ok) { show(t('formSuccess'), true); form.reset(); }
-          else show(t('formError'), false);
-        }).catch(() => show(t('formError'), false));
+          if (r.ok) { form.classList.remove('form-error'); show('✅ ' + t('formSuccess'), true); form.reset(); }
+          else { form.classList.add('form-error'); show('⚠️ ' + t('formError'), false); }
+        }).catch(() => { form.classList.add('form-error'); show('⚠️ ' + t('formError'), false); });
       } else {
         const text = `【官网·表单】Halo, saya ${nama} (${kontak}).\n${pesan}`;
         window.open('https://wa.me/' + WA + '?text=' + encodeURIComponent(text), '_blank');
@@ -361,6 +361,12 @@
       const qty = vbtn.getAttribute('data-var-qty');
       const addBtn = $('[data-addquote]');
       if (addBtn && qty) addBtn.setAttribute('data-qty', qty);
+      const price = +vbtn.getAttribute('data-var-price') || 0;
+      const priceEl = $('#dPrice');
+      if (priceEl) {
+        if (price > 0) { priceEl.textContent = rupiah(price); priceEl.classList.remove('price-na'); }
+        else { priceEl.textContent = t('quoteNow'); priceEl.classList.add('price-na'); }
+      }
       return;
     }
   });

@@ -470,9 +470,9 @@ function buildDetail(p) {
         ${p.price ? `<span class="price" id="dPrice">${rp(p.price)}</span><span class="price-note" data-i18n="priceNote">Harga grosir ref.</span>` : `<span class="price price-na" id="dPrice" data-i18n="quoteNow">Minta Penawaran</span>`}
       </div>
       <div class="d-facts">
-        ${p.qty ? `<div class="fact"><span data-i18n="packing">Isi Karton</span><b>${p.qty} pcs</b></div>` : ''}
+        ${p.qty ? `<div class="fact"><span data-i18n="packing">Isi Karton</span><b id="dQty">${p.qty} pcs</b></div>` : ''}
         ${p.moq ? `<div class="fact"><span data-i18n="moq">Min. Order</span><b>${p.moq} pcs</b></div>` : ''}
-        ${p.weight ? `<div class="fact"><span data-i18n="weight">Berat</span><b>${esc(p.weight)}</b></div>` : ''}
+        ${p.weight ? `<div class="fact"><span data-i18n="weight">Berat</span><b id="dWeight">${esc(p.weight)}</b></div>` : ''}
       </div>
       ${p.variants ? `
       <div class="d-variants">

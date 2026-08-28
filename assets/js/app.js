@@ -73,7 +73,7 @@
       const name = p ? pName(p) : item.sku;
       return `
       <div class="cart-item" data-cart-item="${esc(item.sku)}">
-        ${img ? `<img src="${esc(img)}" alt="" onerror="this.style.visibility='hidden'">` : ''}
+        ${img ? `<img src="${esc(img)}" alt="${esc(name)}" onerror="this.style.visibility='hidden'">` : ''}
         <div class="cart-item-info">
           <div class="cart-item-name">${esc(name)}</div>
           <div class="cart-item-sku">${esc(item.sku)}</div>
@@ -357,10 +357,12 @@
       $$('.v-btn').forEach(x => x.classList.toggle('active', x === vbtn));
       const img = vbtn.getAttribute('data-var-img');
       const main = $('#mainImg');
-      if (main && img) main.src = B + 'assets/img/' + img;
+      if (main && img) { main.onerror = () => { main.src = B + 'assets/img/fallback.svg'; }; main.src = B + 'assets/img/' + img; }
       const qty = vbtn.getAttribute('data-var-qty');
       const addBtn = $('[data-addquote]');
       if (addBtn && qty) addBtn.setAttribute('data-qty', qty);
+      const dQty = $('#dQty');
+      if (dQty && qty) dQty.textContent = qty + ' pcs';
       const price = +vbtn.getAttribute('data-var-price') || 0;
       const priceEl = $('#dPrice');
       if (priceEl) {

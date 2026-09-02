@@ -255,7 +255,8 @@
       "quoteDocDate": "报价日期",
       "quoteDocCustomer": "客户名称",
       "quoteDocTotal": "合计",
-      "quoteDocTotalQty": "数量合计"
+      "quoteDocTotalQty": "数量合计",
+      "noResult": "没有找到匹配的产品，换个关键词试试"
     },
     "en": {
       "navHome": "Home",
@@ -360,7 +361,8 @@
       "quoteDocDate": "Date",
       "quoteDocCustomer": "Customer",
       "quoteDocTotal": "TOTAL",
-      "quoteDocTotalQty": "Total Qty"
+      "quoteDocTotalQty": "Total Qty",
+      "noResult": "No matching products — try another keyword"
     },
     "id": {
       "navHome": "Beranda",
@@ -465,7 +467,8 @@
       "quoteDocDate": "Tanggal",
       "quoteDocCustomer": "Nama Pelanggan",
       "quoteDocTotal": "TOTAL",
-      "quoteDocTotalQty": "Total Qty"
+      "quoteDocTotalQty": "Total Qty",
+      "noResult": "Tidak ada produk yang cocok — coba kata kunci lain"
     }
   }
 }

@@ -374,6 +374,7 @@ function buildCatalog() {
   const minis = products.map(p => ({
     sku: p.sku, slug: p.slug, name: p.name, price: p.price, qty: p.qty, moq: p.moq,
     stock: p.stock, label: p.label, img: pImg(p), category: p.category,
+    specText: [p.specs.zh, p.specs.en, p.specs.id].map(x => x.join(' ')).join(' '),
   }));
   html += scripts(pageData({ products: minis, page: 'catalog', base: '' }), base);
   html += '</body></html>';
@@ -419,6 +420,7 @@ function buildCategory(c) {
   const minis = prods.map(p => ({
     sku: p.sku, slug: p.slug, name: p.name, price: p.price, qty: p.qty, moq: p.moq,
     stock: p.stock, label: p.label, img: pImg(p), category: p.category,
+    specText: [p.specs.zh, p.specs.en, p.specs.id].map(x => x.join(' ')).join(' '),
   }));
   html += scripts(pageData({ products: minis, page: 'category', catId: c.id, base: '../' }), base);
   html += '</body></html>';

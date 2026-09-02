@@ -249,7 +249,13 @@
       "quoteNow": "立即询价",
       "crumbHome": "首页",
       "crumbProducts": "产品目录",
-      "soldout": "缺货"
+      "soldout": "缺货",
+      "quotePrint": "打印报价单",
+      "quoteDocTitle": "报价单 · QUOTATION",
+      "quoteDocDate": "报价日期",
+      "quoteDocCustomer": "客户名称",
+      "quoteDocTotal": "合计",
+      "quoteDocTotalQty": "数量合计"
     },
     "en": {
       "navHome": "Home",
@@ -348,7 +354,13 @@
       "quoteNow": "Get Quote",
       "crumbHome": "Home",
       "crumbProducts": "Catalog",
-      "soldout": "Sold Out"
+      "soldout": "Sold Out",
+      "quotePrint": "Print Quotation",
+      "quoteDocTitle": "QUOTATION",
+      "quoteDocDate": "Date",
+      "quoteDocCustomer": "Customer",
+      "quoteDocTotal": "TOTAL",
+      "quoteDocTotalQty": "Total Qty"
     },
     "id": {
       "navHome": "Beranda",
@@ -447,7 +459,13 @@
       "quoteNow": "Minta Penawaran",
       "crumbHome": "Beranda",
       "crumbProducts": "Katalog",
-      "soldout": "Stok Kosong"
+      "soldout": "Stok Kosong",
+      "quotePrint": "Cetak Penawaran",
+      "quoteDocTitle": "QUOTATION · PENAWARAN",
+      "quoteDocDate": "Tanggal",
+      "quoteDocCustomer": "Nama Pelanggan",
+      "quoteDocTotal": "TOTAL",
+      "quoteDocTotalQty": "Total Qty"
     }
   }
 }

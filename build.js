@@ -177,6 +177,7 @@ function cartPanel() {
       <button class="btn btn-ghost btn-sm" id="cartCopy" data-i18n="quoteCopy">Salin daftar</button>
       <button class="btn btn-ghost btn-sm" id="cartClear" data-i18n="quoteClear">Hapus</button>
     </div>
+    <button class="btn btn-ghost btn-sm" id="cartPrint" style="width:100%">🖨 <span data-i18n="quotePrint">Cetak Penawaran</span></button>
     <p class="cart-note" data-i18n="quoteNote">Dihitung per isi karton; harga sesuai penawaran</p>
   </div>
 </aside>`;

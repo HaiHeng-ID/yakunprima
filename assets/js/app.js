@@ -395,10 +395,63 @@
   const menuBtn = $('#menuBtn');
   if (menuBtn) menuBtn.addEventListener('click', () => $('#nav').classList.toggle('open'));
 
+  // ============ 打印报价单（在线报价表导出原型） ============
+  function printQuote() {
+    if (!cart.length) return;
+    const rows = cart.map((item, i) => {
+      const p = prods[item.sku];
+      const price = (p && p.price) || 0;
+      const subtotal = price ? price * item.qty : 0;
+      return { no: i + 1, sku: item.sku, name: p ? pName(p) : item.sku, qty: item.qty, price, subtotal };
+    });
+    const total = rows.reduce((s, r) => s + r.subtotal, 0);
+    const totalQty = rows.reduce((s, r) => s + r.qty, 0);
+    const today = new Date().toISOString().slice(0, 10);
+    const fmt = n => 'Rp ' + Number(n).toLocaleString('id-ID');
+    const escQ = s => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    const brand = D.brand || {};
+    const body = rows.map(r => `<tr>
+        <td style="padding:7px 10px;border:1px solid #cbd5e1;text-align:center">${r.no}</td>
+        <td style="padding:7px 10px;border:1px solid #cbd5e1">${escQ(r.sku)}</td>
+        <td style="padding:7px 10px;border:1px solid #cbd5e1">${escQ(r.name)}</td>
+        <td style="padding:7px 10px;border:1px solid #cbd5e1;text-align:center">${r.qty}</td>
+        <td style="padding:7px 10px;border:1px solid #cbd5e1;text-align:right">${r.price ? fmt(r.price) : ''}</td>
+        <td style="padding:7px 10px;border:1px solid #cbd5e1;text-align:right">${r.subtotal ? fmt(r.subtotal) : ''}</td>
+      </tr>`).join('');
+    const html = `<!DOCTYPE html><html><head><meta charset="utf-8"><title>${escQ(t('quoteDocTitle'))}</title>
+<style>body{font-family:-apple-system,'Segoe UI',sans-serif;color:#0f172a;margin:0;padding:32px}@media print{body{padding:0}}
+.h{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:3px solid #0b2447;padding-bottom:14px}
+.h h1{font-size:22px;margin:0;color:#0b2447}.h .sub{font-size:12px;color:#64748b;margin-top:4px}
+.info{display:flex;gap:40px;margin:16px 0;font-size:13px;color:#334155}
+.info b{color:#0b2447}
+table{width:100%;border-collapse:collapse;font-size:12.5px;margin-top:10px}
+th{background:#0b2447;color:#fff;padding:8px 10px;border:1px solid #0b2447;text-align:left;font-size:12px}
+.tfoot td{font-weight:700;background:#fff3e8;border:1px solid #cbd5e1}
+.note{font-size:11px;color:#94a3b8;margin-top:14px;line-height:1.6}
+</style></head><body>
+<div class="h"><div><h1>${escQ(brand.fullName || '')}</h1><div class="sub">${escQ(t('quoteDocTitle'))}</div></div>
+<div style="text-align:right;font-size:12px;color:#334155"><div><b>${escQ(t('quoteDocDate'))}:</b> ${today}</div>
+<div style="margin-top:6px">WhatsApp: ${escQ(brand.waDisplay || '')}</div></div></div>
+<div class="info"><div><b>${escQ(t('quoteDocCustomer'))}:</b> ______________________</div></div>
+<table><thead><tr>
+<th style="text-align:center">NO</th><th>SKU</th><th>${escQ(t('detailSpecs'))}</th><th style="text-align:center">${escQ(t('quoteDocTotalQty'))}</th>
+<th style="text-align:right">${escQ(t('unitPrice'))}</th><th style="text-align:right">${escQ(t('quoteDocTotal'))}</th>
+</tr></thead><tbody>${body}</tbody>
+<tfoot><tr class="tfoot"><td colspan="4" style="text-align:right;font-weight:700">${escQ(t('quoteDocTotal'))}</td>
+<td style="text-align:center;font-weight:700">${totalQty}</td><td style="text-align:right;font-weight:700">${fmt(total)}</td></tr></tfoot></table>
+<div class="note">${escQ(t('quoteNote'))} · ${escQ(brand.waDisplay || '')}</div>
+<script>setTimeout(function(){window.print()},400)<\/script></body></html>`;
+    const w = window.open('', '_blank');
+    if (!w) { alert(t('quotePrint') + ': 请允许弹出窗口'); return; }
+    w.document.open(); w.document.write(html); w.document.close();
+  }
+
   const sendBtn = $('#cartSend');
   if (sendBtn) sendBtn.addEventListener('click', sendCartWA);
   const copyBtn = $('#cartCopy');
   if (copyBtn) copyBtn.addEventListener('click', copyCart);
+  const printBtn = $('#cartPrint');
+  if (printBtn) printBtn.addEventListener('click', printQuote);
   const clearBtn = $('#cartClear');
   if (clearBtn) clearBtn.addEventListener('click', () => { cart = []; saveCart(); renderCart(); });
 

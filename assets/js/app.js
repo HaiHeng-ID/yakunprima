@@ -257,7 +257,8 @@
       else if (catFilter !== 'all' && p.category !== catFilter) return false;
       if (stockFilter !== 'all' && p.stock !== stockFilter) return false;
       if (searchText) {
-        const hay = [p.sku, p.name.zh, p.name.en, p.name.id, p.category].join(' ').toLowerCase();
+        const hay = [p.sku, p.name.zh, p.name.en, p.name.id, p.category,
+                     p.specText || ''].join(' ').toLowerCase();
         if (!hay.includes(searchText)) return false;
       }
       return true;
@@ -266,7 +267,7 @@
     else if (sortMode === 'desc') list.sort((a, b) => (b.price || -1) - (a.price || -1));
     const rc = $('#resultCount');
     if (rc) rc.textContent = list.length;
-    grid.innerHTML = list.length ? list.map(cardHTML).join('') : `<p style="grid-column:1/-1;text-align:center;color:var(--muted);padding:40px 0">${esc(t('quoteEmpty'))}</p>`;
+    grid.innerHTML = list.length ? list.map(cardHTML).join('') : `<p style="grid-column:1/-1;text-align:center;color:var(--muted);padding:40px 0">${esc(t('noResult'))}</p>`;
   }
 
   // ============ 详情页 ============

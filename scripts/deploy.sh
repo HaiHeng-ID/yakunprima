@@ -25,8 +25,12 @@ git -C "$ROOT" worktree add "$WORK" gh-pages > /dev/null
 echo "③ 同步构建产物..."
 git -C "$WORK" rm -rq . || true
 cp -r "$ROOT/public/." "$WORK"
-# 域名绑定前不部署 CNAME（避免临时地址 301）；域名上线后注释此行并推送
-rm -f "$WORK/CNAME"
+# 域名绑定后部署 CNAME（KEEP_CNAME=1）；未绑定时删除避免临时地址 301
+if [ "${KEEP_CNAME:-0}" = "1" ]; then
+  echo "（保留 CNAME 用于域名绑定）"
+else
+  rm -f "$WORK/CNAME"
+fi
 
 echo "④ 提交并推送..."
 git -C "$WORK" add -A

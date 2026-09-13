@@ -9,7 +9,10 @@ const path = require('path');
 const DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'products.json'), 'utf8'));
 const SITE = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'site.json'), 'utf8'));
 const cats = DATA.categories;
-const products = DATA.products;
+// 已下架产品（hidden: true）不参与构建：不出现在目录/品类页/精选/详情页/sitemap/CSV
+const allProducts = DATA.products;
+const products = allProducts.filter(p => !p.hidden);
+const hiddenCount = allProducts.length - products.length;
 const brand = SITE.brand;
 const DOMAIN = 'https://yakunprima.com';
 const OUT = path.join(__dirname, 'public');
@@ -584,4 +587,5 @@ buildMisc();
 
 const total = 2 + cats.length + products.length + 5;
 console.log(`✅ 构建完成 → public/（${total} 个文件）`);
+if (hiddenCount) console.log(`   （已下架 ${hiddenCount} 款产品未包含）`);
 console.log(`   首页 / 目录页 / 品类页×${cats.length} / 详情页×${products.length} / sitemap / robots / 404 / CNAME / CSV`);

@@ -157,8 +157,8 @@
     "id": "Speaker 6,5 inci"
    },
    "price": 85000,
-   "moq": 16,
-   "qty": 16,
+   "moq": 8,
+   "qty": 8,
    "weight": "0.9095kg",
    "stock": "ready",
    "label": "hot",
@@ -205,8 +205,8 @@
     "id": "Speaker 6,5 inci"
    },
    "price": 85000,
-   "moq": 16,
-   "qty": 16,
+   "moq": 8,
+   "qty": 8,
    "weight": "1.0444kg",
    "stock": "ready",
    "label": "hot",
@@ -253,8 +253,8 @@
     "id": "Speaker 6,5 inci"
    },
    "price": 85000,
-   "moq": 16,
-   "qty": 16,
+   "moq": 8,
+   "qty": 8,
    "weight": "0.9342kg",
    "stock": "ready",
    "label": "hot",
@@ -301,8 +301,8 @@
     "id": "Speaker 6,5 inci"
    },
    "price": 85000,
-   "moq": 16,
-   "qty": 16,
+   "moq": 8,
+   "qty": 8,
    "weight": "0.9139kg",
    "stock": "ready",
    "label": "hot",
@@ -349,8 +349,8 @@
     "id": "Speaker 6,5 inci"
    },
    "price": 85000,
-   "moq": 16,
-   "qty": 16,
+   "moq": 8,
+   "qty": 8,
    "weight": "1.0116kg",
    "stock": "ready",
    "label": "hot",
@@ -397,8 +397,8 @@
     "id": "Speaker 6,5 inci"
    },
    "price": 85000,
-   "moq": 16,
-   "qty": 16,
+   "moq": 8,
+   "qty": 8,
    "weight": "1.0078kg",
    "stock": "ready",
    "label": "hot",
@@ -733,8 +733,8 @@
     "id": "Speaker 6,8 inci"
    },
    "price": 100000,
-   "moq": 16,
-   "qty": 16,
+   "moq": 8,
+   "qty": 8,
    "weight": "1.1305kg",
    "stock": "ready",
    "label": "hot",
@@ -769,210 +769,6 @@
    },
    "images": [
     "MSP-S01.webp"
-   ]
-  },
-  {
-   "sku": "SPHED-B",
-   "slug": "sphed-b",
-   "category": "speaker",
-   "name": {
-    "zh": "三角形音响  黑色",
-    "en": "Triangle Speaker Black",
-    "id": "Speaker Segitiga Hitam"
-   },
-   "price": 0,
-   "moq": 0,
-   "qty": 0,
-   "weight": "0.152kg",
-   "stock": "preorder",
-   "label": "new",
-   "specs": {
-    "zh": [
-     "材质：ABS+铁网",
-     "喇叭：3寸*1",
-     "功率：5W",
-     "电池：3.7V/1200mAh",
-     "蓝牙版本：5.0",
-     "功能：BT/USB/TF/FM/AUX/TWS/幻彩灯",
-     "充电：Type-C DC 5V",
-     "配件：Type-C充电线,说明书"
-    ],
-    "en": [
-     "Material: ABS+Iron Mesh",
-     "Speaker: 3\"*1",
-     "Power: 5W",
-     "Battery: 3.7V/1200mAh",
-     "Bluetooth Version: 5.0",
-     "Functions: BT/USB/TF/FM/AUX/TWS/RGB Light",
-     "Charging: Type-C DC 5V",
-     "Accessories: Type-C Charging Cable,Manual"
-    ],
-    "id": [
-     "Bahan: ABS + Jaring Besi",
-     "Speaker: 3 Inci*1",
-     "Daya: 5W",
-     "Baterai: 3.7V/1200mAh",
-     "Versi Bluetooth: 5.0",
-     "Fungsi: BT/USB/TF/FM/AUX/TWS/Lampu RGB",
-     "Pengisian: Type-C DC 5V",
-     "Aksesoris: Kabel Charger Type-C, Manual"
-    ]
-   },
-   "images": [
-    "SPHED-B.webp"
-   ]
-  },
-  {
-   "sku": "SPHED-K",
-   "slug": "sphed-k",
-   "category": "speaker",
-   "name": {
-    "zh": "三角形音响  绿",
-    "en": "Triangle Speaker Green",
-    "id": "Speaker Segitiga Hijau"
-   },
-   "price": 0,
-   "moq": 0,
-   "qty": 0,
-   "weight": "0.152kg",
-   "stock": "preorder",
-   "label": "new",
-   "specs": {
-    "zh": [
-     "材质：ABS+铁网",
-     "喇叭：3寸*1",
-     "功率：5W",
-     "电池：3.7V/1200mAh",
-     "蓝牙版本：5.0",
-     "功能：BT/USB/TF/FM/AUX/TWS/幻彩灯",
-     "充电：Type-C DC 5V",
-     "配件：Type-C充电线,说明书"
-    ],
-    "en": [
-     "Material: ABS+Iron Mesh",
-     "Speaker: 3\"*1",
-     "Power: 5W",
-     "Battery: 3.7V/1200mAh",
-     "Bluetooth Version: 5.0",
-     "Functions: BT/USB/TF/FM/AUX/TWS/RGB Light",
-     "Charging: Type-C DC 5V",
-     "Accessories: Type-C Charging Cable,Manual"
-    ],
-    "id": [
-     "Bahan: ABS + Jaring Besi",
-     "Speaker: 3 Inci*1",
-     "Daya: 5W",
-     "Baterai: 3.7V/1200mAh",
-     "Versi Bluetooth: 5.0",
-     "Fungsi: BT/USB/TF/FM/AUX/TWS/Lampu RGB",
-     "Pengisian: Type-C DC 5V",
-     "Aksesoris: Kabel Charger Type-C, Manual"
-    ]
-   },
-   "images": [
-    "SPHED-K.webp"
-   ]
-  },
-  {
-   "sku": "SPHED-O",
-   "slug": "sphed-o",
-   "category": "speaker",
-   "name": {
-    "zh": "三角形音响   橙",
-    "en": "Triangle Speaker Orange",
-    "id": "Speaker Segitiga Oranye"
-   },
-   "price": 0,
-   "moq": 0,
-   "qty": 0,
-   "weight": "0.152kg",
-   "stock": "preorder",
-   "label": "new",
-   "specs": {
-    "zh": [
-     "材质：ABS+铁网",
-     "喇叭：3寸*1",
-     "功率：5W",
-     "电池：3.7V/1200mAh",
-     "蓝牙版本：5.0",
-     "功能：BT/USB/TF/FM/AUX/TWS/幻彩灯",
-     "充电：Type-C DC 5V",
-     "配件：Type-C充电线,说明书"
-    ],
-    "en": [
-     "Material: ABS+Iron Mesh",
-     "Speaker: 3\"*1",
-     "Power: 5W",
-     "Battery: 3.7V/1200mAh",
-     "Bluetooth Version: 5.0",
-     "Functions: BT/USB/TF/FM/AUX/TWS/RGB Light",
-     "Charging: Type-C DC 5V",
-     "Accessories: Type-C Charging Cable,Manual"
-    ],
-    "id": [
-     "Bahan: ABS + Jaring Besi",
-     "Speaker: 3 Inci*1",
-     "Daya: 5W",
-     "Baterai: 3.7V/1200mAh",
-     "Versi Bluetooth: 5.0",
-     "Fungsi: BT/USB/TF/FM/AUX/TWS/Lampu RGB",
-     "Pengisian: Type-C DC 5V",
-     "Aksesoris: Kabel Charger Type-C, Manual"
-    ]
-   },
-   "images": [
-    "SPHED-O.webp"
-   ]
-  },
-  {
-   "sku": "SPHED-W",
-   "slug": "sphed-w",
-   "category": "speaker",
-   "name": {
-    "zh": "三角形音响  白",
-    "en": "Triangle Speaker White",
-    "id": "Speaker Segitiga Putih"
-   },
-   "price": 0,
-   "moq": 0,
-   "qty": 0,
-   "weight": "0.152kg",
-   "stock": "preorder",
-   "label": "new",
-   "specs": {
-    "zh": [
-     "材质：ABS+铁网",
-     "喇叭：3寸*1",
-     "功率：5W",
-     "电池：3.7V/1200mAh",
-     "蓝牙版本：5.0",
-     "功能：BT/USB/TF/FM/AUX/TWS/幻彩灯",
-     "充电：Type-C DC 5V",
-     "配件：Type-C充电线,说明书"
-    ],
-    "en": [
-     "Material: ABS+Iron Mesh",
-     "Speaker: 3\"*1",
-     "Power: 5W",
-     "Battery: 3.7V/1200mAh",
-     "Bluetooth Version: 5.0",
-     "Functions: BT/USB/TF/FM/AUX/TWS/RGB Light",
-     "Charging: Type-C DC 5V",
-     "Accessories: Type-C Charging Cable,Manual"
-    ],
-    "id": [
-     "Bahan: ABS + Jaring Besi",
-     "Speaker: 3 Inci*1",
-     "Daya: 5W",
-     "Baterai: 3.7V/1200mAh",
-     "Versi Bluetooth: 5.0",
-     "Fungsi: BT/USB/TF/FM/AUX/TWS/Lampu RGB",
-     "Pengisian: Type-C DC 5V",
-     "Aksesoris: Kabel Charger Type-C, Manual"
-    ]
-   },
-   "images": [
-    "SPHED-W.webp"
    ]
   },
   {
@@ -1894,7 +1690,8 @@
    },
    "images": [
     "CQS-CX01.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-CX02",
@@ -1942,7 +1739,8 @@
    },
    "images": [
     "CQS-CX02.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-CX03",
@@ -1990,7 +1788,8 @@
    },
    "images": [
     "CQS-CX03.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-CX04",
@@ -2038,7 +1837,8 @@
    },
    "images": [
     "CQS-CX04.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-CX05",
@@ -2086,7 +1886,8 @@
    },
    "images": [
     "CQS-CX05.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-CX06",
@@ -2134,7 +1935,8 @@
    },
    "images": [
     "CQS-CX06.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-CX07",
@@ -2182,7 +1984,8 @@
    },
    "images": [
     "CQS-CX07.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-CX08",
@@ -2230,7 +2033,8 @@
    },
    "images": [
     "CQS-CX08.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X09-BK-CC",
@@ -2278,7 +2082,8 @@
    },
    "images": [
     "CQS-X09-BK-CC.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X09-PU-AC",
@@ -2326,7 +2131,8 @@
    },
    "images": [
     "CQS-X09-PU-AC.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X09-PU-CL",
@@ -2374,7 +2180,8 @@
    },
    "images": [
     "CQS-X09-PU-CL.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X10-BK-AC",
@@ -2422,7 +2229,8 @@
    },
    "images": [
     "CQS-X10-BK-AC.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X10-BK-AL",
@@ -2470,7 +2278,8 @@
    },
    "images": [
     "CQS-X10-BK-AL.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X10-BL-CC",
@@ -2518,7 +2327,8 @@
    },
    "images": [
     "CQS-X10-BL-CC.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X10-BL-CL",
@@ -2566,7 +2376,8 @@
    },
    "images": [
     "CQS-X10-BL-CL.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X11-BL-AC",
@@ -2614,7 +2425,8 @@
    },
    "images": [
     "CQS-X11-BL-AC.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X11-BL-CC",
@@ -2662,7 +2474,8 @@
    },
    "images": [
     "CQS-X11-BL-CC.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X11-OR-AL",
@@ -2710,7 +2523,8 @@
    },
    "images": [
     "CQS-X11-OR-AL.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X11-OR-CL",
@@ -2758,7 +2572,8 @@
    },
    "images": [
     "CQS-X11-OR-CL.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X12-BK-CL",
@@ -2806,7 +2621,8 @@
    },
    "images": [
     "CQS-X12-BK-CL.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X12-OR-AC",
@@ -2854,7 +2670,8 @@
    },
    "images": [
     "CQS-X12-OR-AC.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X12-OR-AL",
@@ -2902,7 +2719,8 @@
    },
    "images": [
     "CQS-X12-OR-AL.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-X12-OR-CC",
@@ -2950,7 +2768,8 @@
    },
    "images": [
     "CQS-X12-OR-CC.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C09",
@@ -2998,7 +2817,8 @@
    },
    "images": [
     "CQS-C09.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C10",
@@ -3046,7 +2866,8 @@
    },
    "images": [
     "CQS-C10.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C11",
@@ -3094,7 +2915,8 @@
    },
    "images": [
     "CQS-C11.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C12",
@@ -3139,7 +2961,8 @@
    },
    "images": [
     "CQS-C12.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C13",
@@ -3187,7 +3010,8 @@
    },
    "images": [
     "CQS-C13.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C14",
@@ -3235,7 +3059,8 @@
    },
    "images": [
     "CQS-C14.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C15",
@@ -3283,7 +3108,8 @@
    },
    "images": [
     "CQS-C15.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C16",
@@ -3331,7 +3157,8 @@
    },
    "images": [
     "CQS-C16.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C17",
@@ -3379,7 +3206,8 @@
    },
    "images": [
     "CQS-C17.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C18",
@@ -3427,7 +3255,8 @@
    },
    "images": [
     "CQS-C18.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C19",
@@ -3475,7 +3304,8 @@
    },
    "images": [
     "CQS-C19.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C20",
@@ -3520,7 +3350,8 @@
    },
    "images": [
     "CQS-C20.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C21",
@@ -3571,7 +3402,8 @@
    },
    "images": [
     "CQS-C21.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C23",
@@ -3619,7 +3451,8 @@
    },
    "images": [
     "CQS-C23.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C25",
@@ -3667,7 +3500,8 @@
    },
    "images": [
     "CQS-C25.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C26",
@@ -3715,7 +3549,8 @@
    },
    "images": [
     "CQS-C26.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C27",
@@ -3763,7 +3598,8 @@
    },
    "images": [
     "CQS-C27.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "CQS-C28",
@@ -3811,7 +3647,8 @@
    },
    "images": [
     "CQS-C28.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "HED-015",
@@ -3910,54 +3747,6 @@
    ]
   },
   {
-   "sku": "HED-030",
-   "slug": "hed-030",
-   "category": "light",
-   "name": {
-    "zh": "30w头灯",
-    "en": "30W Headlamp",
-    "id": "Lampu Kepala 30W"
-   },
-   "price": 0,
-   "moq": 0,
-   "qty": 0,
-   "weight": "",
-   "stock": "preorder",
-   "label": "new",
-   "specs": {
-    "zh": [
-     "材质：铝合金+ABS",
-     "功率：30W",
-     "灯光模式：强光/弱光/爆闪/SOS",
-     "电池：18650 3.7V 2000mAh*2",
-     "充电方式：Type-C充电",
-     "防水等级：IPX5",
-     "配件：Type-C充电线,头带,收纳盒"
-    ],
-    "en": [
-     "Material: Aluminum Alloy+ABS",
-     "Power: 30W",
-     "Lighting Modes: Strong Light/Weak Light/Strobe/SOS",
-     "Battery: 18650 3.7V 2000mAh*2",
-     "Charging: Type-C Charging",
-     "Waterproof Rating: IPX5",
-     "Accessories: Type-C Charging Cable,Headband,Storage Case"
-    ],
-    "id": [
-     "Bahan: Aluminium Alloy+ABS",
-     "Daya: 30W",
-     "Mode Cahaya: Terang/Rendah/Strobe/SOS",
-     "Baterai: 18650 3.7V 2000mAh*2",
-     "Pengisian: Type-C",
-     "Tahan Air: IPX5",
-     "Aksesoris: Kabel Charger Type-C, Tali Kepala, Kotak"
-    ]
-   },
-   "images": [
-    "HED-030.webp"
-   ]
-  },
-  {
    "sku": "HED-040",
    "slug": "hed-040",
    "category": "light",
@@ -4006,57 +3795,6 @@
    },
    "images": [
     "HED-040.webp"
-   ]
-  },
-  {
-   "sku": "HED-050",
-   "slug": "hed-050",
-   "category": "light",
-   "name": {
-    "zh": "50w头灯",
-    "en": "50W Headlamp",
-    "id": "Lampu Kepala 50W"
-   },
-   "price": 0,
-   "moq": 0,
-   "qty": 0,
-   "weight": "0.2242kg",
-   "stock": "preorder",
-   "label": "new",
-   "specs": {
-    "zh": [
-     "材质：铝合金+ABS",
-     "功率：50W",
-     "灯光模式：强光/弱光/爆闪/SOS/侧灯",
-     "电池：18650 3.7V 3000mAh*2",
-     "充电方式：Type-C快充",
-     "防水等级：IPX5",
-     "感应模式：挥手感应开关",
-     "配件：Type-C充电线,头带,收纳盒"
-    ],
-    "en": [
-     "Material: Aluminum Alloy+ABS",
-     "Power: 50W",
-     "Lighting Modes: Strong Light/Weak Light/Strobe/SOS/Side Light",
-     "Battery: 18650 3.7V 3000mAh*2",
-     "Charging: Type-CFast Charging",
-     "Waterproof Rating: IPX5",
-     "Sensor Mode: Motion Sensor Switch",
-     "Accessories: Type-C Charging Cable,Headband,Storage Case"
-    ],
-    "id": [
-     "Bahan: Aluminium Alloy+ABS",
-     "Daya: 50W",
-     "Mode Cahaya: Terang/Rendah/Strobe/SOS/Lampu Samping",
-     "Baterai: 18650 3.7V 3000mAh*2",
-     "Pengisian: Type-C Fast Charging",
-     "Tahan Air: IPX5",
-     "Sensor: Sensor Gerak Tangan",
-     "Aksesoris: Kabel Charger Type-C, Tali Kepala, Kotak"
-    ]
-   },
-   "images": [
-    "HED-050.webp"
    ]
   },
   {
@@ -4277,8 +4015,8 @@
     "id": "Pompa air galon putih"
    },
    "price": 24000,
-   "moq": 84,
-   "qty": 84,
+   "moq": 100,
+   "qty": 100,
    "weight": "0.2201kg",
    "stock": "ready",
    "label": "",
@@ -4640,7 +4378,8 @@
    },
    "images": [
     "TBOX-PL.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "TBOX-PL-C",
@@ -4679,7 +4418,8 @@
    },
    "images": [
     "TBOX-PL-C.webp"
-   ]
+   ],
+   "hidden": true
   },
   {
    "sku": "TBOX-PL-H",

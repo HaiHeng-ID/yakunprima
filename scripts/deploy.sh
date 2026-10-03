@@ -25,11 +25,10 @@ git -C "$ROOT" worktree add "$WORK" gh-pages > /dev/null
 echo "③ 同步构建产物..."
 git -C "$WORK" rm -rq . || true
 cp -r "$ROOT/public/." "$WORK"
-# 域名绑定后部署 CNAME（KEEP_CNAME=1）；未绑定时删除避免临时地址 301
-if [ "${KEEP_CNAME:-0}" = "1" ]; then
-  echo "（保留 CNAME 用于域名绑定）"
-else
+# 域名已上线 yakunprima.com：默认保留 CNAME（删除会导致自定义域名失效）
+if [ "${NO_CNAME:-0}" = "1" ]; then
   rm -f "$WORK/CNAME"
+  echo "（已按 NO_CNAME=1 移除 CNAME）"
 fi
 
 echo "④ 提交并推送..."

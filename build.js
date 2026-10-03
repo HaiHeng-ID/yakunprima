@@ -8,11 +8,13 @@ const path = require('path');
 
 const DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'products.json'), 'utf8'));
 const SITE = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'site.json'), 'utf8'));
-const cats = DATA.categories;
 // 已下架产品（hidden: true）不参与构建：不出现在目录/品类页/精选/详情页/sitemap/CSV
 const allProducts = DATA.products;
 const products = allProducts.filter(p => !p.hidden);
 const hiddenCount = allProducts.length - products.length;
+// 自动隐藏"没有在售产品"的空品类（下架整个品类时，首页入口/导航/品类页自动消失）
+const catsAll = DATA.categories;
+const cats = catsAll.filter(c => products.some(p => p.category === c.id));
 const brand = SITE.brand;
 const DOMAIN = 'https://yakunprima.com';
 const OUT = path.join(__dirname, 'public');
